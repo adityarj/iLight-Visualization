@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="d3-v4-typed" type="javaScript">
+    <CLASSES />
+    <DOCUMENTATION>
+      <root url="https://github.com/tomwanzek/d3-v4-definitelytyped.git" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
