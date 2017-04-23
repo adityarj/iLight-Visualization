@@ -72,7 +72,6 @@ d3.csv("data/photoData.csv",function (i,data,columns) {
             return y(d.value);
         })
         .attr("fill",function (d) {
-            console.log(d);
             return z(d.key);
         })
         .attr("width",20);
