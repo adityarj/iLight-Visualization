@@ -2,7 +2,7 @@
  * Created by HP-PC on 20-04-2017.
  */
 var width = 960, height = 540;
-var margin = 20;
+var margin = 40;
 
 var svg = d3.select("#weeklyGraph")
             .append("svg")
@@ -53,7 +53,7 @@ d3.csv("data/photoData.csv",function (i,data,columns) {
     })));
 
     var g = svg.append("g")
-        .attr("transform","translate("+margin*1.7+",0)")
+        .attr("transform","translate("+margin*1.555+",0)")
         .selectAll("g")
         .data(d3.entries(processedData))
         .enter()
@@ -83,15 +83,31 @@ d3.csv("data/photoData.csv",function (i,data,columns) {
         .call(d3.axisBottom(x))
         .selectAll("text")
         .attr("class","axisLabels")
-        .attr("y", 0)
-        .attr("x", -400)
-        .attr("dy", ".35em")
-        .attr("transform", "rotate(90)");
+        .attr("y", function (d,i) {
+            return -490 + (d.length*8 + i%15*14);
+        })
+        .attr("x", 15)
+        .attr("dy", ".35em");
 
     var yaxs = svg.append("g")
         .attr("class","yaxis")
         .attr("transform","translate("+margin*1.5+",0)")
         .call(d3.axisLeft(y));
+
+    var legend = d3.select("#weeklyGraph")
+        .append("div")
+        .attr("class","labelShift")
+        .selectAll("div")
+        .data(d3.entries(processedData.marina))
+        .enter()
+        .append("div")
+        .text(function (d,i) {
+            return d.key;
+        })
+        .style("background-color",function (d,i) {
+            return z(d.key);
+        })
+        .attr("class","legend-weekly")
 
 });
 
