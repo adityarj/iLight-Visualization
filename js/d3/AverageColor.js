@@ -3,11 +3,18 @@
  */
 d3.csv("data/rgbVals.csv",function (error,data) {
 
-    var rgbArr = data.map(hexToRgb);
+    var rgbArr = data.map(function (d, i) {
+        console.log(d.r,d.g,d.b);
+        return {
+            rgb: [+d.r,+d.g,+d.b],
+            ind: d.file
+        };
+    });
+
     var sortedRgbArr = sortColors(rgbArr);
 
     var normalizedColor = sortedRgbArr.map(function (d,i) {
-        var hsl =  rgbToHsl(d[0],d[1],d[2]);
+        var hsl =  rgbToHsl(d.rgb[0],d.rgb[1],d.rgb[2]);
         return [hsl[0],1,0.5];
     });
 
@@ -15,29 +22,119 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         return hslToRgb(d[0],d[1],d[2]);
     });
 
-    d3.select("#averageColor")
+    var width = 1080, height = 500, margin = 20;
+
+    var svg = d3.select("#averageColor")
+        .append("svg")
+        .attr("width",width)
+        .attr("height",height);
+
+    var averageColorActual = svg.append("g")
+        .attr("transform","translate("+margin+","+margin*13+")");
+
+    averageColorActual
         .selectAll(".avgSquare")
         .data(sortedRgbArr)
         .enter()
-        .append("div")
+        .append("rect")
         .attr("class","avgSquare")
-        .style("background-color",function (d,i) {
-            return "rgb("+d[0]+","+d[1]+","+d[2]+")";
+        .attr("fill",function (d,i) {
+            return "rgb("+d.rgb[0]+","+d.rgb[1]+","+d.rgb[2]+")";
+        })
+        .attr("height",150)
+        .attr("width",0.815)
+        .attr("x",function (d,i) {
+            return i*0.815;
+        })
+        .on("mouseover",function (d,i) {
+            d3.select("#imageLink")
+                .attr("xlink:href","data/pics/"+d.ind+".jpg");
+
+            d3.select("#imageColor")
+                .attr("fill","rgb("+d.rgb[0]+","+d.rgb[1]+","+d.rgb[2]+")");
+
+            d3.select("#imageLabel")
+                .text("rgb("+d.rgb[0]+","+d.rgb[1]+","+d.rgb[2]+")");
         });
 
-    d3.select("#averageColor")
-        .append("div")
-        .text("seperator");
+    var averageColorScale = svg.append("g")
+        .attr("transform","translate("+margin+","+margin*21+")");
 
-    d3.select("#averageColor")
-        .selectAll(".avgReference")
+    averageColorScale
+        .selectAll(".referenceSquare")
         .data(finalNormalizedColor)
         .enter()
-        .append("div")
-        .attr("class","avgReference")
-        .style("background-color",function (d,i) {
+        .append("rect")
+        .attr("class","referenceSquare")
+        .attr("fill",function (d,i) {
             return "rgb("+d[0]+","+d[1]+","+d[2]+")";
+        })
+        .attr("height",10)
+        .attr("width",0.815)
+        .attr("x",function (d,i) {
+            return i*0.815;
         });
+
+    var positionMarkers = [278.54,631.625,869.155];
+
+    var labels = svg.append("g")
+        .attr("transform","translate(0,"+margin*23+")");
+
+    labels
+        .selectAll(".perMarkersRect")
+        .data(positionMarkers)
+        .enter()
+        .append("rect")
+        .attr("class","perMarkersRect")
+        .attr("x",function (d,i) {
+            return d;
+        })
+        .attr("width",1)
+        .attr("y",-margin * 1.3)
+        .attr("height",11)
+        .attr("fill","black");
+
+    labels
+        .selectAll(".perMarkers")
+        .data(positionMarkers)
+        .enter()
+        .append("text")
+        .attr("class","perMarkers")
+        .attr("x",function (d,i) {
+            return d - 6;
+        })
+        .text(function (d,i) {
+            return Math.round(d/(width - margin*2.0)*100) + " %";
+        });
+
+    labels.append("text")
+        .attr("x",(positionMarkers[0]+positionMarkers[1])/2 - 15)
+        .text("Blue");
+
+    labels.append("text")
+        .attr("x",(positionMarkers[1]+positionMarkers[2])/2 - 15)
+        .text("Purple");
+
+    var image = svg.append("g")
+        .attr("transform","translate("+margin+","+margin+")");
+
+    image.append("image")
+        .attr("id","imageLink")
+        .attr("xlink:href","data/pics/249.jpg")
+        .attr("width",350);
+
+    image.append("rect")
+        .attr("x",360)
+        .attr("id","imageColor")
+        .attr("width",200)
+        .attr("height",100)
+        .attr("fill","rgb("+88+","+78+","+115+")");
+
+    image.append("text")
+        .attr("id","imageLabel")
+        .attr("x",370)
+        .attr("y",120)
+        .text("rgb(88,78,115)");
 
 });
 
@@ -48,7 +145,7 @@ function hexToRgb(hex) {
 var balance = [0, 0, 1];
 function sortColors(colors) {
     colors.sort(function (a,b) {
-        return rgbToHsl(a[0],a[1],a[2])[0] - rgbToHsl(b[0],b[1],b[2])[0];
+        return rgbToHsl(a.rgb[0],a.rgb[1],a.rgb[2])[0] - rgbToHsl(b.rgb[0],b.rgb[1],b.rgb[2])[0];
     });
     return colors;
 }
@@ -122,7 +219,5 @@ function hslToRgb(hue, saturation, lightness){
     green += lightnessAdjustment;
     blue += lightnessAdjustment;
 
-
     return [Math.round(red * 255), Math.round(green * 255), Math.round(blue * 255)];
-
 }
