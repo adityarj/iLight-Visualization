@@ -4,45 +4,51 @@
 d3.csv("data/rgbVals.csv",function (error,data) {
 
     var rgbArr = data.map(hexToRgb);
-    var tempArr = [[148, 0, 211],[255, 255, 0],[0, 0, 255],[0, 255, 0],[255, 127, 0	],[255,0, 0]];
     var sortedRgbArr = sortColors(rgbArr);
-    var finalArray = sortedRgbArr.map(rgbToHex);
 
+    var normalizedColor = sortedRgbArr.map(function (d,i) {
+        var hsl =  rgbToHsl(d[0],d[1],d[2]);
+        return [hsl[0],1,0.5];
+    });
+
+    var finalNormalizedColor = normalizedColor.map(function (d,i) {
+        return hslToRgb(d[0],d[1],d[2]);
+    });
 
     d3.select("#averageColor")
-        .selectAll("div")
-        .data(finalArray)
+        .selectAll(".avgSquare")
+        .data(sortedRgbArr)
         .enter()
         .append("div")
         .attr("class","avgSquare")
         .style("background-color",function (d,i) {
-            return d;
+            return "rgb("+d[0]+","+d[1]+","+d[2]+")";
         });
+
+    d3.select("#averageColor")
+        .append("div")
+        .text("seperator");
+
+    d3.select("#averageColor")
+        .selectAll(".avgReference")
+        .data(finalNormalizedColor)
+        .enter()
+        .append("div")
+        .attr("class","avgReference")
+        .style("background-color",function (d,i) {
+            return "rgb("+d[0]+","+d[1]+","+d[2]+")";
+        });
+
 });
 
 function hexToRgb(hex) {
     return [+hex.r, +hex.g, +hex.b];
 }
 
-function rgbToHex(rgb) {
-    return "#" + ((1 << 24) + (rgb[0] << 16) + (rgb[1] << 8) + rgb[2]).toString(16).slice(1);
-}
-
-var balance = [0, 1, 0];
-function colorDistance(color1, color2) {
-    var result = 0;
-    color1 = rgbToHsl(color1[0], color1[1], color1[2]);
-    color2 = rgbToHsl(color2[0], color2[1], color2[2]);
-    for (var i = 0; i < color1.length; i++)
-        result += (color1[i] - color2[i]) * (color1[i] - color2[i]) * balance[i];
-
-    return result;
-}
-
+var balance = [0, 0, 1];
 function sortColors(colors) {
-    // Calculate distance between each color
     colors.sort(function (a,b) {
-        return colorDistance(a,b)
+        return rgbToHsl(a[0],a[1],a[2])[0] - rgbToHsl(b[0],b[1],b[2])[0];
     });
     return colors;
 }
@@ -68,4 +74,55 @@ function rgbToHsl(r, g, b){
     }
 
     return [Math.floor(h * 360), Math.floor(s * 100), Math.floor(l * 100)];
+}
+
+function hslToRgb(hue, saturation, lightness){
+    // based on algorithm from http://en.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB
+    if( hue == undefined ){
+        return [0, 0, 0];
+    }
+
+    var chroma = (1 - Math.abs((2 * lightness) - 1)) * saturation;
+    var huePrime = hue / 60;
+    var secondComponent = chroma * (1 - Math.abs((huePrime % 2) - 1));
+
+    huePrime = Math.floor(huePrime);
+    var red;
+    var green;
+    var blue;
+
+    if( huePrime === 0 ){
+        red = chroma;
+        green = secondComponent;
+        blue = 0;
+    }else if( huePrime === 1 ){
+        red = secondComponent;
+        green = chroma;
+        blue = 0;
+    }else if( huePrime === 2 ){
+        red = 0;
+        green = chroma;
+        blue = secondComponent;
+    }else if( huePrime === 3 ){
+        red = 0;
+        green = secondComponent;
+        blue = chroma;
+    }else if( huePrime === 4 ){
+        red = secondComponent;
+        green = 0;
+        blue = chroma;
+    }else if( huePrime === 5 ){
+        red = chroma;
+        green = 0;
+        blue = secondComponent;
+    }
+
+    var lightnessAdjustment = lightness - (chroma / 2);
+    red += lightnessAdjustment;
+    green += lightnessAdjustment;
+    blue += lightnessAdjustment;
+
+
+    return [Math.round(red * 255), Math.round(green * 255), Math.round(blue * 255)];
+
 }
