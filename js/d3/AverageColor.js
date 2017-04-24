@@ -1,9 +1,10 @@
 /**
  * Created by HP-PC on 23-04-2017.
  */
-d3.csv("data/photoData.csv",function (error,data) {
+d3.csv("data/rgbVals.csv",function (error,data) {
 
     var rgbArr = data.map(hexToRgb);
+    var tempArr = [[148, 0, 211],[255, 255, 0],[0, 0, 255],[0, 255, 0],[255, 127, 0	],[255,0, 0]];
     var sortedRgbArr = sortColors(rgbArr);
     var finalArray = sortedRgbArr.map(rgbToHex);
 
@@ -20,70 +21,51 @@ d3.csv("data/photoData.csv",function (error,data) {
 });
 
 function hexToRgb(hex) {
-    hex = hex.avg_color.substring(1, hex.length);
-    var r = parseInt((hex).substring(0, 2), 16);
-    var g = parseInt((hex).substring(2, 4), 16);
-    var b = parseInt((hex).substring(4, 6), 16);
-
-    return [r, g, b];
+    return [+hex.r, +hex.g, +hex.b];
 }
 
 function rgbToHex(rgb) {
     return "#" + ((1 << 24) + (rgb[0] << 16) + (rgb[1] << 8) + rgb[2]).toString(16).slice(1);
 }
 
+var balance = [0, 1, 0];
 function colorDistance(color1, color2) {
-    // This is actually the square of the distance but
-    // this doesn't matter for sorting.
     var result = 0;
+    color1 = rgbToHsl(color1[0], color1[1], color1[2]);
+    color2 = rgbToHsl(color2[0], color2[1], color2[2]);
     for (var i = 0; i < color1.length; i++)
-        result += (color1[i] - color2[i]) * (color1[i] - color2[i]);
+        result += (color1[i] - color2[i]) * (color1[i] - color2[i]) * balance[i];
+
     return result;
 }
 
 function sortColors(colors) {
     // Calculate distance between each color
-    var distances = [];
-    for (var i = 0; i < colors.length; i++) {
-        distances[i] = [];
-        for (var j = 0; j < i; j++)
-            distances.push([colors[i], colors[j], colorDistance(colors[i], colors[j])]);
-    }
-    distances.sort(function(a, b) {
-        return a[2] - b[2];
+    colors.sort(function (a,b) {
+        return colorDistance(a,b)
     });
+    return colors;
+}
 
-    // Put each color into separate cluster initially
-    var colorToCluster = {};
-    for (var i = 0; i < colors.length; i++)
-        colorToCluster[colors[i]] = [colors[i]];
+function rgbToHsl(r, g, b){
+    r /= 255.0;
+    g /= 255.0;
+    b /= 255.0;
+    var max = Math.max(r, g, b), min = Math.min(r, g, b);
+    var h, s, l = (max + min) / 2;
 
-    // Merge clusters, starting with lowest distances
-    var lastCluster;
-    for (var i = 0; i < distances.length; i++) {
-        var color1 = distances[i][0];
-        var color2 = distances[i][1];
-        var cluster1 = colorToCluster[color1];
-        var cluster2 = colorToCluster[color2];
-        if (!cluster1 || !cluster2 || cluster1 == cluster2)
-            continue;
-
-        // Make sure color1 is at the end of its cluster and
-        // color2 at the beginning.
-        if (color1 != cluster1[cluster1.length - 1])
-            cluster1.reverse();
-        if (color2 != cluster2[0])
-            cluster2.reverse();
-
-        // Merge cluster2 into cluster1
-        cluster1.push.apply(cluster1, cluster2);
-        delete colorToCluster[color1];
-        delete colorToCluster[color2];
-        colorToCluster[cluster1[0]] = cluster1;
-        colorToCluster[cluster1[cluster1.length - 1]] = cluster1;
-        lastCluster = cluster1;
+    if(max == min){
+        h = s = 0; // achromatic
+    }else{
+        var d = max - min;
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+        switch(max){
+            case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+            case g: h = (b - r) / d + 2; break;
+            case b: h = (r - g) / d + 4; break;
+        }
+        h /= 6;
     }
 
-    // By now all colors should be in one cluster
-    return lastCluster;
+    return [Math.floor(h * 360), Math.floor(s * 100), Math.floor(l * 100)];
 }
