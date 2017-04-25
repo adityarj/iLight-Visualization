@@ -1,232 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-<head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Grayscale - Start Bootstrap Theme</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    
-
-    <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-
-    <!-- Theme CSS -->
-    <link href="css/grayscale.min.css" rel="stylesheet">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-</head>
-
-<style type="text/css">
-    .axisLabels {
-        font-family: "Dosis";
-        font-size: 15px;
-    }
-    .xaxis path, .xaxis line {
-        stroke: none;
-    }
-
-    .yaxis path, .yaxis line {
-        stroke: none;
-    }
-    .legend-weekly {
-        width: 188px;
-        height: 20px;
-        float: left;
-    }
-    .labelShift {
-        margin-left: 120px;
-    }
-    .avgSquare, .avgReference {
-        width: 0.88px;
-        height: 150px;
-        float: left;
-    }
-    .avgReference {
-        width: 0.88px;
-        height: 20px;
-        float: left;
-    }
-</style>
-
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    Menu <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">Start</span> Bootstrap
-                </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#download">Download</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-    <!-- Intro Header -->
-    <header class="intro">
-        <div class="intro-body">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">Grayscale</h1>
-                        <p class="intro-text">A free, responsive, one page Bootstrap theme.
-                            <br>Created by Start Bootstrap.</p>
-                        <a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center"  style="background-color: white">
-        <div class="row">
-            <div class="col-lg-10 col-lg-offset-1" style="color: black">
-                <h2>About Grayscale</h2>
-                <p>Grayscale is a free Bootstrap 3 theme created by Start Bootstrap. It can be yours right now, simply download the template on <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
-                <p>This theme features stock photos by <a href="http://gratisography.com/">Gratisography</a> along with a custom Google Maps skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
-                <p>Grayscale includes full HTML, CSS, and custom JavaScript files along with LESS files for easy customization.</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12" id="weeklyGraph">
-
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12" id="averageColor">
-
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12" id="exhibitBreakdown">
-
-            </div>
-        </div>
-        <div class ="row">
-            <div class="col-lg-12" id="commentBreakdown">
-            </div>
-        </div>
-        
-
-    </section>
-
-    <!-- Download Section -->
-    <section id="download" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Download Grayscale</h2>
-                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-                    <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Contact Section -->
-    <section id="contact" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
-                </p>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
-
-    <!-- Map Section -->
-    <div id="map"></div>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; Your Website 2016</p>
-        </div>
-    </footer>
-
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
-
-    <!-- Theme JavaScript -->
-    <script src="js/grayscale.min.js"></script>
-
-    <!-- D3.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.8.0/d3.js"></script>
-   
-    
-
-    <!-- Scripts -->
-    <script src="js/d3/AverageColor.js"></script>
-    <script src="js/d3/ExhibitBreakdown.js"></script>
-    <script src="https://cdn.rawgit.com/emeeks/3361332/raw/61cf57523fe8cf314333e5f60cc266351fec2017/d3.layout.cloud.js"></script>
-
-</body>
-    <script>
     var frequency_list = [{"text":"lovemarinabaysandssingapore",size:1},
 
 {"text":"already",size:3},
@@ -808,6 +579,7 @@
 {"text":"shy",size:2},
 {"text":"shy",size:1},
 {"text":"뚐",size:1},
+
 {"text":"along",size:4},
 {"text":"appreciate",size:3},
 {"text":"didnt",size:6},
@@ -828,6 +600,7 @@
 {"text":"shot",size:10},
 {"text":"sky",size:3},
 {"text":"skyline",size:4},
+
 {"text":"backpacking",size:2},
 {"text":"bigcitylife",size:1},
 {"text":"cambodia",size:1},
@@ -1588,16 +1361,19 @@
 {"text":"comfortable",size:2},
 {"text":"staying",size:1},
 {"text":"zone",size:1},
+
 {"text":"annoying",size:2},
 {"text":"luv",size:1},
 {"text":"worst",size:2},
 {"text":"hugging",size:1},
+
 {"text":"meant",size:1},
 {"text":"TRUE",size:6},
 {"text":"hongkong",size:1},
 {"text":"martialarts",size:1},
 {"text":"starhubtv",size:1},
 {"text":"wushu",size:1},
+
 {"text":"colourful",size:3},
 {"text":"merlion",size:3},
 {"text":"waterspraying",size:1},
@@ -1611,6 +1387,7 @@
 {"text":"friendly",size:1},
 {"text":"pet",size:1},
 {"text":"places",size:3},
+
 {"text":"butterflies",size:2},
 {"text":"couple",size:5},
 {"text":"credits",size:2},
@@ -1620,6 +1397,7 @@
 {"text":"coolest",size:1},
 {"text":"installation",size:7},
 {"text":"probably",size:3},
+
 {"text":"bacon",size:1},
 {"text":"francis",size:1},
 {"text":"present",size:1},
@@ -1630,6 +1408,7 @@
 {"text":"worn",size:1},
 {"text":"ulight",size:1},
 {"text":"byling",size:21},
+
 {"text":"bottles",size:6},
 {"text":"evian",size:4},
 {"text":"tower",size:1},
@@ -1659,6 +1438,7 @@
 {"text":"daynvivi",size:1},
 {"text":"everyday",size:2},
 {"text":"percent",size:1},
+
 {"text":"alive",size:1},
 {"text":"grind",size:1},
 {"text":"making",size:3},
@@ -1683,6 +1463,7 @@
 {"text":"usually",size:1},
 {"text":"xusg",size:2},
 {"text":"xusingapore",size:2},
+
 {"text":"caption",size:3},
 {"text":"gthephotographer",size:1},
 {"text":"ready",size:1},
@@ -1692,8 +1473,10 @@
 {"text":"remain",size:1},
 {"text":"chasing",size:3},
 {"text":"lkzx",size:1},
+
 {"text":"coolafterrain",size:1},
 {"text":"cool",size:8},
+
 {"text":"kaleidoscopic",size:1},
 {"text":"monolith",size:1},
 {"text":"northern",size:5},
@@ -1744,6 +1527,7 @@
 {"text":"favesasia",size:1},
 {"text":"guiiiiiiide",size:1},
 {"text":"queued",size:1},
+
 {"text":"countrywith",size:1},
 {"text":"possibility",size:1},
 {"text":"awkward",size:2},
@@ -1869,6 +1653,7 @@
 {"text":"devoid",size:1},
 {"text":"fav",size:5},
 {"text":"feed",size:2},
+
 {"text":"happri",size:1},
 
 {"text":"thinkin",size:1},
@@ -1878,12 +1663,14 @@
 {"text":"swag",size:1},
 {"text":"swagcheck",size:1},
 {"text":"whitagram",size:1},
+
 {"text":"broken",size:4},
 {"text":"deserves",size:1},
 {"text":"ever",size:5},
 {"text":"forget",size:2},
 {"text":"guy",size:2},
 {"text":"satnite",size:1},
+
 {"text":"favourite",size:5},
 {"text":"golden",size:1},
 {"text":"silence",size:1},
@@ -1893,6 +1680,7 @@
 {"text":"grainy",size:2},
 {"text":"parents",size:1},
 {"text":"rice",size:1},
+
 {"text":"safwanwawan",size:1},
 {"text":"hug",size:4},
 {"text":"ladycouplegoals",size:1},
@@ -1903,21 +1691,27 @@
 {"text":"stofmay",size:2},
 {"text":"stopped",size:2},
 {"text":"timestop",size:2},
+
 {"text":"hello",size:1},
 {"text":"enjoyed",size:4},
+
 {"text":"loves",size:6},
 {"text":"matter",size:4},
 {"text":"prettiest",size:1},
 {"text":"ugliest",size:1},
+
 {"text":"fire",size:1},
 {"text":"flip",size:1},
 {"text":"rockets",size:1},
 {"text":"thrusters",size:1},
+
+
 {"text":"desee",size:1},
 {"text":"desisquad",size:1},
 {"text":"kee",size:1},
 {"text":"ladakiyon",size:1},
 {"text":"team",size:1},
+
 {"text":"creativityfound",size:3},
 {"text":"fashion",size:3},
 {"text":"fashioninsta",size:3},
@@ -1948,7 +1742,9 @@
 {"text":"supply",size:1},
 {"text":"traveling",size:4},
 {"text":"use",size:1},
+
 {"text":"realise",size:1},
+
 
 {"text":"eyes",size:2},
 {"text":"fool",size:1},
@@ -1973,6 +1769,7 @@
 {"text":"tnpsg",size:1},
 {"text":"youareinabadcompany",size:1},
 {"text":"yun",size:1},
+
 {"text":"build",size:1},
 {"text":"house",size:5},
 {"text":"money",size:2},
@@ -1991,6 +1788,7 @@
 {"text":"ilightsingapore",size:1},
 {"text":"john",size:1},
 {"text":"mytrip",size:1},
+
 {"text":"contemplating",size:1},
 {"text":"kept",size:2},
 {"text":"set",size:1},
@@ -2053,6 +1851,7 @@
 {"text":"negativity",size:1},
 {"text":"truejoyofliving",size:1},
 {"text":"veragioiadivivere",size:1},
+
 {"text":"charles",size:2},
 {"text":"puzzled",size:1},
 {"text":"sun☀",size:1},
@@ -2087,6 +1886,7 @@
 {"text":"lategram",size:1},
 {"text":"perryandmia",size:1},
 {"text":"perrynmia",size:1},
+
 {"text":"memories",size:3},
 {"text":"exhibition",size:7},
 {"text":"geometry",size:2},
@@ -2095,6 +1895,7 @@
 {"text":"olympusomdem",size:4},
 {"text":"shadow",size:8},
 {"text":"unique",size:3},
+
 {"text":"club",size:1},
 {"text":"fan",size:1},
 {"text":"poster",size:1},
@@ -2103,6 +1904,7 @@
 {"text":"awhile",size:1},
 {"text":"since",size:2},
 {"text":"ufos",size:1},
+
 {"text":"thats",size:7},
 {"text":"thing",size:1},
 {"text":"alami",size:1},
@@ -2117,12 +1919,14 @@
 {"text":"sini",size:1},
 {"text":"tunjukhati",size:1},
 {"text":"tunjukwajah",size:1},
+
 {"text":"colourswebstructureprofyuensresearchteam",size:1},
 {"text":"itsqualityratherthanquantitythatcounts",size:1},
 {"text":"myfriend",size:1},
 {"text":"thingsarevaluedfortheirqualityratherthantheirnumbers",size:1},
 {"text":"toldme",size:1},
 {"text":"umbrellas",size:1},
+
 {"text":"guessin",size:1},
 {"text":"hero",size:1},
 {"text":"human",size:3},
@@ -2145,16 +1949,19 @@
 {"text":"plant",size:1},
 {"text":"road",size:2},
 {"text":"zonkystarz",size:1},
+
 {"text":"goodbye",size:3},
 {"text":"camera",size:2},
 {"text":"difference",size:1},
 {"text":"repost",size:1},
+
 {"text":"friday",size:2},
 {"text":"imagination",size:2},
 {"text":"real",size:2},
 {"text":"anyway",size:1},
 {"text":"mastering",size:1},
 {"text":"plain",size:2},
+
 {"text":"majestic",size:1},
 {"text":"ample",size:1},
 {"text":"equipment",size:1},
@@ -2167,11 +1974,14 @@
 {"text":"unfortunately",size:1},
 {"text":"hierarchy",size:1},
 {"text":"sense",size:2},
+
 {"text":"combined",size:1},
 {"text":"goodnight",size:1},
+
 {"text":"feet",size:3},
 {"text":"hearts",size:2},
 {"text":"chimneycone",size:1},
+
 {"text":"everglow",size:1},
 {"text":"cracks",size:1},
 {"text":"front",size:2},
@@ -2187,6 +1997,7 @@
 {"text":"merovign",size:1},
 {"text":"idiotic",size:1},
 {"text":"idk",size:3},
+
 {"text":"whitehotsurfer",size:1},
 {"text":"feelings",size:1},
 {"text":"hide",size:1},
@@ -2204,10 +2015,12 @@
 {"text":"fair",size:2},
 {"text":"teddy",size:2},
 {"text":"won",size:2},
+
 {"text":"photogenic",size:1},
 {"text":"squat",size:1},
 {"text":"classic",size:1},
 {"text":"white",size:3},
+
 {"text":"hate",size:3},
 {"text":"egglet",size:1},
 {"text":"enjoying",size:2},
@@ -2229,6 +2042,7 @@
 {"text":"sillouette",size:1},
 {"text":"whats",size:2},
 {"text":"playtowin",size:1},
+
 {"text":"iphoneography",size:3},
 {"text":"stopgapband",size:1},
 {"text":"using",size:1},
@@ -2237,6 +2051,7 @@
 {"text":"hundreds",size:1},
 {"text":"surrounded",size:1},
 {"text":"woof",size:2},
+
 {"text":"bodegasyuntero",size:1},
 {"text":"dolamancha",size:1},
 {"text":"spanish",size:1},
@@ -2246,6 +2061,7 @@
 {"text":"artists",size:1},
 {"text":"created",size:2},
 {"text":"showcase",size:1},
+
 {"text":"soon",size:1},
 {"text":"colors",size:6},
 {"text":"bicycle",size:1},
@@ -2824,7 +2640,8 @@
 {"text":"coloured",size:2},
 {"text":"looked",size:1},
 {"text":"moved",size:1},
-{"text":"ribbons",size:1},{"text":"enjoymylife",size:1},
+{"text":"ribbons",size:1},
+{"text":"enjoymylife",size:1},
 {"text":"enjoyyourownlifewithoutcomparingitwiththatofanother",size:1},
 {"text":"meimei",size:1},
 {"text":"mylovelyphoto",size:1},
@@ -2832,6 +2649,7 @@
 {"text":"thankyou",size:3},
 {"text":"withoutpermission",size:1},
 {"text":"yelenafilipchuk",size:1},
+
 {"text":"bloopers",size:1},
 {"text":"rey",size:1},
 {"text":"deeks",size:1},
@@ -3422,7 +3240,7 @@
                          ];
 
 
-    var color = d3.scaleLinear()
+    var color = d3.scale.linear()
             .domain([0,1,2,3,4,5,6,10,15,20,100])
             .range(["#ddd", "#ccc", "#bbb", "#aaa", "#999", "#888", "#777", "#666", "#555", "#444", "#333", "#222"]);
 
@@ -3452,5 +3270,3 @@
                 })
                 .text(function(d) { return d.text; });
     }
-    </script>
-</html>
