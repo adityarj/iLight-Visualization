@@ -4,7 +4,6 @@
 d3.csv("data/rgbVals.csv",function (error,data) {
 
     var rgbArr = data.map(function (d, i) {
-        console.log(d.r,d.g,d.b);
         return {
             rgb: [+d.r,+d.g,+d.b],
             ind: d.file
