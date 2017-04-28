@@ -96,6 +96,12 @@ function d3_rebind(target, source, method) {
     return value === source ? target : value;
   };
 }
+        
+        d3.functor = function functor(v) {
+  return typeof v === "function" ? v : function() {
+    return v;
+  };
+};
 
         function place(board, tag, bounds) {
             var perimeter = [{x: 0, y: 0}, {x: size[0], y: size[1]}],
