@@ -1,0 +1,39 @@
+body {
+    color: black;
+}
+
+path {
+    stroke: #fff;
+ }
+path:hover {
+    opacity:0.8;
+}
+rect:hover {
+    opacity: 0.8;
+}
+.axis {
+    font: 11px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {  display: none; }
+.legend{
+    margin-bottom:76px;
+    display:inline-block;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+.legend td{
+    padding:4px 5px;
+    vertical-align:bottom;
+}
+.legendFreq, .legendPerc{
+    align:right;
+    width:50px;
+}
