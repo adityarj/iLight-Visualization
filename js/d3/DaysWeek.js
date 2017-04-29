@@ -71,10 +71,10 @@ function dashboard(id, fData){
             .attr("y", function(d) { return y(d[1])-5; })
             .attr("text-anchor", "middle");
         
-        function mouseover(d){ 
+        function mouseover(d){
             var st = fData.filter(function(s){ return s.Day == d[0];})[0],
                 nD = d3.keys(st.freq).map(function(s){ return {type:s, freq:st.freq[s]};});
-            pC.updateTitle("day");
+            pC.updateTitle(d[0]);
             pC.update(nD);
             leg.update(nD);
         }
@@ -142,7 +142,7 @@ function dashboard(id, fData){
         }
 
         function mouseover(d){
-            hG.updateTitle("exhibit");
+            hG.updateTitle(d.data.type);
             hG.update(fData.map(function(v){ 
                 return [v.Day,v.freq[d.data.type]];}),segColor(d.data.type));
         }
