@@ -22,7 +22,7 @@ d3.csv("data/photoData.csv",function (error, data) {
         }
     });
 
-    var width = 1080, height = 600, margin = 20;
+    var width = 1080, height = 900, margin = 20;
 
     var newDataSet = [];
     var colors = ["#21a4af","#1eda95","#1b3aec","#7a5468"];
@@ -30,7 +30,7 @@ d3.csv("data/photoData.csv",function (error, data) {
 
     var bubble = d3.pack()
         .size([height,height])
-        .padding(50);
+        .padding(120);
 
     var root = d3.hierarchy(processData(arrayData))
         .sum(function (d, i) {
@@ -45,24 +45,39 @@ d3.csv("data/photoData.csv",function (error, data) {
         .attr("height",height);
 
     var breakdown = svg.append("g")
-        .attr("transform","translate("+200+",0)");
+        .attr("transform","translate("+100+",0)");
 
-    breakdown.selectAll("circles")
+    var layer = breakdown.selectAll("circles")
         .data(root.children)
         .enter()
-        .append("circle")
+        .append("g")
+        .attr("transform",function (d, i) {
+            return "translate("+d.x+","+d.y+")";
+        });
+
+    var circles = layer.append("circle")
         .attr("id",function(d,i) {
             return "circle"+i;
         })
         .attr("class","circles")
-        .attr("transform",function (d, i) {
-            return "translate("+d.x+","+d.y+")";
-        })
         .attr("r",function (d, i) {
             return d.r;
         })
         .attr("fill",function (d,i) {
             return d.data.color;
+        });
+
+    var text = layer.append("text")
+        .text(function (d,i) {
+            return d.data.name;
+        })
+        .style("font-size",10)
+        .style("font-family","Dosis")
+        .attr("x",function (d, i) {
+            return -d.data.name.length*1.2;
+        })
+        .attr("y",function (d,i) {
+            return - d.r - 5;
         });
 
 
