@@ -1,9 +1,31 @@
 function dashboard(id, fData){
     var barColor = 'steelblue';
-    function segColor(c){ return {low:"#807dba", mid:"#e08214",high:"#41ab5d"}[c]; }
+    function segColor(c){ return {
+        "HYBYCOZO":"#a6cee3",
+        "artbox":"#1f78b4",
+        "artzoo":"#b2df8a",
+        "colourful garden of lights":"#33a02c",
+        "dande-lier":"#fb9a99",
+        "gastrobeats":"#e31a1c",
+        "home":"#fdbf6f",
+        "horizontal interference":"#ff7f00",
+        "moonflower":"#cab2d6",
+        "ocean pavilion":"#6a3d9a",
+        "passage of inner reflection":"#ffff99",
+        "the urchin":"#b15928",
+        "ultra light network":"#d9d9d9",
+        "uncle ringo":"#8dd3c7"
+    }[c]; }
     
-    fData.forEach(function(d){d.total=d.freq.low+d.freq.mid+d.freq.high;});
+    fData.forEach(function(d){
+        d.total = 0;
+        var counts = Object.values(d.freq);
+        for (var i = 0; i< counts.length; i++) {
+            d.total += counts[i];
+        }
+    });
     
+
     function histoGram(fD){
         var hG={},    hGDim = {t: 60, r: 0, b: 30, l: 0};
         hGDim.w = 500 - hGDim.l - hGDim.r, 
@@ -13,6 +35,14 @@ function dashboard(id, fData){
             .attr("width", hGDim.w + hGDim.l + hGDim.r)
             .attr("height", hGDim.h + hGDim.t + hGDim.b).append("g")
             .attr("transform", "translate(" + hGDim.l + "," + hGDim.t + ")");
+
+        hGsvg.append("text")
+        .attr("x", (hGDim.w / 2))
+        .attr("y", -10)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .style("text-decoration", "underline")
+        .text("");
 
         var x = d3.scaleBand().rangeRound([0, hGDim.w], 0.1)
                 .domain(fD.map(function(d) { return d[0]; }));
@@ -44,11 +74,13 @@ function dashboard(id, fData){
         function mouseover(d){ 
             var st = fData.filter(function(s){ return s.Day == d[0];})[0],
                 nD = d3.keys(st.freq).map(function(s){ return {type:s, freq:st.freq[s]};});
+            pC.updateTitle("day");
             pC.update(nD);
             leg.update(nD);
         }
         
         function mouseout(d){ 
+            pC.updateTitle("");
             pC.update(tF);
             leg.update(tF);
         }
@@ -64,20 +96,34 @@ function dashboard(id, fData){
 
             bars.select("text").transition().duration(500)
                 .text(function(d){ return d3.format(",")(d[1])})
-                .attr("y", function(d) {return y(d[1])-5; });            
-        }        
+                .attr("y", function(d) {return y(d[1])-5; });
+        }
+
+        hG.updateTitle = function(exhibit) {
+            hGsvg.select("text").transition().duration(500)
+                .text(exhibit);
+        }
+
         return hG;
     }
     
     function pieChart(pD){
-        var pC ={},    pieDim ={w:250, h: 250};
+        var pC ={},    pieDim ={w:300, h: 300};
         pieDim.r = Math.min(pieDim.w, pieDim.h) / 2;
 
         var piesvg = d3.select(id).append("svg")
             .attr("width", pieDim.w).attr("height", pieDim.h).append("g")
             .attr("transform", "translate("+pieDim.w/2+","+pieDim.h/2+")");
         
-        var arc = d3.arc().outerRadius(pieDim.r - 10).innerRadius(0);
+        piesvg.append("text")
+        .attr("x", 0)
+        .attr("y", -135)
+        .attr("text-anchor", "middle")
+        .style("font-size", "16px")
+        .style("text-decoration", "underline")
+        .text("");
+
+        var arc = d3.arc().outerRadius(pieDim.r - 30).innerRadius(0);
         var pie = d3.pie().sort(null).value(function(d) { return d.freq; });
 
         piesvg.selectAll("path").data(pie(pD)).enter().append("path").attr("d", arc)
@@ -88,14 +134,21 @@ function dashboard(id, fData){
         pC.update = function(nD){
             piesvg.selectAll("path").data(pie(nD)).transition().duration(500)
                 .attrTween("d", arcTween);
-        }        
+        }
+
+        pC.updateTitle = function(day) {
+            piesvg.select("text").transition().duration(500)
+                .text(day);
+        }
 
         function mouseover(d){
+            hG.updateTitle("exhibit");
             hG.update(fData.map(function(v){ 
                 return [v.Day,v.freq[d.data.type]];}),segColor(d.data.type));
         }
 
         function mouseout(d){
+            hG.updateTitle("");
             hG.update(fData.map(function(v){
                 return [v.Day,v.total];}), barColor);
         }
@@ -123,8 +176,8 @@ function dashboard(id, fData){
         tr.append("td").attr("class",'legendFreq')
             .text(function(d){ return d3.format(",")(d.freq);});
 
-        tr.append("td").attr("class",'legendPerc')
-            .text(function(d){ return getLegend(d,lD);});
+        // tr.append("td").attr("class",'legendPerc')
+        //     .text(function(d){ return getLegend(d,lD);});
 
         leg.update = function(nD){
             var l = legend.select("tbody").selectAll("tr").data(nD);
@@ -138,8 +191,26 @@ function dashboard(id, fData){
 
         return leg;
     }
+
+    var exhibits = [
+        "HYBYCOZO",
+        "artbox",
+        "artzoo",
+        "colourful garden of lights",
+        "dande-lier",
+        "gastrobeats",
+        "home",
+        "horizontal interference",
+        "moonflower",
+        "ocean pavilion",
+        "passage of inner reflection",
+        "the urchin",
+        "ultra light network",
+        "uncle ringo"
+    ]
     
-    var tF = ['low','mid','high'].map(function(d){ 
+
+    var tF = exhibits.map(function(d){
         return {type:d, freq: d3.sum(fData.map(function(t){ return t.freq[d];}))}; 
     });    
     
@@ -150,14 +221,22 @@ function dashboard(id, fData){
         leg= legend(tF);  // create the legend.
 }
 
-var freqData=[
-{Day:'Sun',freq:{low:4786, mid:1319, high:249}}
-,{Day:'Mon',freq:{low:1101, mid:412, high:674}}
-,{Day:'Tue',freq:{low:932, mid:2149, high:418}}
-,{Day:'Wed',freq:{low:832, mid:1152, high:1862}}
-,{Day:'Thur',freq:{low:4481, mid:3304, high:948}}
-,{Day:'Fri',freq:{low:1619, mid:167, high:1063}}
-,{Day:'Sat',freq:{low:1819, mid:247, high:1203}}
-];
-
-dashboard('#daysWeek',freqData);
+var exhibitdata;
+d3.csv("data/exhibition-days-week.csv",function (error,data) {
+    exhibitdata =[
+        {Day:'Sun',freq:{}}
+        ,{Day:'Mon',freq:{}}
+        ,{Day:'Tue',freq:{}}
+        ,{Day:'Wed',freq:{}}
+        ,{Day:'Thur',freq:{}}
+        ,{Day:'Fri',freq:{}}
+        ,{Day:'Sat',freq:{}}
+    ];
+    for (var i = 0; i < data.length; i++) {
+        // console.log(data[i]);
+        // console.log(freqData[data[i].DAY])
+        exhibitdata[data[i].DAY].freq[data[i].exhibition] = parseInt(data[i].count);
+    }
+    // console.log(exhibitdata);
+    dashboard('#daysWeek',exhibitdata);
+});

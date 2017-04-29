@@ -24,14 +24,14 @@ rect:hover {
 
 .x.axis path {  display: none; }
 .legend{
-    margin-bottom:76px;
+    margin-bottom:0px;
     display:inline-block;
     border-collapse: collapse;
     border-spacing: 0px;
 }
 .legend td{
-    padding:4px 5px;
-    vertical-align:bottom;
+    padding:0px 5px;
+    vertical-align:middle;
 }
 .legendFreq, .legendPerc{
     align:right;
