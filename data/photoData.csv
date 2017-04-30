@@ -1,1277 +1,1277 @@
-,Photo Num,Time,Group type,exhibition,extra,avg_color,TIMESTAMP,DAY,MONTH,DATE,Days,Count
-1,1,day,none,marina,NA,#6a8e91,1.49E+12,2,2,28,Sunday,332
-2,2,night,couple,marina,NA,#565456,1.49E+12,2,2,28,Monday,177
-3,3,night,single male,marina,NA,#434143,1.49E+12,2,2,28,Tuesday,120
-4,4,night,none,dande-lier,NA,#a1fa4,1.49E+12,2,2,28,Wednesday,109
-5,5,night,single male,HYBYCOZO,NA,#413f3b,1.49E+12,2,2,28,Thursday,109
-6,6,day,none,marina,NA,#8d9199,1.49E+12,2,2,28,Friday,158
-7,7,day,none,marina,NA,#6a6e78,1.49E+12,2,2,28,Saturday,271
-8,8,night,single female,marina,NA,#292626,1.49E+12,2,2,28,,
-9,9,night,couple,horizontal interference,NA,#342630,1.49E+12,2,2,28,,
-10,10,day,single male,marina,NA,#a49386,1.49E+12,2,2,28,,
-11,11,night,none,horizontal interference,NA,#33284d,1.49E+12,2,2,28,,
-12,12,night,none,gastrobeats,NA,#363e53,1.49E+12,2,2,28,,
-13,13,night,single female,ocean pavilion,NA,#68759c,1.49E+12,2,2,28,,
-14,14,night,none,uncle ringo,NA,#3f3d3f,1.49E+12,2,2,28,,
-15,15,night,none,uncle ringo,NA,#51493d,1.49E+12,2,2,28,,
-16,16,day,none,marina,NA,#877b7b,1.49E+12,1,2,27,,
-17,17,day,single male,marina,NA,#76767c,1.49E+12,1,2,27,,
-18,18,night,none,ultra light network,NA,#2b2838,1.49E+12,1,2,27,,
-19,19,night,single female,gastrobeats,NA,#522a8c,1.49E+12,1,2,27,,
-20,20,night,none,moonflower,NA,#332e2d,1.49E+12,1,2,27,,
-21,21,night,none,home,NA,#1a1d29,1.49E+12,1,2,27,,
-22,22,day,single male,marina,NA,#89878c,1.49E+12,1,2,27,,
-23,23,night,single female,uncle ringo,NA,#514b42,1.49E+12,1,2,27,,
-24,24,night,single female,home,NA,#383e47,1.49E+12,1,2,27,,
-25,25,night,none,gastrobeats,NA,#1b1035,1.49E+12,1,2,27,,
-26,26,day,none,marina,NA,#a38890,1.49E+12,1,2,27,,
-27,27,night,none,home,NA,#242b34,1.49E+12,1,2,27,,
-28,28,night,none,ultra light network,NA,#14111a,1.49E+12,1,2,27,,
-29,29,day,single male,marina,NA,#c3c1c3,1.49E+12,1,2,27,,
-30,30,day,group,marina,female pair,#7e7078,1.49E+12,1,2,27,,
-31,31,night,none,uncle ringo,NA,#52381b,1.49E+12,1,2,27,,
-32,32,night,none,HYBYCOZO,NA,#3f2d33,1.49E+12,1,2,27,,
-33,33,night,none,secret galaxies,NA,#474434,1.49E+12,1,2,27,,
-34,34,night,single female,marina,NA,#3c4153,1.49E+12,1,2,27,,
-35,35,day,single male,marina,NA,#a5a2a5,1.49E+12,1,2,27,,
-36,36,day,single male,artbox,NA,#555556,1.49E+12,1,2,27,,
-37,37,day,group,radio,NA,#8c5f58,1.49E+12,1,2,27,,
-38,38,night,single male,marina,NA,#1110e,1.49E+12,1,2,27,,
-39,39,night,single female,passage of inner reflection,NA,#a3a1a3,1.49E+12,1,2,27,,
-40,40,day,single male,marina,NA,#7b7975,1.49E+12,1,2,27,,
-41,41,day,single female,marina,NA,#5f7178,1.49E+12,1,2,27,,
-42,42,night,none,ocean pavilion,NA,#152139,1.49E+12,1,2,27,,
-43,43,night,none,marina,NA,#221e27,1.49E+12,1,2,27,,
-44,44,night,single male,marina bay sands,NA,#674e5e,1.49E+12,1,2,27,,
-45,45,night,single female,ultra light network,NA,#352d2d,1.49E+12,1,2,27,,
-46,46,night,none,artbox,NA,#1e1612,1.49E+12,1,2,27,,
-47,47,day,group,marina,NA,#434f54,1.49E+12,1,2,27,,
-48,48,day,none,gastrobeats,NA,#5c7b8a,1.49E+12,1,2,27,,
-49,49,night,couple,gastrobeats,NA,#473c55,1.49E+12,1,2,27,,
-50,50,day,none,marina,NA,#a2a0a2,1.49E+12,1,2,27,,
-51,51,day,none,marina,NA,#808b8f,1.49E+12,1,2,27,,
-52,52,night,group,marina,female pair,#483b3e,1.49E+12,1,2,27,,
-53,53,night,none,marina,NA,#49443a,1.49E+12,1,2,27,,
-54,54,day,single male,marina,NA,#bdbbc1,1.49E+12,1,2,27,,
-55,55,day,none,marina,NA,#52667f,1.49E+12,1,2,27,,
-56,56,night,couple,marina,NA,#695747,1.49E+12,0,2,26,,
-57,57,night,single male,passage of inner reflection,NA,#dc84d7,1.49E+12,0,2,26,,
-58,58,night,none,ocean pavilion,NA,#152138,1.49E+12,0,2,26,,
-59,59,night,none,gastrobeats,food,#61473a,1.49E+12,0,2,26,,
-60,60,day,none,marina,NA,#717693,1.49E+12,0,2,26,,
-61,61,day,single female,marina,NA,#c0c1c0,1.49E+12,0,2,26,,
-62,62,night,none,gastrobeats,food,#beb2ad,1.49E+12,0,2,26,,
-63,63,day,none,eco.me,NA,#898388,1.49E+12,0,2,26,,
-64,64,day,none,marina,NA,#566574,1.49E+12,0,2,26,,
-65,65,day,group,marina,female family,#856c60,1.49E+12,0,2,26,,
-66,66,night,none,marina,NA,#392c2b,1.49E+12,0,2,26,,
-67,67,day,single male,marina,NA,#7d888c,1.49E+12,0,2,26,,
-68,68,day,none,marina,NA,#263442,1.49E+12,0,2,26,,
-69,69,night,none,marina,NA,#685e59,1.49E+12,0,2,26,,
-70,70,day,group,marina,NA,#a3a3a8,1.49E+12,0,2,26,,
-71,71,night,single female,passage of inner reflection,NA,#918473,1.49E+12,0,2,26,,
-72,72,night,none,marina,NA,#dca,1.49E+12,0,2,26,,
-73,73,day,none,marina,NA,#556668,1.49E+12,0,2,26,,
-74,74,day,none,marina,NA,#82ab97,1.49E+12,0,2,26,,
-75,75,day,none,marina,NA,#999c92,1.49E+12,0,2,26,,
-76,76,night,none,home,NA,#3f3d36,1.49E+12,0,2,26,,
-77,77,night,none,moonflower,NA,#3b393b,1.49E+12,0,2,26,,
-78,78,night,couple,gastrobeats,NA,#938070,1.49E+12,0,2,26,,
-79,79,night,single male,gastrobeats,NA,#3e3f4c,1.49E+12,0,2,26,,
-80,80,day,group,marina,female pair,#96a1b3,1.49E+12,0,2,26,,
-81,81,night,couple,uncle ringo,NA,#4d4b4d,1.49E+12,0,2,26,,
-82,82,day,single female,marina,NA,#b8b5b9,1.49E+12,0,2,26,,
-83,83,day,single female,marina,NA,#7b7d7a,1.49E+12,0,2,26,,
-84,84,night,none,marina,NA,#34312b,1.49E+12,0,2,26,,
-85,85,day,none,artbox,NA,#5e7cb0,1.49E+12,0,2,26,,
-86,86,night,none,moonflower,NA,#61707b,1.49E+12,0,2,26,,
-87,87,day,none,marina,NA,#767777,1.49E+12,0,2,26,,
-88,88,day,single female,marina,NA,#647063,1.49E+12,0,2,26,,
-89,89,day,none,marina,NA,#adb8c6,1.49E+12,0,2,26,,
-90,90,day,group,marina,female pair,#696874,1.49E+12,0,2,26,,
-91,91,day,couple,ultra light network,NA,#4e4d6d,1.49E+12,0,2,26,,
-92,92,night,single female,artbox,NA,#8e8376,1.49E+12,0,2,26,,
-93,93,night,single female,marina,NA,#534c7b,1.49E+12,0,2,26,,
-94,94,night,none,moonflower,NA,#3d3b3d,1.49E+12,0,2,26,,
-95,95,day,none,gastrobeats,NA,#a9a4a6,1.49E+12,0,2,26,,
-96,96,day,none,gastrobeats,NA,#5f5d64,1.49E+12,0,2,26,,
-97,97,day,none,ultra light network,NA,#566b82,1.49E+12,0,2,26,,
-98,98,day,group,passage of inner reflection,NA,#a09691,1.49E+12,0,2,26,,
-99,99,night,none,moonflower,NA,#48444c,1.49E+12,0,2,26,,
-100,100,night,none,marina,NA,#2a4872,1.49E+12,0,2,26,,
-101,101,night,none,colourful garden of lights,NA,#3a2e32,1.49E+12,0,2,26,,
-102,102,night,group,marina,NA,#272a32,1.49E+12,0,2,26,,
-103,103,night,none,the urchin,NA,#353b42,1.49E+12,0,2,26,,
-104,104,night,none,horizontal interference,NA,#312083,1.49E+12,0,2,26,,
-105,105,night,none,home,NA,#2c3541,1.49E+12,0,2,26,,
-106,106,night,none,home,NA,#293239,1.49E+12,0,2,26,,
-107,107,night,none,ataraxia,NA,#383644,1.49E+12,0,2,26,,
-108,108,day,group,ocean pavilion,NA,#2a52bd,1.49E+12,0,2,26,,
-109,109,night,single female,marina,NA,#4e4646,1.49E+12,0,2,26,,
-110,110,day,none,ultra light network,NA,#6093ac,1.49E+12,0,2,26,,
-111,111,night,none,marina,NA,#24282c,1.49E+12,0,2,26,,
-112,112,night,single male,marina,NA,#724a4e,1.49E+12,0,2,26,,
-113,113,night,single female,marina,NA,#3e566f,1.49E+12,0,2,26,,
-114,114,night,single female,ocean pavilion,NA,#c4aa8,1.49E+12,0,2,26,,
-115,115,day,single female,marina,NA,#979595,1.49E+12,0,2,26,,
-116,116,night,none,moonflower,NA,#343234,1.49E+12,0,2,26,,
-117,117,night,none,marina,NA,#332f30,1.49E+12,0,2,26,,
-118,118,night,single female,ocean pavilion,NA,#5e91,1.49E+12,0,2,26,,
-119,119,night,none,horizontal interference,NA,#261a4d,1.49E+12,0,2,26,,
-120,120,night,none,marina,dog,#4c4b50,1.49E+12,0,2,26,,
-121,121,day,single female,uncle ringo,NA,#6f778a,1.49E+12,0,2,26,,
-122,122,night,none,marina,NA,#1d1b19,1.49E+12,0,2,26,,
-123,123,night,single female,moonflower,NA,#564f45,1.49E+12,0,2,26,,
-124,124,day,single female,marina,NA,#8eaaa6,1.49E+12,0,2,26,,
-125,125,night,none,marina,NA,#141111,1.49E+12,0,2,26,,
-126,126,night,group,marina,NA,#6d5957,1.49E+12,0,2,26,,
-127,127,day,single male,marina,NA,#9ea0a0,1.49E+12,0,2,26,,
-128,128,day,none,gastrobeats,NA,#413337,1.49E+12,0,2,26,,
-129,129,day,none,uncle ringo,NA,#425762,1.49E+12,0,2,26,,
-130,130,night,single female,marina,NA,#231b18,1.49E+12,0,2,26,,
-131,131,night,none,marina,NA,#191e23,1.49E+12,0,2,26,,
-132,132,night,none,uncle ringo,NA,#1d173d,1.49E+12,0,2,26,,
-133,133,day,none,marina,NA,#8793a0,1.49E+12,0,2,26,,
-134,134,night,none,gastrobeats,NA,#1d1129,1.49E+12,0,2,26,,
-135,135,night,none,marina,NA,#47413b,1.49E+12,6,2,25,,
-136,136,night,none,moonflower,NA,#373537,1.49E+12,6,2,25,,
-137,137,night,single female,waves,NA,#362d26,1.49E+12,6,2,25,,
-138,138,night,single male,uncle ringo,NA,#34231b,1.49E+12,6,2,25,,
-139,139,night,none,horizontal interference,NA,#3f2988,1.49E+12,6,2,25,,
-140,140,night,none,horizontal interference,NA,#3c129c,1.49E+12,6,2,25,,
-141,141,night,none,marina,NA,#393530,1.49E+12,6,2,25,,
-142,142,day,none,marina,NA,#6f849a,1.49E+12,6,2,25,,
-143,143,night,none,marina,robot from star wars,#121af,1.49E+12,6,2,25,,
-144,144,night,none,marina,NA,#131718,1.49E+12,6,2,25,,
-145,145,night,none,marina,NA,#2a2525,1.49E+12,6,2,25,,
-146,146,night,none,ocean pavilion,NA,#152137,1.49E+12,6,2,25,,
-147,147,night,single female,gastrobeats,NA,#3f4780,1.49E+12,6,2,25,,
-148,148,night,none,marina,NA,#11ee,1.49E+12,6,2,25,,
-149,149,night,group,home,NA,#4b494b,1.49E+12,6,2,25,,
-150,150,day,none,marina,NA,#7594b8,1.49E+12,6,2,25,,
-151,151,night,couple,marina,NA,#736266,1.49E+12,6,2,25,,
-152,152,night,single female,uncle ringo,NA,#575562,1.49E+12,6,2,25,,
-153,153,night,single female,ocean pavilion,NA,#6f73ac,1.49E+12,6,2,25,,
-154,154,night,none,marina,NA,#6581b8,1.49E+12,6,2,25,,
-155,155,night,none,marina,NA,#394a5d,1.49E+12,6,2,25,,
-156,156,night,single male,marina,NA,#6a686a,1.49E+12,6,2,25,,
-157,157,night,none,moonflower,NA,#4d453d,1.49E+12,6,2,25,,
-158,158,night,single female,artbox,NA,#6a5555,1.49E+12,6,2,25,,
-159,159,night,single male,marina,NA,#735f5a,1.49E+12,6,2,25,,
-160,160,night,none,ultra light network,NA,#be18,1.49E+12,6,2,25,,
-161,161,day,single male,marina,NA,#70727b,1.49E+12,6,2,25,,
-162,162,night,group,ultra light network,NA,#b49aa5,1.49E+12,6,2,25,,
-163,163,day,single male,marina,NA,#94979c,1.49E+12,6,2,25,,
-164,164,day,single male,marina,NA,#a2a5ab,1.49E+12,6,2,25,,
-165,165,night,none,moonflower,NA,#2a4282,1.49E+12,6,2,25,,
-166,166,night,none,marina,NA,#3f393f,1.49E+12,6,2,25,,
-167,167,night,single female,horizontal interference,NA,#35295c,1.49E+12,6,2,25,,
-168,168,night,single female,ocean pavilion,NA,#174e85,1.49E+12,6,2,25,,
-169,169,day,single male,marina,NA,#c4c3b9,1.49E+12,6,2,25,,
-170,170,day,single female,marina,NA,#898a9a,1.49E+12,6,2,25,,
-171,171,night,single female,marina,NA,#3e2838,1.49E+12,6,2,25,,
-172,172,night,none,very glowing exhibition - very wishing river,NA,#152740,1.49E+12,6,2,25,,
-173,173,day,single female,the urchin,NA,#95a0ab,1.49E+12,6,2,25,,
-174,174,night,single male,ultra light network,NA,#615e65,1.49E+12,6,2,25,,
-175,175,night,none,gastrobeats,NA,#28293f,1.49E+12,6,2,25,,
-176,176,night,single female,passage of inner reflection,NA,#777270,1.49E+12,6,2,25,,
-177,177,night,none,HYBYCOZO,NA,#595e67,1.49E+12,6,2,25,,
-178,178,night,single male,ultra light network,NA,#383c49,1.49E+12,6,2,25,,
-179,179,night,single male,uncle ringo,NA,#243c54,1.49E+12,6,2,25,,
-180,180,day,single female,marina,NA,#8c97a1,1.49E+12,6,2,25,,
-181,181,night,single male,ultra light network,NA,#6d6768,1.49E+12,6,2,25,,
-182,182,night,single male,ultra light network,NA,#706e6f,1.49E+12,6,2,25,,
-183,183,day,none,marina,NA,#4b668a,1.49E+12,6,2,25,,
-184,184,day,none,marina,NA,#657e9b,1.49E+12,6,2,25,,
-185,185,day,single female,marina,NA,#938a80,1.49E+12,6,2,25,,
-186,186,night,single female,gastrobeats,NA,#52405f,1.49E+12,6,2,25,,
-187,187,night,single male,ocean pavilion,NA,#a5abc,1.49E+12,6,2,25,,
-188,188,night,single male,ultra light network,NA,#515b84,1.49E+12,6,2,25,,
-189,189,night,single male,moonflower,NA,#342b27,1.49E+12,6,2,25,,
-190,190,night,none,moonflower,NA,#11ff,1.49E+12,6,2,25,,
-191,191,day,none,marina,NA,#465a71,1.49E+12,6,2,25,,
-192,192,night,none,moonflower,NA,#474679,1.49E+12,6,2,25,,
-193,193,night,none,dande-lier,NA,#3d525b,1.49E+12,6,2,25,,
-194,194,night,single male,horizontal interference,NA,#3b2f7d,1.49E+12,6,2,25,,
-195,195,night,single male,horizontal interference,NA,#3c3480,1.49E+12,6,2,25,,
-196,196,night,none,horizontal interference,NA,#342a5a,1.49E+12,6,2,25,,
-197,197,night,none,home,NA,#2a2d34,1.49E+12,6,2,25,,
-198,198,night,single female,horizontal interference,NA,#553018,1.49E+12,6,2,25,,
-199,199,night,single female,horizontal interference,NA,#502e17,1.49E+12,5,2,24,,
-200,200,night,single female,horizontal interference,NA,#573118,1.49E+12,5,2,24,,
-201,201,night,single female,gastrobeats,NA,#5f5d66,1.49E+12,5,2,24,,
-202,202,night,single male,passage of inner reflection,NA,#706c63,1.49E+12,5,2,24,,
-203,203,day,none,marina,NA,#6d8394,1.49E+12,5,2,24,,
-204,204,night,single female,HYBYCOZO,cosplayer,#582a30,1.49E+12,5,2,24,,
-205,205,night,single female,HYBYCOZO,cosplayer,#424c5b,1.49E+12,5,2,24,,
-206,206,night,single female,HYBYCOZO,cosplayer,#2b2d46,1.49E+12,5,2,24,,
-207,207,night,single female,ultra light network,NA,#5d4e58,1.49E+12,5,2,24,,
-208,208,night,none,gastrobeats,food,#6d524e,1.49E+12,5,2,24,,
-209,209,night,none,marina,NA,#2d2926,1.49E+12,5,2,24,,
-210,210,night,none,very glowing exhibition - very wishing river,NA,#152741,1.49E+12,5,2,24,,
-211,211,night,single female,horizontal interference,NA,#4f3d6b,1.49E+12,5,2,24,,
-212,212,night,none,gastrobeats,NA,#2a2231,1.49E+12,5,2,24,,
-213,213,day,none,horizontal interference,NA,#91868b,1.49E+12,5,2,24,,
-214,214,day,single female,artbox,NA,#948588,1.49E+12,5,2,24,,
-215,215,night,group,marina,family,#868584,1.49E+12,5,2,24,,
-216,216,night,none,home,NA,#383f41,1.49E+12,5,2,24,,
-217,217,night,group,passage of inner reflection,NA,#939192,1.49E+12,5,2,24,,
-218,218,night,single female,moonflower,NA,#27213e,1.49E+12,5,2,24,,
-219,219,day,none,marina,NA,#92968d,1.49E+12,5,2,24,,
-220,220,night,none,marina,NA,#655449,1.49E+12,5,2,24,,
-221,221,night,none,horizontal interference,NA,#292f4c,1.49E+12,5,2,24,,
-222,222,night,single female,colourful garden of lights,NA,#454c6d,1.49E+12,5,2,24,,
-223,223,night,none,marina,NA,#7f8f9d,1.49E+12,5,2,24,,
-224,224,night,single female,gastrobeats,NA,#6c7b8d,1.49E+12,5,2,24,,
-225,225,night,couple,marina waterfront bazaar,NA,#695346,1.49E+12,5,2,24,,
-226,226,night,none,gastrobeats,NA,#755a42,1.49E+12,5,2,24,,
-227,227,night,none,home,NA,#38495f,1.49E+12,5,2,24,,
-228,228,night,single female,HYBYCOZO,NA,#622521,1.49E+12,5,2,24,,
-229,229,day,single female,marina,NA,#446378,1.49E+12,5,2,24,,
-230,230,day,couple,marina,NA,#96949d,1.49E+12,5,2,24,,
-231,231,night,none,horizontal interference,NA,#28194f,1.49E+12,5,2,24,,
-232,232,day,none,marina,NA,#bfbfbd,1.49E+12,5,2,24,,
-233,233,night,single female,i light you so much,NA,#434847,1.49E+12,5,2,24,,
-234,234,night,none,horizontal interference,NA,#392768,1.49E+12,5,2,24,,
-235,235,night,none,HYBYCOZO,NA,#463b4a,1.49E+12,5,2,24,,
-236,236,night,none,HYBYCOZO,NA,#3d474d,1.49E+12,5,2,24,,
-237,237,night,none,marina,NA,#2a2825,1.49E+12,5,2,24,,
-238,238,night,none,silent disco asia,NA,#111316,1.49E+12,5,2,24,,
-239,239,night,single male,moonflower,NA,#77676d,1.49E+12,5,2,24,,
-240,240,night,none,moonflower,NA,#3c485a,1.49E+12,5,2,24,,
-241,241,night,couple,moonflower,NA,#3c2e2b,1.49E+12,5,2,24,,
-242,242,night,none,marina,NA,#1e1819,1.49E+12,5,2,24,,
-243,243,night,none,forever young!,NA,#444247,1.49E+12,5,2,24,,
-244,244,night,single male,gastrobeats,NA,#4d413c,1.49E+12,5,2,24,,
-245,245,night,none,moonflower,NA,#514339,1.49E+12,5,2,24,,
-246,246,day,group,marina,NA,#726c74,1.49E+12,5,2,24,,
-247,247,night,none,marina,NA,#20252b,1.49E+12,5,2,24,,
-248,248,night,none,gastrobeats,NA,#282339,1.49E+12,4,2,23,,
-249,249,night,none,horizontal interference,NA,#584e73,1.49E+12,4,2,23,,
-250,250,night,none,uncle ringo,NA,#37383e,1.49E+12,4,2,23,,
-251,251,day,none,marina,NA,#586881,1.49E+12,4,2,23,,
-252,252,night,none,horizontal interference,NA,#6d6b8b,1.49E+12,4,2,23,,
-253,253,night,none,horizontal interference,NA,#2e2a54,1.49E+12,4,2,23,,
-254,254,night,none,ultra light network,NA,#28242a,1.49E+12,4,2,23,,
-255,255,night,none,moonflower,NA,#6b6a6b,1.49E+12,4,2,23,,
-256,256,night,none,secret galaxies,NA,#423741,1.49E+12,4,2,23,,
-257,257,night,single female,marina,NA,#46353f,1.49E+12,4,2,23,,
-258,258,night,single female,uncle ringo,NA,#67656d,1.49E+12,4,2,23,,
-259,259,night,single female,horizontal interference,NA,#23f41,1.49E+12,4,2,23,,
-260,260,night,single male,HYBYCOZO,NA,#10273a,1.49E+12,4,2,23,,
-261,261,night,single female,marina,NA,#ad66e6,1.49E+12,4,2,23,,
-262,262,night,none,marina,legs only,#778084,1.49E+12,4,2,23,,
-263,263,night,couple,uncle ringo,NA,#7e6571,1.49E+12,4,2,23,,
-264,264,day,none,marina,MBS,#6d7c80,1.49E+12,4,2,23,,
-265,265,night,none,gastrobeats,NA,#c81c,1.49E+12,4,2,23,,
-266,266,night,group,horizontal interference,NA,#7c4aa1,1.49E+12,4,2,23,,
-267,267,night,none,moonflower,NA,#4b3d35,1.49E+12,4,2,23,,
-268,268,night,none,home,NA,#4b515b,1.49E+12,4,2,23,,
-269,269,night,none,very glowing exhibition - very wishing river,NA,#4626b8,1.49E+12,4,2,23,,
-270,270,day,none,marina,NA,#97989b,1.49E+12,4,2,23,,
-271,271,day,group,pasarbella,NA,#b1a19a,1.49E+12,4,2,23,,
-272,272,night,single male,ultra light network,NA,#4a4157,1.49E+12,4,2,23,,
-273,273,night,single female,the urchin,NA,#676461,1.49E+12,4,2,23,,
-274,274,night,group,the urchin,NA,#8a7e79,1.49E+12,4,2,23,,
-275,275,night,couple,marina,NA,#4e4145,1.49E+12,4,2,23,,
-276,276,night,couple,the urchin,NA,#847e77,1.49E+12,4,2,23,,
-277,277,night,none,marina,MBS,#2d2c27,1.49E+12,4,2,23,,
-278,278,night,none,moonflower,NA,#4d5767,1.49E+12,4,2,23,,
-279,279,night,none,gastrobeats,NA,#252027,1.49E+12,4,2,23,,
-280,280,night,none,marina,MBS,#434248,1.49E+12,4,2,23,,
-281,281,night,group,marina,NA,#574e50,1.49E+12,4,2,23,,
-282,282,night,none,horizontal interference,iphone case,#2c1a53,1.49E+12,4,2,23,,
-283,283,night,none,marina,NA,#484245,1.49E+12,4,2,23,,
-284,284,day,single male,marina,NA,#6475a0,1.49E+12,4,2,23,,
-285,285,night,couple,gastrobeats,NA,#3d1f7a,1.49E+12,4,2,23,,
-286,286,night,none,uncle ringo,NA,#383550,1.49E+12,4,2,23,,
-287,287,night,none,home,NA,#16161c,1.49E+12,4,2,23,,
-288,288,night,none,colourful garden of lights,NA,#4b3e69,1.49E+12,4,2,23,,
-289,289,night,single female,passage of inner reflection,NA,#8c8279,1.49E+12,4,2,23,,
-290,290,night,none,the body of sea,NA,#2c2f34,1.49E+12,4,2,23,,
-291,291,night,single female,moonflower,NA,#38337a,1.49E+12,4,2,23,,
-292,292,day,none,marina,NA,#596372,1.49E+12,3,2,22,,
-293,293,night,none,colourful garden of lights,NA,#25202d,1.49E+12,3,2,22,,
-294,294,night,none,ultra light network,NA,#111438,1.49E+12,3,2,22,,
-295,295,night,none,ocean pavilion,NA,#6b87bd,1.49E+12,3,2,22,,
-296,296,night,none,colourful garden of lights,NA,#231d37,1.49E+12,3,2,22,,
-297,297,day,couple,marina,NA,#919594,1.49E+12,3,2,22,,
-298,298,night,none,marina,MBS,#787678,1.49E+12,3,2,22,,
-299,299,night,none,gastrobeats,NA,#eb2c,1.49E+12,3,2,22,,
-300,300,night,none,marina,NA,#14182a,1.49E+12,3,2,22,,
-301,301,day,none,marina,NA,#607aa0,1.49E+12,3,2,22,,
-302,302,night,single male,gastrobeats,NA,#58425d,1.49E+12,3,2,22,,
-303,303,night,single male,gastrobeats,NA,#2e2135,1.49E+12,3,2,22,,
-304,304,night,single female,home,NA,#223e4d,1.49E+12,3,2,22,,
-305,305,night,group,horizontal interference,NA,#11b31,1.49E+12,3,2,22,,
-306,306,day,none,gastrobeats,food,#cbd1d8,1.49E+12,3,2,22,,
-307,307,night,none,colourful garden of lights,STFU <3,#37323c,1.49E+12,3,2,22,,
-308,308,night,none,horizontal interference,NA,#341292,1.49E+12,3,2,22,,
-309,309,day,group,gastrobeats,kids,#836e66,1.49E+12,3,2,22,,
-310,310,night,couple,gastrobeats,NA,#615a69,1.49E+12,3,2,22,,
-311,311,day,none,gastrobeats,NA,#8b7a77,1.49E+12,3,2,22,,
-312,312,night,single female,moonflower,NA,#59545a,1.49E+12,3,2,22,,
-313,313,night,none,HYBYCOZO,NA,#2d4049,1.49E+12,3,2,22,,
-314,314,night,single female,dande-lier,NA,#637bb2,1.49E+12,3,2,22,,
-315,315,night,none,marina,NA,#565953,1.49E+12,3,2,22,,
-316,316,night,none,ocean pavilion,NA,#153156,1.49E+12,3,2,22,,
-317,317,night,none,ocean pavilion,NA,#363e49,1.49E+12,3,2,22,,
-318,318,night,none,ocean pavilion,NA,#333747,1.49E+12,3,2,22,,
-319,319,night,none,marina,NA,#191414,1.49E+12,3,2,22,,
-320,320,night,group,passage of inner reflection,NA,#846879,1.49E+12,3,2,22,,
-321,321,night,none,moonflower,NA,#352e32,1.49E+12,3,2,22,,
-322,322,night,couple,horizontal interference,NA,#6e6384,1.49E+12,3,2,22,,
-323,323,day,group,pasarbella,NA,#bbb1b0,1.49E+12,3,2,22,,
-324,324,night,single female,uncle ringo,NA,#53534e,1.49E+12,3,2,22,,
-325,325,night,none,northern lights,NA,#494a56,1.49E+12,3,2,22,,
-326,326,night,single male,home,NA,#2e343d,1.49E+12,3,2,22,,
-327,327,night,none,home,NA,#141214,1.49E+12,3,2,22,,
-328,328,night,couple,gastrobeats,NA,#5f40ae,1.49E+12,3,2,22,,
-329,329,night,none,horizontal interference,NA,#4578cb,1.49E+12,3,2,22,,
-330,330,night,single female,marina,NA,#645053,1.49E+12,3,2,22,,
-331,331,night,none,dande-lier,NA,#585658,1.49E+12,3,2,22,,
-332,332,night,none,moonflower,NA,#8164e,1.49E+12,3,2,22,,
-333,333,night,none,HYBYCOZO,NA,#1e203e,1.49E+12,3,2,22,,
-334,334,night,none,horizontal interference,NA,#29e2b,1.49E+12,3,2,22,,
-335,335,night,single female,uncle ringo,NA,#355969,1.49E+12,3,2,22,,
-336,336,night,single male,passage of inner reflection,NA,#a19fa3,1.49E+12,2,2,21,,
-337,337,night,none,gastrobeats,NA,#5e1d,1.49E+12,2,2,21,,
-338,338,night,group,ocean pavilion,kids,#5d86b0,1.49E+12,2,2,21,,
-339,339,night,couple,passage of inner reflection,NA,#7f7676,1.49E+12,2,2,21,,
-340,340,night,none,passage of inner reflection,NA,#d0ced0,1.49E+12,2,2,21,,
-341,341,night,none,marina,NA,#85827a,1.49E+12,2,2,21,,
-342,342,night,none,gastrobeats,NA,#201e1e,1.49E+12,2,2,21,,
-343,343,night,none,home,NA,#808592,1.49E+12,2,2,21,,
-344,344,night,single female,marina,NA,#827991,1.49E+12,2,2,21,,
-345,345,night,none,passage of inner reflection,NA,#918b8c,1.49E+12,2,2,21,,
-346,346,night,single female,home,NA,#464444,1.49E+12,2,2,21,,
-347,347,night,single male,passage of inner reflection,kid,#656466,1.49E+12,2,2,21,,
-348,348,night,single male,home,NA,#1412,1.49E+12,2,2,21,,
-349,349,night,none,ultra light network,NA,#303066,1.49E+12,2,2,21,,
-350,350,night,none,marina,NA,#654180,1.49E+12,2,2,21,,
-351,351,night,none,moonflower,NA,#2f2e38,1.49E+12,2,2,21,,
-352,352,night,none,uncle ringo,NA,#285360,1.49E+12,2,2,21,,
-353,353,night,none,HYBYCOZO,NA,#213b46,1.49E+12,2,2,21,,
-354,354,night,couple,ultra light network,NA,#68636f,1.49E+12,2,2,21,,
-355,355,night,single female,dande-lier,NA,#7d496a,1.49E+12,2,2,21,,
-356,356,night,single female,horizontal interference,NA,#3a3e64,1.49E+12,2,2,21,,
-357,357,night,none,ocean pavilion,NA,#5cb4,1.49E+12,2,2,21,,
-358,358,night,none,colourful garden of lights,NA,#19182c,1.49E+12,2,2,21,,
-359,359,day,single male,marina,NA,#809aa6,1.49E+12,2,2,21,,
-360,360,night,none,home,NA,#2a364a,1.49E+12,2,2,21,,
-361,361,night,none,horizontal interference,NA,#2d1e64,1.49E+12,2,2,21,,
-362,362,night,none,gastrobeats,hand,#34302c,1.49E+12,2,2,21,,
-363,363,night,single female,ultra light network,NA,#646f73,1.49E+12,2,2,21,,
-364,364,night,single female,pasarbella,NA,#504c58,1.49E+12,2,2,21,,
-365,365,night,single female,gastrobeats,NA,#716d72,1.49E+12,2,2,21,,
-366,366,night,none,gastrobeats,NA,#1d1826,1.49E+12,2,2,21,,
-367,367,night,none,marina,NA,#332d33,1.49E+12,2,2,21,,
-368,368,night,group,artzoo,NA,#6e4f4f,1.49E+12,2,2,21,,
-369,369,night,single male,marina,NA,#6f5470,1.49E+12,2,2,21,,
-370,370,night,single male,horizontal interference,NA,#3a317e,1.49E+12,2,2,21,,
-371,371,night,couple,horizontal interference,NA,#191e2c,1.49E+12,2,2,21,,
-372,372,night,single male,pasarbella,NA,#6e6d67,1.49E+12,2,2,21,,
-373,373,night,single female,artzoo,NA,#727774,1.49E+12,2,2,21,,
-374,374,night,none,colourful garden of lights,NA,#2e273c,1.49E+12,2,2,21,,
-375,375,night,single male,marina,wushu,#76797d,1.49E+12,1,2,20,,
-376,376,night,none,the body of sea,NA,#101119,1.49E+12,1,2,20,,
-377,377,night,none,gastrobeats,band,#3d3b3d,1.49E+12,1,2,20,,
-378,378,night,single male,moonflower,NA,#21233f,1.49E+12,1,2,20,,
-379,379,night,none,marina,dog,#675850,1.49E+12,1,2,20,,
-380,380,night,couple,colourful garden of lights,NA,#685056,1.49E+12,1,2,20,,
-381,381,night,none,marina,star wars robot,#2a1245,1.49E+12,1,2,20,,
-382,382,night,none,moonflower,NA,#312c25,1.49E+12,1,2,20,,
-383,383,night,none,HYBYCOZO,NA,#2b2342,1.49E+12,1,2,20,,
-384,384,night,none,HYBYCOZO,NA,#452554,1.49E+12,1,2,20,,
-385,385,night,none,passage of inner reflection,NA,#78656e,1.49E+12,1,2,20,,
-386,386,night,none,waves,NA,#625749,1.49E+12,1,2,20,,
-387,387,night,none,dande-lier,NA,#362d89,1.49E+12,1,2,20,,
-388,388,night,none,horizontal interference,NA,#302a43,1.49E+12,1,2,20,,
-389,389,night,none,gastrobeats,NA,#161118,1.49E+12,1,2,20,,
-390,390,night,none,ultra light network,NA,#b810,1.49E+12,1,2,20,,
-391,391,night,single male,horizontal interference,NA,#3a3258,1.49E+12,1,2,20,,
-392,392,night,none,uncle ringo,NA,#435969,1.49E+12,1,2,20,,
-393,393,day,none,gastrobeats,NA,#767779,1.49E+12,1,2,20,,
-394,394,night,none,marina,NA,#2d281e,1.49E+12,1,2,20,,
-395,395,night,none,horizontal interference,NA,#171622,1.49E+12,1,2,20,,
-396,396,night,single male,passage of inner reflection,NA,#807d7c,1.49E+12,1,2,20,,
-397,397,night,none,marina,NA,#494749,1.49E+12,1,2,20,,
-398,398,day,none,marina,NA,#9da3a7,1.49E+12,1,2,20,,
-399,399,night,single female,marina,NA,#454334,1.49E+12,1,2,20,,
-400,400,night,group,gastrobeats,female,#4d3877,1.49E+12,1,2,20,,
-401,401,night,couple,i light you so much,NA,#4a3940,1.49E+12,1,2,20,,
-402,402,night,none,colourful garden of lights,NA,#1c1519,1.49E+12,1,2,20,,
-403,403,night,none,ocean pavilion,NA,#85acf,1.49E+12,1,2,20,,
-404,404,night,none,passage of inner reflection,NA,#4c4a4c,1.49E+12,1,2,20,,
-405,405,night,none,ocean pavilion,NA,#91040,1.49E+12,1,2,20,,
-406,406,night,none,colourful garden of lights,NA,#352230,1.49E+12,1,2,20,,
-407,407,night,none,colourful garden of lights,NA,#342330,1.49E+12,1,2,20,,
-408,408,night,none,gastrobeats,food,#8e8a8c,1.49E+12,1,2,20,,
-409,409,night,single female,horizontal interference,NA,#211c42,1.49E+12,1,2,20,,
-410,410,night,single male,marina,NA,#574647,1.49E+12,1,2,20,,
-411,411,night,single female,i light you so much,NA,#7a6254,1.49E+12,1,2,20,,
-412,412,night,couple,the urchin,marriage,#5a585a,1.49E+12,1,2,20,,
-413,413,night,none,waterfront bazaar,NA,#3e342d,1.49E+12,1,2,20,,
-414,414,night,couple,uncle ringo,NA,#59525b,1.49E+12,1,2,20,,
-415,415,night,group,home,all female,#7d7b7a,1.49E+12,1,2,20,,
-416,416,night,none,you lookin' at me?,an eye,#151d22,1.49E+12,1,2,20,,
-417,417,night,single male,ultra light network,NA,#535455,1.49E+12,1,2,20,,
-418,418,day,couple,marina,NA,#afbdcb,1.49E+12,1,2,20,,
-419,419,night,couple,horizontal interference,NA,#3e235d,1.49E+12,1,2,20,,
-420,420,night,none,horizontal interference,NA,#592c8a,1.49E+12,1,2,20,,
-421,421,night,none,horizontal interference,NA,#2d2064,1.49E+12,1,2,20,,
-422,422,day,none,marina,2xu run,#abafad,1.49E+12,1,2,20,,
-423,423,night,group,marina,all male,#464143,1.49E+12,1,2,20,,
-424,424,night,single male,ocean pavilion,NA,#23cb4,1.49E+12,1,2,20,,
-425,425,night,single female,home,NA,#5f5b6d,1.49E+12,0,2,19,,
-426,426,night,none,uncle ringo,NA,#43464a,1.49E+12,0,2,19,,
-427,427,night,group,ocean pavilion,kids,#6d6b6d,1.49E+12,0,2,19,,
-428,428,night,single male,marina,NA,#39312b,1.49E+12,0,2,19,,
-429,429,night,none,unknown,"giant flowers, opposite MBS",#271e1d,1.49E+12,0,2,19,,
-430,430,night,none,ultra light network,NA,#242a31,1.49E+12,0,2,19,,
-431,431,night,single female,horizontal interference,NA,#4b4571,1.49E+12,0,2,19,,
-432,432,night,none,moonflower,NA,#8a8788,1.49E+12,0,2,19,,
-433,433,night,none,moonflower,NA,#3e3b47,1.49E+12,0,2,19,,
-434,434,night,single female,horizontal interference,NA,#2c2143,1.49E+12,0,2,19,,
-435,435,night,none,moonflower,NA,#2a2922,1.49E+12,0,2,19,,
-436,436,night,none,artzoo,NA,#3f4a57,1.49E+12,0,2,19,,
-437,437,night,none,the body of sea,NA,#1f1a19,1.49E+12,0,2,19,,
-438,438,night,none,home,NA,#151315,1.49E+12,0,2,19,,
-439,439,night,single female,marina,box,#7c7775,1.49E+12,0,2,19,,
-440,440,night,single male,marina,NA,#282628,1.49E+12,0,2,19,,
-441,441,night,none,moonflower,NA,#29291e,1.49E+12,0,2,19,,
-442,442,night,none,kaldeioscope monolith,NA,#111610,1.49E+12,0,2,19,,
-443,443,night,none,eco.me,NA,#3f4147,1.49E+12,0,2,19,,
-444,444,night,none,northern lights,NA,#131310,1.49E+12,0,2,19,,
-445,445,night,none,home,NA,#23243e,1.49E+12,0,2,19,,
-446,446,night,none,home,NA,#10151c,1.49E+12,0,2,19,,
-447,447,night,none,gastrobeats,NA,#1010d,1.49E+12,0,2,19,,
-448,448,night,single female,gastrobeats,NA,#536679,1.49E+12,0,2,19,,
-449,449,night,none,horizontal interference,NA,#3c1e4b,1.49E+12,0,2,19,,
-450,450,night,single female,horizontal interference,NA,#473959,1.49E+12,0,2,19,,
-451,451,night,single male,horizontal interference,NA,#1f1933,1.49E+12,0,2,19,,
-452,452,night,none,horizontal interference,NA,#b916,1.49E+12,0,2,19,,
-453,453,night,group,marina,all male,#2b2155,1.49E+12,0,2,19,,
-454,454,night,group,ultra light network,female pair,#5a5456,1.49E+12,0,2,19,,
-455,455,night,single male,marina,NA,#332420,1.49E+12,0,2,19,,
-456,456,night,none,ocean pavilion,NA,#72283,1.49E+12,0,2,19,,
-457,457,night,couple,moonflower,NA,#645c57,1.49E+12,0,2,19,,
-458,458,night,single male,passage of inner reflection,kid,#706f73,1.49E+12,0,2,19,,
-459,459,night,single female,ultra light network,NA,#473e4c,1.49E+12,0,2,19,,
-460,460,night,single female,horizontal interference,NA,#2a1a3e,1.49E+12,0,2,19,,
-461,461,night,single male,horizontal interference,kid,#312d7d,1.49E+12,0,2,19,,
-462,462,night,single male,gastrobeats,NA,#5f4170,1.49E+12,0,2,19,,
-463,463,night,couple,passage of inner reflection,NA,#7c7977,1.49E+12,0,2,19,,
-464,464,night,single male,uncle ringo,NA,#425b63,1.49E+12,0,2,19,,
-465,465,night,single female,marina,NA,#52483a,1.49E+12,0,2,19,,
-466,466,night,single female,passage of inner reflection,NA,#9c979c,1.49E+12,0,2,19,,
-467,467,night,none,marina,NA,#4a434b,1.49E+12,0,2,19,,
-468,468,night,group,marina,male pair,#6d7b8c,1.49E+12,0,2,19,,
-469,469,night,single female,passage of inner reflection,NA,#756e67,1.49E+12,0,2,19,,
-470,470,night,none,horizontal interference,NA,#271464,1.49E+12,0,2,19,,
-471,471,night,none,horizontal interference,NA,#1c133f,1.49E+12,0,2,19,,
-472,472,night,none,social sparkles,NA,#312d24,1.49E+12,0,2,19,,
-473,473,night,single female,HYBYCOZO,model,#858290,1.49E+12,0,2,19,,
-474,474,night,none,social sparkles,NA,#786,1.49E+12,0,2,19,,
-475,475,night,none,social sparkles,NA,#886,1.49E+12,0,2,19,,
-476,476,night,none,social sparkles,NA,#1d1914,1.49E+12,0,2,19,,
-477,477,night,couple,marina,esplande,#6e5d4b,1.49E+12,0,2,19,,
-478,478,night,single female,marina,NA,#474b47,1.49E+12,0,2,19,,
-479,479,night,none,marina,NA,#1c1a1c,1.49E+12,0,2,19,,
-480,480,night,none,marina,MBS,#522927,1.49E+12,0,2,19,,
-481,481,day,none,marina,NA,#65607d,1.49E+12,0,2,19,,
-482,482,night,single male,horizontal interference,NA,#443d4b,1.49E+12,0,2,19,,
-483,483,day,group,marina,family,#9fa9ae,1.49E+12,0,2,19,,
-484,484,night,none,ocean pavilion,NA,#284353,1.49E+12,0,2,19,,
-485,485,night,single male,ultra light network,NA,#3e4049,1.49E+12,0,2,19,,
-486,486,night,group,horizontal interference,female pair,#3e425b,1.49E+12,0,2,19,,
-487,487,night,group,marina,all female,#767471,1.49E+12,0,2,19,,
-488,488,night,single male,passage of inner reflection,NA,#e2e0e3,1.49E+12,0,2,19,,
-489,489,night,none,moonflower,NA,#4f6863,1.49E+12,0,2,19,,
-490,490,day,single female,marina,NA,#a1aab5,1.49E+12,0,2,19,,
-491,491,night,single female,unknown,looks like passage,#c4aa93,1.49E+12,0,2,19,,
-492,492,night,none,marina,NA,#b4988a,1.49E+12,0,2,19,,
-493,493,day,none,marina,taxis,#5c687c,1.49E+12,0,2,19,,
-494,494,day,single female,horizontal interference,NA,#443c5b,1.49E+12,0,2,19,,
-495,495,night,none,northern lights,NA,#d1011,1.49E+12,0,2,19,,
-496,496,night,none,horizontal interference,NA,#20113b,1.49E+12,0,2,19,,
-497,497,night,single female,home,NA,#2b2533,1.49E+12,0,2,19,,
-498,498,night,group,marina,mother and child,#a08c91,1.49E+12,0,2,19,,
-499,499,night,couple,home,NA,#555961,1.49E+12,0,2,19,,
-500,500,night,none,ocean pavilion,NA,#5247c,1.49E+12,0,2,19,,
-501,501,night,none,horizontal interference,NA,#141023,1.49E+12,0,2,19,,
-502,502,night,none,ocean pavilion,NA,#b1862,1.49E+12,0,2,19,,
-503,503,night,couple,the urchin,NA,#423734,1.49E+12,0,2,19,,
-504,504,night,none,horizontal interference,NA,#391955,1.49E+12,6,2,18,,
-505,505,night,single female,dande-lier,NA,#545056,1.49E+12,6,2,18,,
-506,506,night,single female,ocean pavilion,NA,#518bef,1.49E+12,6,2,18,,
-507,507,night,none,marina,NA,#2e2823,1.49E+12,6,2,18,,
-508,508,night,single male,the urchin,NA,#514b4c,1.49E+12,6,2,18,,
-509,509,night,none,horizontal interference,NA,#282c4f,1.49E+12,6,2,18,,
-510,510,night,none,home,NA,#251c1a,1.49E+12,6,2,18,,
-511,511,night,none,marina,NA,#361d2f,1.49E+12,6,2,18,,
-512,512,night,single female,passage of inner reflection,NA,#b0aeb2,1.49E+12,6,2,18,,
-513,513,day,none,horizontal interference,NA,#9ca0b0,1.49E+12,6,2,18,,
-514,514,night,single male,ocean pavilion,NA,#5c6f9b,1.49E+12,6,2,18,,
-515,515,night,none,horizontal interference,NA,#46217c,1.49E+12,6,2,18,,
-516,516,night,none,HYBYCOZO,NA,#1d1f46,1.49E+12,6,2,18,,
-517,517,day,single male,marina,NA,#8b8382,1.49E+12,6,2,18,,
-518,518,night,group,horizontal interference,NA,#e91e,1.49E+12,6,2,18,,
-519,519,day,group,marina,NA,#8c7c82,1.49E+12,6,2,18,,
-520,520,night,none,marina,NA,#292020,1.49E+12,6,2,18,,
-521,521,night,single female,moonflower,NA,#221c3b,1.49E+12,6,2,18,,
-522,522,night,single male,horizontal interference,NA,#36334f,1.49E+12,6,2,18,,
-523,523,night,single male,ultra light network,NA,#87788b,1.49E+12,6,2,18,,
-524,524,day,couple,moonflower,NA,#92827b,1.49E+12,6,2,18,,
-525,525,night,couple,passage of inner reflection,NA,#99969c,1.49E+12,6,2,18,,
-526,526,day,single female,gastrobeats,NA,#977f7d,1.49E+12,6,2,18,,
-527,527,night,group,horizontal interference,NA,#362b43,1.49E+12,6,2,18,,
-528,528,night,group,passage of inner reflection,NA,#97959b,1.49E+12,6,2,18,,
-529,529,night,none,ocean pavilion,NA,#81e80,1.49E+12,6,2,18,,
-530,530,night,single female,marina,NA,#28282a,1.49E+12,6,2,18,,
-531,531,night,none,gastrobeats,NA,#293544,1.49E+12,6,2,18,,
-532,532,night,single female,passage of inner reflection,NA,#939eab,1.49E+12,6,2,18,,
-533,533,night,single female,the urchin,NA,#716d6a,1.49E+12,6,2,18,,
-534,534,unknown,couple,mrt,NA,#a29687,1.49E+12,6,2,18,,
-535,535,night,couple,gastrobeats,NA,#3c5182,1.49E+12,6,2,18,,
-536,536,night,couple,gastrobeats,NA,#3c5181,1.49E+12,6,2,18,,
-537,537,night,single female,moonflower,NA,#302825,1.49E+12,6,2,18,,
-538,538,night,none,marina,NA,#392f27,1.49E+12,6,2,18,,
-539,539,night,single male,ultra light network,NA,#503f49,1.49E+12,6,2,18,,
-540,540,day,none,marina,NA,#acadb3,1.49E+12,6,2,18,,
-541,541,day,single female,unknown,NA,#7a7271,1.49E+12,6,2,18,,
-542,542,night,single female,gastrobeats,NA,#d4b8b0,1.49E+12,6,2,18,,
-543,543,night,none,dande-lier,NA,#d4cfcf,1.49E+12,6,2,18,,
-544,544,night,none,ultra light network,NA,#211c1d,1.49E+12,6,2,18,,
-545,545,night,single male,gastrobeats,NA,#4f4559,1.49E+12,6,2,18,,
-546,546,night,group,marina,NA,#a8a499,1.49E+12,6,2,18,,
-547,547,night,single male,horizontal interference,NA,#352740,1.49E+12,6,2,18,,
-548,548,unknown,single panda,unknown,NA,#574934,1.49E+12,6,2,18,,
-549,549,night,none,ocean pavilion,NA,#8399a,1.49E+12,6,2,18,,
-550,550,night,none,marina,NA,#251f27,1.49E+12,6,2,18,,
-551,551,unknown,group,unknown,NA,#7c7069,1.49E+12,6,2,18,,
-552,552,night,none,ocean pavilion,NA,#548e6,1.49E+12,6,2,18,,
-553,553,night,single male,passage of inner reflection,NA,#4d6068,1.49E+12,6,2,18,,
-554,554,night,none,horizontal interference,NA,#2e145a,1.49E+12,6,2,18,,
-555,555,night,none,moonflower,NA,#292d3a,1.49E+12,6,2,18,,
-556,556,night,none,home,NA,#54545a,1.49E+12,6,2,18,,
-557,557,night,none,northern lights,NA,#ec11,1.49E+12,6,2,18,,
-558,558,night,none,moonflower,NA,#2b231c,1.49E+12,6,2,18,,
-559,559,night,none,colourful garden of lights,NA,#233366,1.49E+12,6,2,18,,
-560,560,night,none,moonflower,NA,#3f4457,1.49E+12,6,2,18,,
-561,561,night,none,marina,NA,#1a1e23,1.49E+12,6,2,18,,
-562,562,night,single female,ocean pavilion,cosplay,#83aeec,1.49E+12,6,2,18,,
-563,563,night,none,HYBYCOZO,NA,#1c2642,1.49E+12,6,2,18,,
-564,564,night,none,gastrobeats,NA,#551f60,1.49E+12,6,2,18,,
-565,565,night,single male,gastrobeats,NA,#87817e,1.49E+12,6,2,18,,
-566,566,night,single female,ocean pavilion,NA,#a2798,1.49E+12,6,2,18,,
-567,567,night,single female,horizontal interference,NA,#32f67,1.49E+12,6,2,18,,
-568,568,night,none,horizontal interference,NA,#14101a,1.49E+12,6,2,18,,
-569,569,night,none,ultra light network,NA,#717275,1.49E+12,5,2,17,,
-570,570,night,single female,marina,NA,#4b3d3e,1.49E+12,5,2,17,,
-571,571,night,none,HYBYCOZO,NA,#26412c,1.49E+12,5,2,17,,
-572,572,night,group,colourful garden of lights,NA,#7f4da5,1.49E+12,5,2,17,,
-573,573,night,none,ocean pavilion,hand,#239c0,1.49E+12,5,2,17,,
-574,574,night,single male,marina,NA,#7d6d55,1.49E+12,5,2,17,,
-575,575,night,couple,passage of inner reflection,NA,#838687,1.49E+12,5,2,17,,
-576,576,night,none,northern lights,NA,#a8b,1.49E+12,5,2,17,,
-577,577,night,single female,gastrobeats,NA,#3b3336,1.49E+12,5,2,17,,
-578,578,night,none,horizontal interference,NA,#2f1a65,1.49E+12,5,2,17,,
-579,579,night,couple,home,NA,#26272e,1.49E+12,5,2,17,,
-580,580,night,single female,gastrobeats,NA,#9d7eb1,1.49E+12,5,2,17,,
-581,581,night,single male,horizontal interference,NA,#3e2a43,1.49E+12,5,2,17,,
-582,582,night,single female,horizontal interference,dog,#302e4b,1.49E+12,5,2,17,,
-583,583,night,single female,gastrobeats,NA,#151834,1.49E+12,5,2,17,,
-584,584,night,single female,gastrobeats,NA,#502e97,1.49E+12,5,2,17,,
-585,586,night,group,home,NA,#605e57,1.49E+12,5,2,17,,
-586,587,night,single female,marina,NA,#ae9799,1.49E+12,5,2,17,,
-587,588,night,none,moonflower,NA,#565354,1.49E+12,5,2,17,,
-588,589,night,single male,horizontal interference,NA,#201749,1.49E+12,5,2,17,,
-589,590,night,single male,horizontal interference,NA,#2c256a,1.49E+12,5,2,17,,
-590,591,night,single male,marina,NA,#6b696c,1.49E+12,5,2,17,,
-591,592,night,none,unknown,NA,#5532,1.49E+12,5,2,17,,
-592,593,night,none,marina,NA,#161415,1.49E+12,5,2,17,,
-593,594,night,none,marina,NA,#2b2626,1.49E+12,5,2,17,,
-594,595,night,none,the urchin,NA,#3b3b3e,1.49E+12,5,2,17,,
-595,596,night,none,moonflower,NA,#242047,1.49E+12,5,2,17,,
-596,597,night,couple,NA,NA,#573d4e,1.49E+12,5,2,17,,
-597,598,night,none,horizontal interference,NA,#615253,1.49E+12,5,2,17,,
-598,599,night,single male,horizontal interference,NA,#292336,1.49E+12,5,2,17,,
-599,600,day,couple,gastrobeats,NA,#998b94,1.49E+12,5,2,17,,
-600,601,night,single female,ocean pavilion,NA,#630c9,1.49E+12,5,2,17,,
-601,602,night,none,HYBYCOZO,NA,#32204f,1.49E+12,5,2,17,,
-602,603,night,none,marina,trees,#404522,1.49E+12,5,2,17,,
-603,604,night,single male,colourful garden of lights,NA,#4d5d57,1.49E+12,5,2,17,,
-604,605,night,none,horizontal interference,NA,#12f2f,1.49E+12,5,2,17,,
-605,606,night,single female,horizontal interference,NA,#71587c,1.49E+12,5,2,17,,
-606,607,night,none,i light you so much,NA,#322d27,1.49E+12,5,2,17,,
-607,608,night,single male,horizontal interference,NA,#505b8f,1.49E+12,5,2,17,,
-608,609,night,none,gastrobeats,NA,#271a40,1.49E+12,5,2,17,,
-609,610,night,single male,ocean pavilion,NA,#91a51,1.49E+12,5,2,17,,
-610,611,day,none,marina,NA,#6d6b5e,1.49E+12,5,2,17,,
-611,612,night,single female,ultra light network,NA,#8d6e7e,1.49E+12,5,2,17,,
-612,613,night,none,marina,NA,#13151a,1.49E+12,5,2,17,,
-613,614,day,none,dande-lier,NA,#6e72ab,1.49E+12,5,2,17,,
-614,615,night,single female,horizontal interference,NA,#271f41,1.49E+12,4,2,16,,
-615,616,night,single male,the urchin,NA,#514c4c,1.49E+12,4,2,16,,
-616,617,night,single female,horizontal interference,NA,#4e4b6e,1.49E+12,4,2,16,,
-617,618,day,none,horizontal interference,NA,#816f62,1.49E+12,4,2,16,,
-618,619,night,couple,HYBYCOZO,NA,#3a1215,1.49E+12,4,2,16,,
-619,620,night,single female,moonflower,NA,#4f4070,1.49E+12,4,2,16,,
-620,621,night,none,gastrobeats,NA,#2f2e41,1.49E+12,4,2,16,,
-621,622,night,single male,ultra light network,NA,#4b4e64,1.49E+12,4,2,16,,
-622,623,night,single female,ultra light network,NA,#5b5150,1.49E+12,4,2,16,,
-623,624,night,none,home,NA,#3d4150,1.49E+12,4,2,16,,
-624,625,night,single male,ultra light network,NA,#806d6f,1.49E+12,4,2,16,,
-625,626,night,single male,gastrobeats,NA,#7e767f,1.49E+12,4,2,16,,
-626,627,night,group,marina,child,#78554c,1.49E+12,4,2,16,,
-627,628,night,single female,ultra light network,NA,#6c6660,1.49E+12,4,2,16,,
-628,629,night,single female,dande-lier,NA,#1c4a4,1.49E+12,4,2,16,,
-629,630,night,none,marina,NA,#2f2d2f,1.49E+12,4,2,16,,
-630,631,night,single male,gastrobeats,NA,#a08682,1.49E+12,4,2,16,,
-631,632,night,none,marina,NA,#29241f,1.49E+12,4,2,16,,
-632,633,night,none,marina,NA,#3f3125,1.49E+12,4,2,16,,
-633,634,night,none,horizontal interference,NA,#4b138e,1.49E+12,4,2,16,,
-634,635,night,none,northern lights,NA,#222514,1.49E+12,4,2,16,,
-635,636,night,couple,passage of inner reflection,NA,#8d8d8b,1.49E+12,4,2,16,,
-636,637,night,none,HYBYCOZO,NA,#6091a1,1.49E+12,4,2,16,,
-637,638,night,none,northern lights,NA,#16161e,1.49E+12,4,2,16,,
-638,639,night,none,marina,NA,#302525,1.49E+12,4,2,16,,
-639,640,night,single male,passage of inner reflection,NA,#91847b,1.49E+12,4,2,16,,
-640,641,night,none,marina,NA,#25221e,1.49E+12,4,2,16,,
-641,642,night,single female,gastrobeats,NA,#7a564f,1.49E+12,4,2,16,,
-642,643,night,couple,dande-lier,NA,#b0d0e4,1.49E+12,4,2,16,,
-643,644,night,none,moonflower,NA,#272728,1.49E+12,4,2,16,,
-644,645,day,group,marina,NA,#888d9c,1.49E+12,4,2,16,,
-645,646,night,couple,gastrobeats,NA,#3e3248,1.49E+12,4,2,16,,
-646,647,night,none,marina,NA,#272424,1.49E+12,4,2,16,,
-647,648,night,single male,marina,child,#413227,1.49E+12,4,2,16,,
-648,649,night,none,home,NA,#1c2641,1.49E+12,4,2,16,,
-649,650,day,none,unknown,ice cream,#d1c5be,1.49E+12,3,2,15,,
-650,651,night,none,horizontal interference,NA,#372c4d,1.49E+12,3,2,15,,
-651,652,night,none,ocean pavilion,NA,#a1731,1.49E+12,3,2,15,,
-652,653,night,none,ultra light network,NA,#221b2e,1.49E+12,3,2,15,,
-653,654,night,single female,horizontal interference,NA,#272355,1.49E+12,3,2,15,,
-654,655,night,single male,marina,NA,#404341,1.49E+12,3,2,15,,
-655,656,night,none,ocean pavilion,NA,#5b595b,1.49E+12,3,2,15,,
-656,657,night,single female,ultra light network,NA,#1b1c24,1.49E+12,3,2,15,,
-657,658,night,single male,gastrobeats,band,#4f4d4f,1.49E+12,3,2,15,,
-658,659,night,couple,gastrobeats,NA,#796250,1.49E+12,3,2,15,,
-659,660,night,couple,horizontal interference,botak,#302140,1.49E+12,3,2,15,,
-660,661,day,single female,marina,NA,#b1b4b9,1.49E+12,3,2,15,,
-661,662,night,none,ultra light network,NA,#736878,1.49E+12,3,2,15,,
-662,663,night,group,marina mall,NA,#967c7e,1.49E+12,3,2,15,,
-663,664,night,none,ultra light network,NA,#302425,1.49E+12,3,2,15,,
-664,665,night,none,northern lights,NA,#6f6c75,1.49E+12,3,2,15,,
-665,666,night,single male,dande-lier,NA,#9e95ae,1.49E+12,3,2,15,,
-666,667,night,group,passage of inner reflection,NA,#6e6c66,1.49E+12,3,2,15,,
-667,668,night,single male,home,NA,#2e313d,1.49E+12,3,2,15,,
-668,669,night,single female,marina,NA,#a08078,1.49E+12,3,2,15,,
-669,670,night,none,the body of sea,NA,#202425,1.49E+12,3,2,15,,
-670,671,night,group,horizontal interference,NA,#403641,1.49E+12,3,2,15,,
-671,672,night,single male,relocating locality,NA,#9f6b69,1.49E+12,3,2,15,,
-672,673,night,single male,home,NA,#2a282d,1.49E+12,3,2,15,,
-673,674,night,single female,gastrobeats,dog,#645861,1.49E+12,3,2,15,,
-674,675,night,single female,ultra light network,NA,#6b5e63,1.49E+12,3,2,15,,
-675,676,night,single female,i light you so much,NA,#989295,1.49E+12,3,2,15,,
-676,677,night,single female,unknown,NA,#c0bdc0,1.49E+12,3,2,15,,
-677,678,night,single male,horizontal interference,NA,#473d53,1.49E+12,3,2,15,,
-678,679,night,none,gastrobeats,ice cream,#5e5450,1.49E+12,3,2,15,,
-679,680,night,single female,horizontal interference,NA,#5a4159,1.49E+12,3,2,15,,
-680,681,night,single female,horizontal interference,NA,#374159,1.49E+12,3,2,15,,
-681,682,night,single female,gastrobeats,NA,#645246,1.49E+12,3,2,15,,
-682,683,night,group,horizontal interference,NA,#424453,1.49E+12,3,2,15,,
-683,684,night,single female,horizontal interference,NA,#364259,1.49E+12,3,2,15,,
-684,685,night,none,ultra light network,NA,#282032,1.49E+12,3,2,15,,
-685,686,unknown,single female,mrt,NA,#ebb56d,1.49E+12,3,2,15,,
-686,687,night,couple,moonflower,NA,#2d2826,1.49E+12,3,2,15,,
-687,688,night,single female,HYBYCOZO,NA,#362434,1.49E+12,2,2,14,,
-688,689,night,single female,gastrobeats,NA,#54566a,1.49E+12,2,2,14,,
-689,690,night,none,gastrobeats,band,#282228,1.49E+12,2,2,14,,
-690,691,night,couple,dande-lier,NA,#215090,1.49E+12,2,2,14,,
-691,692,unknown,none,unknown,design,#7193a7,1.49E+12,2,2,14,,
-692,693,night,group,gastrobeats,NA,#603a8a,1.49E+12,2,2,14,,
-693,694,day,none,marina,bottle,#aab6c0,1.49E+12,2,2,14,,
-694,695,night,couple,horizontal interference,NA,#2c275b,1.49E+12,2,2,14,,
-695,696,night,none,unknown,map,#1b202e,1.49E+12,2,2,14,,
-696,697,night,couple,horizontal interference,NA,#4a4c48,1.49E+12,2,2,14,,
-697,698,night,group,passage of inner reflection,NA,#7e7774,1.49E+12,2,2,14,,
-698,699,night,none,moonflower,NA,#74706f,1.49E+12,2,2,14,,
-699,700,night,none,horizontal interference,NA,#2e2163,1.49E+12,2,2,14,,
-700,701,night,single male,unknown,light bike,#413664,1.49E+12,2,2,14,,
-701,702,day,couple,gastrobeats,NA,#818394,1.49E+12,2,2,14,,
-702,703,unknown,single male,unknown,child,#87444e,1.49E+12,2,2,14,,
-703,704,day,none,unknown,bubbles,#5e98d6,1.49E+12,2,2,14,,
-704,705,night,none,gastrobeats,NA,#4f5557,1.49E+12,2,2,14,,
-705,706,night,group,gastrobeats,NA,#797cee,1.49E+12,2,2,14,,
-706,707,night,none,marina,NA,#2d282b,1.49E+12,2,2,14,,
-707,708,night,none,moonflower,NA,#464f62,1.49E+12,2,2,14,,
-708,709,day,single female,marina,NA,#838a95,1.49E+12,2,2,14,,
-709,710,night,couple,horizontal interference,NA,#5c4452,1.49E+12,2,2,14,,
-710,711,night,none,moonflower,NA,#3a3b48,1.49E+12,2,2,14,,
-711,712,night,none,horizontal interference,NA,#201d3f,1.49E+12,2,2,14,,
-712,713,day,none,unknown,bag,#eae7e9,1.49E+12,2,2,14,,
-713,714,night,couple,horizontal interference,NA,#342d5c,1.49E+12,2,2,14,,
-714,715,night,single male,horizontal interference,NA,#2a2032,1.49E+12,2,2,14,,
-715,716,night,none,gastrobeats,NA,#b5b7c1,1.49E+12,2,2,14,,
-716,717,night,single male,horizontal interference,NA,#a99fbb,1.49E+12,2,2,14,,
-717,718,night,single male,horizontal interference,NA,#503b7f,1.49E+12,2,2,14,,
-718,719,night,single male,horizontal interference,NA,#342656,1.49E+12,2,2,14,,
-719,720,night,single male,marina,NA,#3d3a39,1.49E+12,2,2,14,,
-720,721,night,none,northern lights,NA,#252320,1.49E+12,2,2,14,,
-721,722,night,group,gastrobeats,child,#7c7471,1.49E+12,2,2,14,,
-722,723,night,single male,ocean pavilion,NA,#1d48dd,1.49E+12,2,2,14,,
-723,724,day,none,marina,NA,#446592,1.49E+12,2,2,14,,
-724,725,night,none,ocean pavilion,NA,#254b8c,1.49E+12,1,2,13,,
-725,726,night,none,the urchin,NA,#3a3a39,1.49E+12,1,2,13,,
-726,727,night,single male,marina,robot,#462b6b,1.49E+12,1,2,13,,
-727,728,night,single female,passage of inner reflection,NA,#e7dde6,1.49E+12,1,2,13,,
-728,729,night,none,marina,NA,#381e2e,1.49E+12,1,2,13,,
-729,730,night,single female,gastrobeats,NA,#272144,1.49E+12,1,2,13,,
-730,731,night,none,horizontal interference,NA,#795b9a,1.49E+12,1,2,13,,
-731,732,night,none,the body of sea,NA,#333440,1.49E+12,1,2,13,,
-732,733,night,group,dande-lier,NA,#4d5855,1.49E+12,1,2,13,,
-733,734,night,none,HYBYCOZO,NA,#111a2a,1.49E+12,1,2,13,,
-734,735,night,single female,gastrobeats,NA,#1f1731,1.49E+12,1,2,13,,
-735,736,night,single female,passage of inner reflection,NA,#635b58,1.49E+12,1,2,13,,
-736,737,night,none,horizontal interference,NA,#a7b1cd,1.49E+12,1,2,13,,
-737,738,night,couple,gastrobeats,NA,#63566f,1.49E+12,1,2,13,,
-738,739,night,single male,passage of inner reflection,NA,#8d9aa7,1.49E+12,1,2,13,,
-739,740,day,single female,marina,NA,#526b83,1.49E+12,1,2,13,,
-740,741,night,couple,home,NA,#666570,1.49E+12,1,2,13,,
-741,742,night,none,horizontal interference,NA,#382a60,1.49E+12,1,2,13,,
-742,743,night,single male,marina,NA,#786450,1.49E+12,1,2,13,,
-743,744,night,single female,horizontal interference,dolphin,#262140,1.49E+12,1,2,13,,
-744,745,night,couple,gastrobeats,NA,#826257,1.49E+12,1,2,13,,
-745,746,night,single female,unknown,NA,#836b75,1.49E+12,1,2,13,,
-746,747,night,couple,colourful garden of lights,NA,#584a70,1.49E+12,1,2,13,,
-747,748,night,single female,ultra light network,NA,#866fa7,1.49E+12,1,2,13,,
-748,749,night,single female,passage of inner reflection,NA,#ccc9ca,1.49E+12,1,2,13,,
-749,750,night,couple,gastrobeats,NA,#3c2862,1.49E+12,1,2,13,,
-750,751,night,couple,gastrobeats,NA,#231a2f,1.49E+12,1,2,13,,
-751,752,night,none,colourful garden of lights,NA,#60485a,1.49E+12,1,2,13,,
-752,753,night,single male,horizontal interference,NA,#2d1c4e,1.49E+12,1,2,13,,
-753,754,night,single female,marina,NA,#42475d,1.49E+12,1,2,13,,
-754,755,night,single female,moonflower,NA,#867c9c,1.49E+12,1,2,13,,
-755,756,day,none,marina,NA,#677072,1.49E+12,1,2,13,,
-756,757,night,none,moonflower,NA,#232121,1.49E+12,1,2,13,,
-757,758,night,none,moonflower,NA,#3e2d30,1.49E+12,1,2,13,,
-758,759,night,none,ultra light network,NA,#545254,1.49E+12,1,2,13,,
-759,760,night,none,ultra light network,NA,#394140,1.49E+12,1,2,13,,
-760,761,night,single female,ultra light network,NA,#64525b,1.49E+12,1,2,13,,
-761,762,night,single female,horizontal interference,NA,#384a50,1.49E+12,1,2,13,,
-762,763,night,single male,horizontal interference,NA,#443f5a,1.49E+12,1,2,13,,
-763,764,night,single female,HYBYCOZO,NA,#2a1745,1.49E+12,1,2,13,,
-764,765,night,single male,ultra light network,NA,#5c5673,1.49E+12,1,2,13,,
-765,766,night,couple,horizontal interference,NA,#8c6098,1.49E+12,1,2,13,,
-766,767,night,single female,gastrobeats,bear,#7c7778,1.49E+12,1,2,13,,
-767,768,unknown,single male,mrt,NA,#87898c,1.49E+12,1,2,13,,
-768,769,night,single female,the urchin,NA,#8f8785,1.49E+12,1,2,13,,
-769,770,night,single female,ocean pavilion,NA,#42434d,1.49E+12,1,2,13,,
-770,771,day,none,unknown,food,#828277,1.49E+12,1,2,13,,
-771,772,night,group,passage of inner reflection,NA,#857e7d,1.49E+12,1,2,13,,
-772,773,night,none,marina,NA,#221b12,1.49E+12,1,2,13,,
-773,774,night,none,home,NA,#19192a,1.49E+12,0,2,12,,
-774,775,night,couple,horizontal interference,NA,#1b1722,1.49E+12,0,2,12,,
-775,776,day,single female,gastrobeats,NA,#767e8e,1.49E+12,0,2,12,,
-776,777,night,single female,ultra light network,NA,#8b7484,1.49E+12,0,2,12,,
-777,778,night,single male,marina,NA,#53412b,1.49E+12,0,2,12,,
-778,779,night,single female,passage of inner reflection,NA,#9893a5,1.49E+12,0,2,12,,
-779,780,night,single female,gastrobeats,NA,#473267,1.49E+12,0,2,12,,
-780,781,day,none,artzoo,NA,#b5c2c4,1.49E+12,0,2,12,,
-781,782,night,none,moonflower,NA,#5c5857,1.49E+12,0,2,12,,
-782,783,night,none,marina,NA,#242022,1.49E+12,0,2,12,,
-783,784,night,single female,gastrobeats,NA,#695759,1.49E+12,0,2,12,,
-784,785,night,single female,gastrobeats,NA,#a59890,1.49E+12,0,2,12,,
-785,786,night,single female,gastrobeats,NA,#586880,1.49E+12,0,2,12,,
-786,787,night,none,marina,NA,#131311,1.49E+12,0,2,12,,
-787,788,night,couple,passage of inner reflection,NA,#737070,1.49E+12,0,2,12,,
-788,789,night,single female,ocean pavilion,NA,#22dad,1.49E+12,0,2,12,,
-789,790,night,none,marina,NA,#484448,1.49E+12,0,2,12,,
-790,791,night,none,stormtrooper,NA,#302b28,1.49E+12,0,2,12,,
-791,792,night,none,ocean pavilion,NA,#525a7,1.49E+12,0,2,12,,
-792,793,night,none,moonflower,NA,#2f3030,1.49E+12,0,2,12,,
-793,794,night,single female,gastrobeats,NA,#73707d,1.49E+12,0,2,12,,
-794,795,night,group,gastrobeats,NA,#4f433f,1.49E+12,0,2,12,,
-795,796,night,none,home,NA,#141314,1.49E+12,0,2,12,,
-796,797,night,none,horizontal interference,NA,#252325,1.49E+12,0,2,12,,
-797,798,night,none,ultra light network,NA,#1f1d1f,1.49E+12,0,2,12,,
-798,799,night,couple,marina,NA,#423731,1.49E+12,0,2,12,,
-799,800,night,none,horizontal interference,NA,#342c81,1.49E+12,0,2,12,,
-800,801,night,none,moonflower,NA,#524246,1.49E+12,0,2,12,,
-801,802,night,single female,gastrobeats,NA,#796254,1.49E+12,0,2,12,,
-802,803,night,single female,colourful garden of lights,NA,#584c66,1.49E+12,0,2,12,,
-803,804,night,none,home,NA,#211d1b,1.49E+12,0,2,12,,
-804,805,night,none,gastrobeats,NA,#403a51,1.49E+12,0,2,12,,
-805,806,night,none,marina,NA,#292625,1.49E+12,0,2,12,,
-806,807,night,none,ultra light network,NA,#251d28,1.49E+12,0,2,12,,
-807,808,night,none,moonflower,NA,#524635,1.49E+12,0,2,12,,
-808,809,night,single female,home,NA,#63605b,1.49E+12,0,2,12,,
-809,810,night,single female,moonflower,NA,#898176,1.49E+12,0,2,12,,
-810,811,night,single male,ocean pavilion,NA,#79a7c2,1.49E+12,0,2,12,,
-811,812,night,none,horizontal interference,NA,#3f3b97,1.49E+12,0,2,12,,
-812,813,night,single male,horizontal interference,NA,#3d3654,1.49E+12,0,2,12,,
-813,814,night,none,horizontal interference,NA,#252265,1.49E+12,0,2,12,,
-814,815,night,single female,HYBYCOZO,NA,#1c1924,1.49E+12,0,2,12,,
-815,816,night,none,home,NA,#131410,1.49E+12,0,2,12,,
-816,817,night,couple,home,NA,#8a8989,1.49E+12,0,2,12,,
-817,818,night,none,gastrobeats,NA,#2a2332,1.49E+12,0,2,12,,
-818,819,night,none,gastrobeats,NA,#429,1.49E+12,0,2,12,,
-819,820,night,none,colourful garden of lights,NA,#8e9195,1.49E+12,0,2,12,,
-820,821,night,none,HYBYCOZO,NA,#106077,1.49E+12,0,2,12,,
-821,822,night,none,horizontal interference,NA,#2d86f,1.49E+12,0,2,12,,
-822,823,night,group,waves,NA,#715243,1.49E+12,0,2,12,,
-823,824,night,none,HYBYCOZO,NA,#503945,1.49E+12,0,2,12,,
-824,825,night,none,northern lights,NA,#1c2e30,1.49E+12,0,2,12,,
-825,826,night,single female,colourful garden of lights,NA,#2f1169,1.49E+12,0,2,12,,
-826,827,night,none,HYBYCOZO,NA,#5c1115,1.49E+12,0,2,12,,
-827,828,night,none,HYBYCOZO,NA,#322a45,1.49E+12,0,2,12,,
-828,829,night,single female,the urchin,NA,#695f63,1.49E+12,0,2,12,,
-829,830,night,none,gastrobeats,NA,#fb19,1.49E+12,0,2,12,,
-830,831,night,none,the urchin,NA,#4d4c5a,1.49E+12,0,2,12,,
-831,832,night,none,colourful garden of lights,NA,#1e141a,1.49E+12,0,2,12,,
-832,833,night,none,the urchin,NA,#524f52,1.49E+12,0,2,12,,
-833,834,night,none,northern lights,NA,#2c3236,1.49E+12,0,2,12,,
-834,835,night,none,gastrobeats,NA,#432e13,1.49E+12,0,2,12,,
-835,836,night,none,HYBYCOZO,NA,#6f6a7a,1.49E+12,0,2,12,,
-836,837,night,none,horizontal interference,NA,#1d1a3e,1.49E+12,0,2,12,,
-837,838,night,none,gastrobeats,NA,#1f1615,1.49E+12,0,2,12,,
-838,839,day,single male,marina,NA,#918989,1.49E+12,0,2,12,,
-839,840,night,none,HYBYCOZO,NA,#4d3836,1.49E+12,0,2,12,,
-840,841,night,single female,HYBYCOZO,NA,#3c4343,1.49E+12,0,2,12,,
-841,842,night,none,home,NA,#ece,1.49E+12,0,2,12,,
-842,843,night,couple,gastrobeats,NA,#493360,1.49E+12,0,2,12,,
-843,844,night,single male,the urchin,NA,#4a484c,1.49E+12,0,2,12,,
-844,845,night,couple,relocating locality,NA,#2b2b2c,1.49E+12,0,2,12,,
-845,846,night,none,ultra light network,NA,#4b2d46,1.49E+12,0,2,12,,
-846,847,night,none,horizontal interference,NA,#5e27aa,1.49E+12,0,2,12,,
-847,848,night,single male,horizontal interference,NA,#332450,1.49E+12,0,2,12,,
-848,849,night,single female,HYBYCOZO,NA,#c244b,1.49E+12,0,2,12,,
-849,850,night,single male,horizontal interference,NA,#293450,1.49E+12,0,2,12,,
-850,851,night,none,home,NA,#f1316,1.49E+12,0,2,12,,
-851,852,night,none,horizontal interference,NA,#3a2b65,1.49E+12,0,2,12,,
-852,853,night,none,moonflower,NA,#464a52,1.49E+12,0,2,12,,
-853,854,night,single male,horizontal interference,NA,#493864,1.49E+12,0,2,12,,
-854,855,night,none,gastrobeats,NA,#897d91,1.49E+12,0,2,12,,
-855,856,night,couple,marina,NA,#635147,1.49E+12,0,2,12,,
-856,857,night,none,gastrobeats,NA,#535054,1.49E+12,0,2,12,,
-857,858,night,single female,ocean pavilion,NA,#3453d8,1.49E+12,0,2,12,,
-858,859,night,none,marina,NA,#222731,1.49E+12,0,2,12,,
-859,860,night,none,moonflower,NA,#3a332c,1.49E+12,0,2,12,,
-860,861,night,none,HYBYCOZO,NA,#9121d,1.49E+12,0,2,12,,
-861,862,night,group,gastrobeats,NA,#584e45,1.49E+12,0,2,12,,
-862,863,night,none,northern lights,NA,#569,1.49E+12,0,2,12,,
-863,864,night,none,marina,NA,#292b34,1.49E+12,6,2,11,,
-864,865,night,none,dande-lier,NA,#115e3e,1.49E+12,6,2,11,,
-865,866,night,none,unknown,NA,#463e38,1.49E+12,6,2,11,,
-866,867,day,single male,gastrobeats,NA,#a591a9,1.49E+12,6,2,11,,
-867,868,night,group,marina,NA,#594b45,1.49E+12,6,2,11,,
-868,869,night,single female,horizontal interference,NA,#16122e,1.49E+12,6,2,11,,
-869,870,night,single male,ultra light network,NA,#473158,1.49E+12,6,2,11,,
-870,871,night,group,passage of inner reflection,NA,#a8a3aa,1.49E+12,6,2,11,,
-871,872,night,none,home,NA,#333540,1.49E+12,6,2,11,,
-872,873,night,none,unknown,food,#826c48,1.49E+12,6,2,11,,
-873,874,night,single male,relocating locality,NA,#2f2d30,1.49E+12,6,2,11,,
-874,875,night,none,dande-lier,NA,#16253f,1.49E+12,6,2,11,,
-875,876,day,couple,marina,NA,#b0b4b8,1.49E+12,6,2,11,,
-876,877,night,group,passage of inner reflection,NA,#a39f9f,1.49E+12,6,2,11,,
-877,878,night,none,ocean pavilion,NA,#c1f76,1.49E+12,6,2,11,,
-878,879,night,single female,gastrobeats,NA,#211f26,1.49E+12,6,2,11,,
-879,880,night,none,marina,NA,#3d1f37,1.49E+12,6,2,11,,
-880,881,night,single female,the urchin,NA,#adaab0,1.49E+12,6,2,11,,
-881,882,night,single female,gastrobeats,NA,#422159,1.49E+12,6,2,11,,
-882,883,night,none,colourful garden of lights,NA,#2d2037,1.49E+12,6,2,11,,
-883,884,night,none,home,NA,#202224,1.49E+12,6,2,11,,
-884,885,night,group,artzoo,NA,#b0afbd,1.49E+12,6,2,11,,
-885,886,night,single male,uncle ringo,NA,#486a86,1.49E+12,6,2,11,,
-886,887,night,group,horizontal interference,NA,#453c4e,1.49E+12,6,2,11,,
-887,888,unknown,none,unknown,inspirational quote,#756b7a,1.49E+12,6,2,11,,
-888,889,night,couple,marina,NA,#2b1e50,1.49E+12,6,2,11,,
-889,890,night,group,gastrobeats,female pair,#7f3dd9,1.49E+12,6,2,11,,
-890,891,night,group,gastrobeats,NA,#463066,1.49E+12,6,2,11,,
-891,892,night,couple,uncle ringo,NA,#504e53,1.49E+12,6,2,11,,
-892,893,night,single female,uncle ringo,NA,#746281,1.49E+12,6,2,11,,
-893,894,night,single male,ultra light network,NA,#5a5a6b,1.49E+12,6,2,11,,
-894,895,night,couple,ocean pavilion,NA,#8418c,1.49E+12,6,2,11,,
-895,896,night,none,marina,NA,#253d55,1.49E+12,6,2,11,,
-896,897,night,single male,passage of inner reflection,NA,#88908a,1.49E+12,6,2,11,,
-897,898,night,single male,horizontal interference,NA,#393173,1.49E+12,6,2,11,,
-898,899,night,single female,ocean pavilion,NA,#d38b1,1.49E+12,6,2,11,,
-899,900,night,couple,uncle ringo,NA,#695849,1.49E+12,6,2,11,,
-900,901,night,none,ultra light network,NA,#261e1f,1.49E+12,6,2,11,,
-901,902,night,single male,horizontal interference,NA,#736d9e,1.49E+12,6,2,11,,
-902,903,night,none,gastrobeats,NA,#317,1.49E+12,6,2,11,,
-903,904,night,single male,uncle ringo,NA,#576267,1.49E+12,6,2,11,,
-904,905,night,single male,passage of inner reflection,NA,#858488,1.49E+12,6,2,11,,
-905,906,night,single female,horizontal interference,NA,#514b84,1.49E+12,6,2,11,,
-906,907,night,single male,passage of inner reflection,NA,#cabfba,1.49E+12,6,2,11,,
-907,908,night,none,marina,food/unrelated,#b68a7d,1.49E+12,6,2,11,,
-908,909,night,single male,home,NA,#32353c,1.49E+12,6,2,11,,
-909,910,night,single female,horizontal interference,NA,#533c39,1.49E+12,6,2,11,,
-910,911,night,single female,the urchin,NA,#4e4b4c,1.49E+12,6,2,11,,
-911,912,night,single male,gastrobeats,NA,#4c2f82,1.49E+12,6,2,11,,
-912,913,night,single female,passage of inner reflection,NA,#9f9696,1.49E+12,6,2,11,,
-913,914,night,single female,marina,cospslayer,#2f2e32,1.49E+12,6,2,11,,
-914,915,night,single female,home,NA,#4b4c63,1.49E+12,6,2,11,,
-915,916,night,single female,horizontal interference,NA,#775170,1.49E+12,6,2,11,,
-916,917,night,none,HYBYCOZO,NA,#3e393e,1.49E+12,6,2,11,,
-917,918,night,single male,horizontal interference,NA,#34234e,1.49E+12,6,2,11,,
-918,919,night,couple,gastrobeats,NA,#5b5359,1.49E+12,6,2,11,,
-919,920,night,single male,marina,NA,#4a4e52,1.49E+12,6,2,11,,
-920,921,night,single female,horizontal interference,NA,#443f80,1.49E+12,6,2,11,,
-921,922,night,single male,marina,unrelated,#65584f,1.49E+12,6,2,11,,
-922,923,night,none,moonflower,NA,#3e413d,1.49E+12,6,2,11,,
-923,924,night,single female,ocean pavilion,NA,#156598,1.49E+12,6,2,11,,
-924,925,night,none,uncle ringo,NA,#57526f,1.49E+12,6,2,11,,
-925,926,night,couple,horizontal interference,NA,#16c26,1.49E+12,6,2,11,,
-926,927,night,single female,uncle ringo,NA,#2d282a,1.49E+12,6,2,11,,
-927,928,day,none,uncle ringo,NA,#bba59f,1.49E+12,6,2,11,,
-928,929,day,group,marina,male pair,#a09d96,1.49E+12,6,2,11,,
-929,930,night,none,ultra light network,NA,#2b2453,1.49E+12,6,2,11,,
-930,931,night,none,forever young!,NA,#4b3e37,1.49E+12,6,2,11,,
-931,932,night,none,unknown,the flowers again,#1b1852,1.49E+12,6,2,11,,
-932,933,night,single male,horizontal interference,NA,#433548,1.49E+12,6,2,11,,
-933,934,night,single male,home,NA,#1c1a27,1.49E+12,6,2,11,,
-934,935,night,single female,horizontal interference,NA,#302955,1.49E+12,6,2,11,,
-935,936,night,none,gastrobeats,NA,#554c22,1.49E+12,6,2,11,,
-936,937,night,none,horizontal interference,NA,#281e53,1.49E+12,6,2,11,,
-937,938,night,none,moonflower,NA,#242520,1.49E+12,6,2,11,,
-938,939,night,none,uncle ringo,NA,#7a7b7b,1.49E+12,6,2,11,,
-939,940,night,none,moonflower,NA,#222a32,1.49E+12,6,2,11,,
-940,941,night,none,the urchin,NA,#424860,1.49E+12,6,2,11,,
-941,942,night,none,horizontal interference,NA,#1b1b44,1.49E+12,6,2,11,,
-942,943,night,none,horizontal interference,NA,#562784,1.49E+12,6,2,11,,
-943,944,night,none,gastrobeats,NA,#261c2e,1.49E+12,6,2,11,,
-944,945,night,none,waves,NA,#342d29,1.49E+12,5,2,10,,
-945,946,night,none,the urchin,NA,#3b3937,1.49E+12,5,2,10,,
-946,947,night,single female,HYBYCOZO,NA,#64414c,1.49E+12,5,2,10,,
-947,948,night,none,horizontal interference,NA,#241e42,1.49E+12,5,2,10,,
-948,949,night,single female,marina,NA,#8f8983,1.49E+12,5,2,10,,
-949,950,night,single female,gastrobeats,NA,#9c999d,1.49E+12,5,2,10,,
-950,951,night,couple,home,NA,#4a4d5a,1.49E+12,5,2,10,,
-951,952,night,couple,horizontal interference,NA,#2df59,1.49E+12,5,2,10,,
-952,953,night,none,forever young!,NA,#3c3834,1.49E+12,5,2,10,,
-953,954,night,single female,home,NA,#4c4a4f,1.49E+12,5,2,10,,
-954,955,night,single male,uncle ringo,NA,#271f12,1.49E+12,5,2,10,,
-955,956,night,single female,marina,box,#747788,1.49E+12,5,2,10,,
-956,957,night,none,unknown,irrelevant,#968e84,1.49E+12,5,2,10,,
-957,958,night,none,gastrobeats,food,#746351,1.49E+12,5,2,10,,
-958,959,day,group,gastrobeats,female pair,#8d90a1,1.49E+12,5,2,10,,
-959,960,night,couple,horizontal interference,NA,#342543,1.49E+12,5,2,10,,
-960,961,night,none,gastrobeats,NA,#c1c36,1.49E+12,5,2,10,,
-961,962,night,single female,gastrobeats,NA,#1b1523,1.49E+12,5,2,10,,
-962,963,night,single female,ultra light network,NA,#4c4051,1.49E+12,5,2,10,,
-963,964,night,single female,home,NA,#505861,1.49E+12,5,2,10,,
-964,965,night,single female,marina,NA,#6e6964,1.49E+12,5,2,10,,
-965,966,night,single female,horizontal interference,NA,#76618a,1.49E+12,5,2,10,,
-966,967,night,single female,gastrobeats,NA,#939294,1.49E+12,5,2,10,,
-967,968,night,none,moonflower,NA,#46413a,1.49E+12,5,2,10,,
-968,969,night,none,horizontal interference,NA,#6c2293,1.49E+12,5,2,10,,
-969,970,night,single female,marina,kid,#8e7268,1.49E+12,5,2,10,,
-970,971,night,single female,passage of inner reflection,NA,#6c6b7b,1.49E+12,5,2,10,,
-971,972,night,group,marina,NA,#382f2d,1.49E+12,5,2,10,,
-972,973,night,single female,horizontal interference,NA,#251a3c,1.49E+12,5,2,10,,
-973,974,night,none,marina,NA,#86756f,1.49E+12,5,2,10,,
-974,975,night,single female,uncle ringo,NA,#68594d,1.49E+12,5,2,10,,
-975,976,night,none,home,NA,#333c49,1.49E+12,5,2,10,,
-976,977,night,none,HYBYCOZO,NA,#10234e,1.49E+12,5,2,10,,
-977,978,night,couple,ultra light network,NA,#535060,1.49E+12,5,2,10,,
-978,979,night,single male,marina,NA,#3d3835,1.49E+12,5,2,10,,
-979,980,night,none,secret galaxies,NA,#887f73,1.49E+12,5,2,10,,
-980,981,night,single male,passage of inner reflection,NA,#605e57,1.49E+12,4,2,9,,
-981,982,night,single female,horizontal interference,NA,#4c3752,1.49E+12,4,2,9,,
-982,983,night,none,ultra light network,NA,#2d2435,1.49E+12,4,2,9,,
-983,984,night,single male,gastrobeats,NA,#353437,1.49E+12,4,2,9,,
-984,985,night,none,home,NA,#333444,1.49E+12,4,2,9,,
-985,986,night,none,marina,robot,#361d50,1.49E+12,4,2,9,,
-986,987,night,couple,HYBYCOZO,it's a mix so i just chose one,#322537,1.49E+12,4,2,9,,
-987,988,night,group,ultra light network,NA,#4b3131,1.49E+12,4,2,9,,
-988,989,night,couple,marina,NA,#6e6489,1.49E+12,4,2,9,,
-989,990,night,none,marina,merlion,#8c898d,1.49E+12,4,2,9,,
-990,991,night,none,secret galaxies,NA,#2a2525,1.49E+12,4,2,9,,
-991,992,night,single male,passage of inner reflection,NA,#7e7878,1.49E+12,4,2,9,,
-992,993,night,single female,ultra light network,NA,#494756,1.49E+12,4,2,9,,
-993,994,night,none,gastrobeats,NA,#847f8a,1.49E+12,4,2,9,,
-994,995,night,single female,passage of inner reflection,NA,#5c5d5d,1.49E+12,4,2,9,,
-995,996,night,none,ocean pavilion,NA,#223b53,1.49E+12,4,2,9,,
-996,997,night,single male,ultra light network,NA,#675f86,1.49E+12,4,2,9,,
-997,998,night,none,ocean pavilion,NA,#162761,1.49E+12,4,2,9,,
-998,999,night,none,uncle ringo,NA,#493d4d,1.49E+12,4,2,9,,
-999,1000,night,none,home,NA,#2d2b2d,1.49E+12,4,2,9,,
-1000,1001,night,none,HYBYCOZO,NA,#a64e1e,1.49E+12,4,2,9,,
-1001,1002,night,single female,horizontal interference,NA,#5d4f7e,1.49E+12,4,2,9,,
-1002,1003,day,none,unknown,NA,#7f7267,1.49E+12,4,2,9,,
-1003,1004,night,none,HYBYCOZO,NA,#50d53,1.49E+12,3,2,8,,
-1004,1005,day,none,gastrobeats,NA,#a5b1bb,1.49E+12,3,2,8,,
-1005,1006,night,single female,moonflower,NA,#443f41,1.49E+12,3,2,8,,
-1006,1007,night,none,moonflower,NA,#2e2827,1.49E+12,3,2,8,,
-1007,1008,night,none,HYBYCOZO,NA,#1e1425,1.49E+12,3,2,8,,
-1008,1009,night,group,HYBYCOZO,NA,#2ea58,1.49E+12,3,2,8,,
-1009,1010,night,couple,home,NA,#464245,1.49E+12,3,2,8,,
-1010,1011,night,single female,horizontal interference,NA,#4a5267,1.49E+12,3,2,8,,
-1011,1012,night,none,ocean pavilion,NA,#6c83,1.49E+12,3,2,8,,
-1012,1013,night,none,colourful garden of lights,NA,#372f40,1.49E+12,3,2,8,,
-1013,1014,night,couple,forever young!,NA,#65584a,1.49E+12,3,2,8,,
-1014,1015,day,single female,marina,irrelevant,#bba09a,1.49E+12,3,2,8,,
-1015,1016,night,group,marina,NA,#3b3333,1.49E+12,3,2,8,,
-1016,1017,night,single female,marina,NA,#ceced1,1.49E+12,3,2,8,,
-1017,1018,night,couple,moonflower,NA,#42363b,1.49E+12,3,2,8,,
-1018,1019,night,couple,uncle ringo,NA,#968c87,1.49E+12,3,2,8,,
-1019,1020,night,none,northern lights,NA,#242227,1.49E+12,3,2,8,,
-1020,1021,night,none,moonflower,NA,#876,1.49E+12,3,2,8,,
-1021,1022,night,couple,horizontal interference,NA,#73627a,1.49E+12,3,2,8,,
-1022,1023,night,single female,gastrobeats,NA,#504e52,1.49E+12,3,2,8,,
-1023,1024,day,single female,marina,NA,#85898c,1.49E+12,3,2,8,,
-1024,1025,day,single female,marina,NA,#d0c3bc,1.49E+12,3,2,8,,
-1025,1026,night,single female,marina,NA,#52515a,1.49E+12,2,2,7,,
-1026,1027,night,single female,gastrobeats,NA,#787372,1.49E+12,2,2,7,,
-1027,1028,night,single female,horizontal interference,NA,#3f2a62,1.49E+12,2,2,7,,
-1028,1029,night,none,silent disco asia,NA,#54406e,1.49E+12,2,2,7,,
-1029,1030,night,single male,moonflower,NA,#382f58,1.49E+12,2,2,7,,
-1030,1031,night,none,horizontal interference,NA,#5b2a85,1.49E+12,2,2,7,,
-1031,1032,night,group,ultra light network,NA,#695889,1.49E+12,2,2,7,,
-1032,1033,night,single female,horizontal interference,NA,#1f1547,1.49E+12,2,2,7,,
-1033,1034,night,none,home,NA,#19191b,1.49E+12,2,2,7,,
-1034,1035,night,single female,silent disco asia,NA,#251e2c,1.49E+12,2,2,7,,
-1035,1036,night,none,uncle ringo,NA,#4a494e,1.49E+12,2,2,7,,
-1036,1037,night,single male,ocean pavilion,NA,#a1bbd6,1.49E+12,2,2,7,,
-1037,1038,night,single female,passage of inner reflection,NA,#817d81,1.49E+12,2,2,7,,
-1038,1039,night,none,moonflower,NA,#24221f,1.49E+12,2,2,7,,
-1039,1040,night,none,moonflower,NA,#202424,1.49E+12,2,2,7,,
-1040,1041,night,couple,HYBYCOZO,NA,#2a5f9d,1.49E+12,2,2,7,,
-1041,1042,night,none,moonflower,NA,#252a23,1.49E+12,2,2,7,,
-1042,1043,night,single male,gastrobeats,NA,#423a4f,1.49E+12,2,2,7,,
-1043,1044,night,single female,gastrobeats,NA,#4f307b,1.49E+12,2,2,7,,
-1044,1045,night,single female,artzoo,NA,#4e373f,1.49E+12,2,2,7,,
-1045,1046,night,single female,artzoo,NA,#5f5952,1.49E+12,2,2,7,,
-1046,1047,night,couple,passage of inner reflection,NA,#68676d,1.49E+12,2,2,7,,
-1047,1048,night,couple,uncle ringo,NA,#4e4a4a,1.49E+12,2,2,7,,
-1048,1049,night,group,home,NA,#4b494b,1.49E+12,2,2,7,,
-1049,1050,night,none,moonflower,NA,#767,1.49E+12,2,2,7,,
-1050,1051,night,group,silent disco asia,NA,#322b45,1.49E+12,2,2,7,,
-1051,1052,night,none,home,NA,#7d7d81,1.49E+12,2,2,7,,
-1052,1053,night,none,HYBYCOZO,NA,#1c2e36,1.49E+12,2,2,7,,
-1053,1054,night,none,ultra light network,NA,#1b181e,1.49E+12,2,2,7,,
-1054,1055,night,single female,ocean pavilion,NA,#85a5e1,1.49E+12,1,2,6,,
-1055,1056,night,single female,unknown,box,#6d514e,1.49E+12,1,2,6,,
-1056,1057,night,single female,ultra light network,NA,#888597,1.49E+12,1,2,6,,
-1057,1058,night,single female,horizontal interference,NA,#625595,1.49E+12,1,2,6,,
-1058,1059,night,none,ultra light network,NA,#4d3f4a,1.49E+12,1,2,6,,
-1059,1060,night,couple,horizontal interference,NA,#3e325e,1.49E+12,1,2,6,,
-1060,1061,night,none,gastrobeats,NA,#19181e,1.49E+12,1,2,6,,
-1061,1062,night,single female,ocean pavilion,NA,#d6cb9,1.49E+12,1,2,6,,
-1062,1063,night,single female,uncle ringo,NA,#605b5d,1.49E+12,1,2,6,,
-1063,1064,night,single male,horizontal interference,NA,#555369,1.49E+12,1,2,6,,
-1064,1065,night,couple,gastrobeats,NA,#221f28,1.49E+12,1,2,6,,
-1065,1066,night,single female,horizontal interference,NA,#352657,1.49E+12,1,2,6,,
-1066,1067,night,couple,uncle ringo,NA,#9892a0,1.49E+12,1,2,6,,
-1067,1068,night,none,gastrobeats,NA,#52317a,1.49E+12,1,2,6,,
-1068,1069,night,couple,gastrobeats,NA,#403e4b,1.49E+12,1,2,6,,
-1069,1070,night,single female,passage of inner reflection,NA,#908f90,1.49E+12,1,2,6,,
-1070,1071,night,single female,ultra light network,NA,#514f7a,1.49E+12,1,2,6,,
-1071,1072,night,none,northern lights,NA,#4a4e64,1.49E+12,1,2,6,,
-1072,1073,night,single male,passage of inner reflection,NA,#514f53,1.49E+12,1,2,6,,
-1073,1074,night,single male,horizontal interference,NA,#6b6291,1.49E+12,1,2,6,,
-1074,1075,night,group,HYBYCOZO,NA,#4f4a6c,1.49E+12,1,2,6,,
-1075,1076,night,none,horizontal interference,NA,#241e44,1.49E+12,1,2,6,,
-1076,1077,night,none,horizontal interference,NA,#373b5f,1.49E+12,1,2,6,,
-1077,1078,night,single male,gastrobeats,NA,#211c42,1.49E+12,1,2,6,,
-1078,1079,night,single male,ultra light network,NA,#39373c,1.49E+12,1,2,6,,
-1079,1080,night,none,home,NA,#141313,1.49E+12,1,2,6,,
-1080,1081,night,none,unknown,NA,#1e1b1b,1.49E+12,1,2,6,,
-1081,1082,night,single female,ultra light network,NA,#6f5d7c,1.49E+12,1,2,6,,
-1082,1083,night,none,northern lights,NA,#99b,1.49E+12,1,2,6,,
-1083,1084,day,none,artzoo,NA,#84909c,1.49E+12,1,2,6,,
-1084,1085,night,none,artzoo,NA,#30343f,1.49E+12,1,2,6,,
-1085,1086,night,none,moonflower,NA,#272422,1.49E+12,1,2,6,,
-1086,1087,night,single female,horizontal interference,NA,#435272,1.49E+12,1,2,6,,
-1087,1088,night,single male,horizontal interference,NA,#808dc0,1.49E+12,1,2,6,,
-1088,1089,night,none,ultra light network,NA,#666166,1.49E+12,1,2,6,,
-1089,1090,night,single female,uncle ringo,NA,#665444,1.49E+12,1,2,6,,
-1090,1091,night,group,silent disco asia,NA,#382d3c,1.49E+12,1,2,6,,
-1091,1092,night,none,ultra light network,NA,#281f38,1.49E+12,1,2,6,,
-1092,1093,night,group,ultra light network,NA,#9a7664,1.49E+12,0,2,5,,
-1093,1094,night,single male,gastrobeats,NA,#939497,1.49E+12,0,2,5,,
-1094,1095,night,none,social sparkles,NA,#13f10,1.49E+12,0,2,5,,
-1095,1096,night,none,colourful garden of lights,NA,#221b29,1.49E+12,0,2,5,,
-1096,1097,night,group,horizontal interference,NA,#3b2941,1.49E+12,0,2,5,,
-1097,1098,night,single female,ocean pavilion,NA,#c3156,1.49E+12,0,2,5,,
-1098,1099,night,none,unknown,irrelevan,#5e7280,1.49E+12,0,2,5,,
-1099,1100,night,group,artzoo,NA,#756b43,1.49E+12,0,2,5,,
-1100,1101,night,group,gastrobeats,NA,#32203e,1.49E+12,0,2,5,,
-1101,1102,night,group,home,NA,#1a181a,1.49E+12,0,2,5,,
-1102,1103,night,none,HYBYCOZO,NA,#e2a44,1.49E+12,0,2,5,,
-1103,1104,night,none,you lookin' at me?,NA,#11181a,1.49E+12,0,2,5,,
-1104,1105,night,single male,gastrobeats,NA,#72577d,1.49E+12,0,2,5,,
-1105,1106,night,single female,gastrobeats,NA,#5a5c74,1.49E+12,0,2,5,,
-1106,1107,night,single female,passage of inner reflection,NA,#8d867c,1.49E+12,0,2,5,,
-1107,1108,night,none,secret galaxies,NA,#2b2824,1.49E+12,0,2,5,,
-1108,1109,night,none,marina,NA,#1e1b19,1.49E+12,0,2,5,,
-1109,1110,night,none,horizontal interference,NA,#151315,1.49E+12,0,2,5,,
-1110,1111,day,none,ultra light network,NA,#707994,1.49E+12,0,2,5,,
-1111,1112,night,none,ultra light network,NA,#29274c,1.49E+12,0,2,5,,
-1112,1113,night,none,the urchin,NA,#80807a,1.49E+12,0,2,5,,
-1113,1114,night,single female,ocean pavilion,NA,#82ea7,1.49E+12,0,2,5,,
-1114,1115,night,single female,unknown,NA,#262321,1.49E+12,0,2,5,,
-1115,1116,night,none,marina,NA,#23211b,1.49E+12,0,2,5,,
-1116,1117,night,group,silent disco asia,NA,#4b445c,1.49E+12,0,2,5,,
-1117,1118,night,single male,ocean pavilion,NA,#6e79ac,1.49E+12,0,2,5,,
-1118,1119,day,none,uncle ringo,NA,#9491a3,1.49E+12,0,2,5,,
-1119,1120,night,single female,passage of inner reflection,NA,#69625b,1.49E+12,0,2,5,,
-1120,1121,night,single female,uncle ringo,NA,#6f6968,1.49E+12,0,2,5,,
-1121,1122,night,none,ultra light network,NA,#2c2b46,1.49E+12,0,2,5,,
-1122,1123,day,none,dande-lier,NA,#c8d4e4,1.49E+12,0,2,5,,
-1123,1124,night,single female,horizontal interference,NA,#644777,1.49E+12,0,2,5,,
-1124,1125,day,none,dande-lier,NA,#c5cadb,1.49E+12,0,2,5,,
-1125,1126,night,none,ultra light network,NA,#2c2626,1.49E+12,0,2,5,,
-1126,1127,day,none,dande-lier,NA,#d0dded,1.49E+12,0,2,5,,
-1127,1128,night,single female,ultra light network,NA,#665285,1.49E+12,0,2,5,,
-1128,1129,night,none,horizontal interference,NA,#18f1b,1.49E+12,0,2,5,,
-1129,1130,night,single male,horizontal interference,NA,#404242,1.49E+12,0,2,5,,
-1130,1131,night,single male,artzoo,NA,#6f554b,1.49E+12,0,2,5,,
-1131,1132,night,single female,uncle ringo,NA,#705e51,1.49E+12,0,2,5,,
-1132,1133,night,single female,unknown,box,#696674,1.49E+12,0,2,5,,
-1133,1134,night,single male,horizontal interference,NA,#221938,1.49E+12,0,2,5,,
-1134,1135,night,group,horizontal interference,NA,#1b162c,1.49E+12,0,2,5,,
-1135,1136,night,single female,horizontal interference,NA,#1d133c,1.49E+12,0,2,5,,
-1136,1137,night,single female,gastrobeats,NA,#41456f,1.49E+12,0,2,5,,
-1137,1138,night,single female,marina,box,#463867,1.49E+12,0,2,5,,
-1138,1139,night,couple,gastrobeats,NA,#2f1256,1.49E+12,0,2,5,,
-1139,1140,night,couple,uncle ringo,NA,#664b5d,1.49E+12,0,2,5,,
-1140,1141,night,single female,horizontal interference,NA,#261f4b,1.49E+12,0,2,5,,
-1141,1142,night,couple,passage of inner reflection,NA,#78767a,1.49E+12,0,2,5,,
-1142,1143,night,single female,uncle ringo,NA,#514d5f,1.49E+12,0,2,5,,
-1143,1144,night,single female,secret galaxies,NA,#5f5a58,1.49E+12,0,2,5,,
-1144,1145,night,single female,secret galaxies,NA,#4e3449,1.49E+12,0,2,5,,
-1145,1146,night,single male,horizontal interference,NA,#2d205a,1.49E+12,0,2,5,,
-1146,1147,night,group,silent disco asia,NA,#59443e,1.49E+12,0,2,5,,
-1147,1148,night,group,horizontal interference,NA,#251d3e,1.49E+12,0,2,5,,
-1148,1149,night,single male,horizontal interference,NA,#564675,1.49E+12,0,2,5,,
-1149,1150,night,group,uncle ringo,NA,#655859,1.49E+12,0,2,5,,
-1150,1151,night,single female,gastrobeats,NA,#5e466c,1.49E+12,0,2,5,,
-1151,1152,night,single female,gastrobeats,NA,#3f3d3f,1.49E+12,0,2,5,,
-1152,1153,night,group,dande-lier,NA,#3b282e,1.49E+12,0,2,5,,
-1153,1154,night,single female,moonflower,NA,#2b2374,1.49E+12,0,2,5,,
-1154,1155,night,single female,gastrobeats,NA,#643e54,1.49E+12,0,2,5,,
-1155,1156,night,group,gastrobeats,NA,#3c3146,1.49E+12,0,2,5,,
-1156,1157,night,group,marina,NA,#2e3034,1.49E+12,0,2,5,,
-1157,1158,night,single male,horizontal interference,NA,#181033,1.49E+12,0,2,5,,
-1158,1159,night,group,gastrobeats,NA,#44464e,1.49E+12,0,2,5,,
-1159,1160,night,group,uncle ringo,NA,#b65e52,1.49E+12,0,2,5,,
-1160,1161,night,group,uncle ringo,NA,#776d6a,1.49E+12,0,2,5,,
-1161,1162,night,group,gastrobeats,NA,#3a4570,1.49E+12,0,2,5,,
-1162,1163,night,none,northern lights,NA,#96979f,1.49E+12,0,2,5,,
-1163,1164,night,couple,horizontal interference,NA,#39374b,1.49E+12,0,2,5,,
-1164,1165,night,couple,marina,NA,#44403c,1.49E+12,0,2,5,,
-1165,1166,night,single female,marina,NA,#473a3d,1.49E+12,0,2,5,,
-1166,1167,night,none,moonflower,NA,#2f2a25,1.49E+12,0,2,5,,
-1167,1168,night,group,passage of inner reflection,NA,#9d9282,1.49E+12,0,2,5,,
-1168,1169,night,group,passage of inner reflection,NA,#818184,1.49E+12,0,2,5,,
-1169,1170,night,none,uncle ringo,NA,#14e14,1.49E+12,0,2,5,,
-1170,1171,night,none,unknown,NA,#2a272d,1.49E+12,0,2,5,,
-1171,1172,night,group,horizontal interference,NA,#3c334c,1.49E+12,0,2,5,,
-1172,1173,night,group,gastrobeats,NA,#5b5352,1.49E+12,0,2,5,,
-1173,1174,night,none,horizontal interference,NA,#2f204b,1.49E+12,0,2,5,,
-1174,1175,night,single female,dande-lier,NA,#d3c5ba,1.49E+12,0,2,5,,
-1175,1176,night,group,gastrobeats,NA,#4c2b66,1.49E+12,0,2,5,,
-1176,1177,night,none,gastrobeats,NA,#233644,1.49E+12,6,2,4,,
-1177,1178,night,single female,uncle ringo,NA,#6e564d,1.49E+12,6,2,4,,
-1178,1179,night,single female,horizontal interference,NA,#544365,1.49E+12,6,2,4,,
-1179,1180,night,group,moonflower,NA,#393237,1.49E+12,6,2,4,,
-1180,1181,night,none,horizontal interference,NA,#a59284,1.49E+12,6,2,4,,
-1181,1182,night,single female,horizontal interference,NA,#5b477c,1.49E+12,6,2,4,,
-1182,1183,night,single female,passage of inner reflection,NA,#9a989c,1.49E+12,6,2,4,,
-1183,1184,night,single male,horizontal interference,NA,#5b5174,1.49E+12,6,2,4,,
-1184,1185,night,group,uncle ringo,NA,#3d434c,1.49E+12,6,2,4,,
-1185,1186,night,single female,horizontal interference,NA,#3a3663,1.49E+12,6,2,4,,
-1186,1187,night,couple,horizontal interference,NA,#2b2641,1.49E+12,6,2,4,,
-1187,1188,night,single male,marina,NA,#474e53,1.49E+12,6,2,4,,
-1188,1189,night,group,ultra light network,NA,#271c28,1.49E+12,6,2,4,,
-1189,1190,night,single female,social sparkles,NA,#443d33,1.49E+12,6,2,4,,
-1190,1191,night,group,uncle ringo,NA,#807e80,1.49E+12,6,2,4,,
-1191,1192,night,couple,horizontal interference,NA,#261c2b,1.49E+12,6,2,4,,
-1192,1193,night,single male,uncle ringo,NA,#757da1,1.49E+12,6,2,4,,
-1193,1194,night,couple,horizontal interference,NA,#483774,1.49E+12,6,2,4,,
-1194,1195,night,group,passage of inner reflection,NA,#a9a19d,1.49E+12,6,2,4,,
-1195,1196,night,single female,uncle ringo,NA,#4e5052,1.49E+12,6,2,4,,
-1196,1197,night,none,moonflower,NA,#594336,1.49E+12,6,2,4,,
-1197,1198,night,group,horizontal interference,NA,#23204d,1.49E+12,6,2,4,,
-1198,1199,night,none,forever young!,NA,#403e33,1.49E+12,6,2,4,,
-1199,1200,night,group,horizontal interference,NA,#251d3e,1.49E+12,6,2,4,,
-1200,1201,day,group,marina,irrelevant,#6a7c8b,1.49E+12,6,2,4,,
-1201,1202,night,single male,moonflower,NA,#444f87,1.49E+12,6,2,4,,
-1202,1203,night,single female,pasarbella,NA,#5a4f53,1.49E+12,6,2,4,,
-1203,1204,night,single female,horizontal interference,NA,#2d2b51,1.49E+12,6,2,4,,
-1204,1205,night,group,moonflower,NA,#2d2b29,1.49E+12,6,2,4,,
-1205,1206,night,group,gastrobeats,NA,#2b3b44,1.49E+12,6,2,4,,
-1206,1207,night,group,gastrobeats,NA,#43225c,1.49E+12,6,2,4,,
-1207,1208,night,couple,moonflower,NA,#807b73,1.49E+12,6,2,4,,
-1208,1209,night,single male,home,NA,#556b78,1.49E+12,6,2,4,,
-1209,1210,night,none,forever young!,NA,#483b36,1.49E+12,6,2,4,,
-1210,1211,night,single male,passage of inner reflection,NA,#7a7a80,1.49E+12,6,2,4,,
-1211,1212,night,single female,uncle ringo,NA,#594548,1.49E+12,6,2,4,,
-1212,1213,night,group,moonflower,NA,#1e1a1d,1.49E+12,6,2,4,,
-1213,1214,night,none,the body of sea,NA,#39302c,1.49E+12,6,2,4,,
-1214,1215,night,single female,marina,NA,#796f7a,1.49E+12,6,2,4,,
-1215,1216,night,group,kaldeioscope monolith,NA,#382b2c,1.49E+12,6,2,4,,
-1216,1217,night,group,home,NA,#5f535d,1.49E+12,6,2,4,,
-1217,1218,night,none,horizontal interference,NA,#1df3d,1.49E+12,6,2,4,,
-1218,1219,night,single male,marina,box,#8f5153,1.49E+12,6,2,4,,
-1219,1220,night,couple,gastrobeats,NA,#474547,1.49E+12,6,2,4,,
-1220,1221,night,single female,uncle ringo,NA,#433235,1.49E+12,6,2,4,,
-1221,1222,night,single female,uncle ringo,NA,#514f69,1.49E+12,6,2,4,,
-1222,1223,night,single female,passage of inner reflection,NA,#8b7364,1.49E+12,6,2,4,,
-1223,1224,night,couple,moonflower,NA,#736a63,1.49E+12,6,2,4,,
-1224,1225,night,group,the urchin,NA,#635554,1.49E+12,6,2,4,,
-1225,1226,day,couple,artzoo,NA,#aba6b0,1.49E+12,6,2,4,,
-1226,1227,night,group,gastrobeats,NA,#2a273e,1.49E+12,6,2,4,,
-1227,1228,night,group,gastrobeats,NA,#7c5abc,1.49E+12,6,2,4,,
-1228,1229,night,none,gastrobeats,NA,#3f3d3f,1.49E+12,6,2,4,,
-1229,1230,night,group,uncle ringo,NA,#7d6e6a,1.49E+12,6,2,4,,
-1230,1231,night,single female,uncle ringo,NA,#47584d,1.49E+12,6,2,4,,
-1231,1232,night,group,gastrobeats,NA,#504d60,1.49E+12,6,2,4,,
-1232,1233,night,group,ocean pavilion,NA,#19212f,1.49E+12,6,2,4,,
-1233,1234,night,couple,gastrobeats,NA,#77658a,1.49E+12,6,2,4,,
-1234,1235,night,group,the urchin,NA,#5c585a,1.49E+12,6,2,4,,
-1235,1236,day,group,marina,NA,#a69aa0,1.49E+12,6,2,4,,
-1236,1237,night,group,gastrobeats,NA,#70539d,1.49E+12,6,2,4,,
-1237,1238,night,none,gastrobeats,NA,#ed1d,1.49E+12,5,2,3,,
-1238,1239,night,single female,passage of inner reflection,NA,#5e5a78,1.49E+12,5,2,3,,
-1239,1240,night,single male,home,NA,#4e3c52,1.49E+12,5,2,3,,
-1240,1241,night,none,horizontal interference,NA,#233d6c,1.49E+12,5,2,3,,
-1241,1242,night,single male,ultra light network,NA,#826767,1.49E+12,5,2,3,,
-1242,1243,night,couple,ultra light network,NA,#7a5f75,1.49E+12,5,2,3,,
-1243,1244,night,group,artzoo,NA,#3b4044,1.49E+12,5,2,3,,
-1244,1245,night,group,silent disco asia,NA,#4c4447,1.49E+12,5,2,3,,
-1245,1246,night,none,moonflower,NA,#706b6c,1.49E+12,5,2,3,,
-1246,1247,night,none,HYBYCOZO,NA,#1e181f,1.49E+12,5,2,3,,
-1247,1248,night,none,horizontal interference,NA,#2c145b,1.49E+12,5,2,3,,
-1248,1249,night,couple,ultra light network,NA,#3c4f67,1.49E+12,5,2,3,,
-1249,1250,night,none,HYBYCOZO,NA,#b9bbca,1.49E+12,5,2,3,,
-1250,1251,night,none,moonflower,NA,#3d3a31,1.49E+12,5,2,3,,
-1251,1252,night,none,gastrobeats,NA,#14121c,1.49E+12,5,2,3,,
-1252,1253,night,none,gastrobeats,NA,#2c223c,1.49E+12,5,2,3,,
-1253,1254,night,none,marina,NA,#56727a,1.49E+12,5,2,3,,
-1254,1255,night,none,northern lights,NA,#12f2c,1.49E+12,5,2,3,,
-1255,1256,night,none,marina,NA,#2c2826,1.49E+12,5,2,3,,
-1256,1257,day,none,secret galaxies,NA,#a4a4ae,1.49E+12,5,2,3,,
-1257,1258,night,none,moonflower,NA,#25457c,1.49E+12,5,2,3,,
-1258,1259,night,none,very glowing exhibition - very wishing river,NA,#211d48,1.49E+12,5,2,3,,
-1259,1260,night,single female,home,NA,#635e5b,1.49E+12,5,2,3,,
-1260,1261,night,none,moonflower,NA,#38291a,1.49E+12,5,2,3,,
-1261,1262,night,single female,horizontal interference,NA,#878091,1.49E+12,5,2,3,,
-1262,1263,night,couple,horizontal interference,NA,#292333,1.49E+12,5,2,3,,
-1263,1264,night,couple,passage of inner reflection,NA,#7d7c81,1.49E+12,5,2,3,,
-1264,1265,night,couple,gastrobeats,NA,#a9a7b8,1.49E+12,5,2,3,,
-1265,1266,night,group,horizontal interference,NA,#201637,1.49E+12,4,2,2,,
-1266,1267,night,none,the body of sea,NA,#171315,1.49E+12,4,2,2,,
-1267,1268,night,group,silent disco asia,NA,#64294,1.49E+12,4,2,2,,
-1268,1269,night,single female,horizontal interference,NA,#6c5a7a,1.49E+12,4,2,2,,
-1269,1270,night,none,horizontal interference,NA,#384371,1.49E+12,4,2,2,,
-1270,1271,night,group,marina,NA,#535052,1.49E+12,4,2,2,,
-1271,1272,night,single female,HYBYCOZO,NA,#291f43,1.49E+12,4,2,2,,
-1272,1273,night,single female,uncle ringo,NA,#201b1d,1.49E+12,3,2,1,,
-1273,1274,night,single female,gastrobeats,NA,#554177,1.49E+12,3,2,1,,
-1274,1275,night,couple,horizontal interference,NA,#3b2c66,1.49E+12,3,2,1,,
-1275,1276,night,couple,unknown,NA,#b19372,1.49E+12,3,2,1,,
-1276,1277,night,single female,moonflower,NA,#4a3f3c,1.49E+12,3,2,1,,
+,Photo Num,Time,Group type,exhibition,extra,avg_color,DAY,MONTH,DATE,Days,Count,bucket,Hour,TIMESTAMP
+1,1,day,none,marina,NA,#6a8e91,2,2,28,Sunday,332,59,11,1490700326000
+2,2,night,couple,marina,NA,#565456,2,2,28,Monday,177,58,10,1490697835000
+3,3,night,single male,marina,NA,#434143,2,2,28,Tuesday,120,58,10,1490697160000
+4,4,night,none,dande-lier,NA,#a1fa4,2,2,28,Wednesday,109,57,9,1490693920000
+5,5,night,single male,HYBYCOZO,NA,#413f3b,2,2,28,Thursday,109,55,7,1490686440000
+6,6,day,none,marina,NA,#8d9199,2,2,28,Friday,158,54,6,1490682397000
+7,7,day,none,marina,NA,#6a6e78,2,2,28,Saturday,271,53,5,1490677279000
+8,8,night,single female,marina,NA,#292626,2,2,28,,,51,3,1490671045000
+9,9,night,couple,horizontal interference,NA,#342630,2,2,28,,,48,0,1490662766000
+10,10,day,single male,marina,NA,#a49386,2,2,28,,,47,23,1490658680000
+11,11,night,none,horizontal interference,NA,#33284d,2,2,28,,,46,22,1490654857000
+12,12,night,none,gastrobeats,NA,#363e53,2,2,28,,,45,21,1490651928000
+13,13,night,single female,ocean pavilion,NA,#68759c,2,2,28,,,44,20,1490645690000
+14,14,night,none,uncle ringo,NA,#3f3d3f,2,2,28,,,41,17,1490634544000
+15,15,night,none,uncle ringo,NA,#51493d,2,2,28,,,39,15,1490630067000
+16,16,day,none,marina,NA,#877b7b,1,2,27,,,39,15,1490628741000
+17,17,day,single male,marina,NA,#76767c,1,2,27,,,38,14,1490626570000
+18,18,night,none,ultra light network,NA,#2b2838,1,2,27,,,38,14,1490625130000
+19,19,night,single female,gastrobeats,NA,#522a8c,1,2,27,,,38,14,1490623991000
+20,20,night,none,moonflower,NA,#332e2d,1,2,27,,,37,13,1490622499000
+21,21,night,none,home,NA,#1a1d29,1,2,27,,,37,13,1490621560000
+22,22,day,single male,marina,NA,#89878c,1,2,27,,,37,13,1490620253000
+23,23,night,single female,uncle ringo,NA,#514b42,1,2,27,,,36,12,1490619136000
+24,24,night,single female,home,NA,#383e47,1,2,27,,,36,12,1490617300000
+25,25,night,none,gastrobeats,NA,#1b1035,1,2,27,,,36,12,1490616661000
+26,26,day,none,marina,NA,#a38890,1,2,27,,,35,11,1490614488000
+27,27,night,none,home,NA,#242b34,1,2,27,,,35,11,1490614113000
+28,28,night,none,ultra light network,NA,#14111a,1,2,27,,,35,11,1490613602000
+29,29,day,single male,marina,NA,#c3c1c3,1,2,27,,,34,10,1490612192000
+30,30,day,group,marina,female pair,#7e7078,1,2,27,,,34,10,1490611480000
+31,31,night,none,uncle ringo,NA,#52381b,1,2,27,,,34,10,1490609109000
+32,32,night,none,HYBYCOZO,NA,#3f2d33,1,2,27,,,33,9,1490607723000
+33,33,night,none,secret galaxies,NA,#474434,1,2,27,,,32,8,1490605163000
+34,34,night,single female,marina,NA,#3c4153,1,2,27,,,32,8,1490602209000
+35,35,day,single male,marina,NA,#a5a2a5,1,2,27,,,31,7,1490598394000
+36,36,day,single male,artbox,NA,#555556,1,2,27,,,30,6,1490596310000
+37,37,day,group,radio,NA,#8c5f58,1,2,27,,,29,5,1490593110000
+38,38,night,single male,marina,NA,#1110e,1,2,27,,,28,4,1490589312000
+39,39,night,single female,passage of inner reflection,NA,#a3a1a3,1,2,27,,,28,4,1490587217000
+40,40,day,single male,marina,NA,#7b7975,1,2,27,,,26,2,1490581106000
+41,41,day,single female,marina,NA,#5f7178,1,2,27,,,25,1,1490577797000
+42,42,night,none,ocean pavilion,NA,#152139,1,2,27,,,25,1,1490577346000
+43,43,night,none,marina,NA,#221e27,1,2,27,,,24,0,1490575111000
+44,44,night,single male,marina bay sands,NA,#674e5e,1,2,27,,,24,0,1490572985000
+45,45,night,single female,ultra light network,NA,#352d2d,1,2,27,,,22,22,1490566043000
+46,46,night,none,artbox,NA,#1e1612,1,2,27,,,18,18,1490554259000
+47,47,day,group,marina,NA,#434f54,1,2,27,,,17,17,1490551063000
+48,48,day,none,gastrobeats,NA,#5c7b8a,1,2,27,,,17,17,1490548434000
+49,49,night,couple,gastrobeats,NA,#473c55,1,2,27,,,17,17,1490547742000
+50,50,day,none,marina,NA,#a2a0a2,1,2,27,,,16,16,1490546976000
+51,51,day,none,marina,NA,#808b8f,1,2,27,,,16,16,1490546512000
+52,52,night,group,marina,female pair,#483b3e,1,2,27,,,16,16,1490546132000
+53,53,night,none,marina,NA,#49443a,1,2,27,,,16,16,1490545620000
+54,54,day,single male,marina,NA,#bdbbc1,1,2,27,,,16,16,1490544458000
+55,55,day,none,marina,NA,#52667f,1,2,27,,,15,15,1490543870000
+56,56,night,couple,marina,NA,#695747,0,2,26,,,15,15,1490543573000
+57,57,night,single male,passage of inner reflection,NA,#dc84d7,0,2,26,,,15,15,1490542982000
+58,58,night,none,ocean pavilion,NA,#152138,0,2,26,,,15,15,1490542580000
+59,59,night,none,gastrobeats,food,#61473a,0,2,26,,,15,15,1490542058000
+60,60,day,none,marina,NA,#717693,0,2,26,,,15,15,1490541712000
+61,61,day,single female,marina,NA,#c0c1c0,0,2,26,,,15,15,1490541333000
+62,62,night,none,gastrobeats,food,#beb2ad,0,2,26,,,15,15,1490540637000
+63,63,day,none,eco.me,NA,#898388,0,2,26,,,14,14,1490540255000
+64,64,day,none,marina,NA,#566574,0,2,26,,,14,14,1490539878000
+65,65,day,group,marina,female family,#856c60,0,2,26,,,14,14,1490539529000
+66,66,night,none,marina,NA,#392c2b,0,2,26,,,14,14,1490539273000
+67,67,day,single male,marina,NA,#7d888c,0,2,26,,,14,14,1490539162000
+68,68,day,none,marina,NA,#263442,0,2,26,,,14,14,1490538882000
+69,69,night,none,marina,NA,#685e59,0,2,26,,,14,14,1490538379000
+70,70,day,group,marina,NA,#a3a3a8,0,2,26,,,14,14,1490538083000
+71,71,night,single female,passage of inner reflection,NA,#918473,0,2,26,,,14,14,1490537857000
+72,72,night,none,marina,NA,#dca,0,2,26,,,14,14,1490537447000
+73,73,day,none,marina,NA,#556668,0,2,26,,,14,14,1490536838000
+74,74,day,none,marina,NA,#82ab97,0,2,26,,,13,13,1490536588000
+75,75,day,none,marina,NA,#999c92,0,2,26,,,13,13,1490536307000
+76,76,night,none,home,NA,#3f3d36,0,2,26,,,13,13,1490535928000
+77,77,night,none,moonflower,NA,#3b393b,0,2,26,,,13,13,1490535460000
+78,78,night,couple,gastrobeats,NA,#938070,0,2,26,,,13,13,1490534834000
+79,79,night,single male,gastrobeats,NA,#3e3f4c,0,2,26,,,13,13,1490534201000
+80,80,day,group,marina,female pair,#96a1b3,0,2,26,,,13,13,1490533357000
+81,81,night,couple,uncle ringo,NA,#4d4b4d,0,2,26,,,12,12,1490533172000
+82,82,day,single female,marina,NA,#b8b5b9,0,2,26,,,12,12,1490532817000
+83,83,day,single female,marina,NA,#7b7d7a,0,2,26,,,12,12,1490532619000
+84,84,night,none,marina,NA,#34312b,0,2,26,,,12,12,1490532532000
+85,85,day,none,artbox,NA,#5e7cb0,0,2,26,,,12,12,1490532325000
+86,86,night,none,moonflower,NA,#61707b,0,2,26,,,12,12,1490532139000
+87,87,day,none,marina,NA,#767777,0,2,26,,,12,12,1490531882000
+88,88,day,single female,marina,NA,#647063,0,2,26,,,12,12,1490530795000
+89,89,day,none,marina,NA,#adb8c6,0,2,26,,,12,12,1490530354000
+90,90,day,group,marina,female pair,#696874,0,2,26,,,12,12,1490529870000
+91,91,day,couple,ultra light network,NA,#4e4d6d,0,2,26,,,11,11,1490528757000
+92,92,night,single female,artbox,NA,#8e8376,0,2,26,,,11,11,1490528470000
+93,93,night,single female,marina,NA,#534c7b,0,2,26,,,11,11,1490527640000
+94,94,night,none,moonflower,NA,#3d3b3d,0,2,26,,,11,11,1490526963000
+95,95,day,none,gastrobeats,NA,#a9a4a6,0,2,26,,,10,10,1490525119000
+96,96,day,none,gastrobeats,NA,#5f5d64,0,2,26,,,10,10,1490523886000
+97,97,day,none,ultra light network,NA,#566b82,0,2,26,,,10,10,1490522717000
+98,98,day,group,passage of inner reflection,NA,#a09691,0,2,26,,,9,9,1490522232000
+99,99,night,none,moonflower,NA,#48444c,0,2,26,,,9,9,1490521014000
+100,100,night,none,marina,NA,#2a4872,0,2,26,,,9,9,1490519379000
+101,101,night,none,colourful garden of lights,NA,#3a2e32,0,2,26,,,9,9,1490518998000
+102,102,night,group,marina,NA,#272a32,0,2,26,,,8,8,1490518128000
+103,103,night,none,the urchin,NA,#353b42,0,2,26,,,8,8,1490516134000
+104,104,night,none,horizontal interference,NA,#312083,0,2,26,,,7,7,1490513560000
+105,105,night,none,home,NA,#2c3541,0,2,26,,,7,7,1490512482000
+106,106,night,none,home,NA,#293239,0,2,26,,,6,6,1490511201000
+107,107,night,none,ataraxia,NA,#383644,0,2,26,,,6,6,1490508506000
+108,108,day,group,ocean pavilion,NA,#2a52bd,0,2,26,,,5,5,1490506418000
+109,109,night,single female,marina,NA,#4e4646,0,2,26,,,5,5,1490505160000
+110,110,day,none,ultra light network,NA,#6093ac,0,2,26,,,4,4,1490503699000
+111,111,night,none,marina,NA,#24282c,0,2,26,,,4,4,1490502516000
+112,112,night,single male,marina,NA,#724a4e,0,2,26,,,4,4,1490501097000
+113,113,night,single female,marina,NA,#3e566f,0,2,26,,,3,3,1490500294000
+114,114,night,single female,ocean pavilion,NA,#c4aa8,0,2,26,,,3,3,1490500037000
+115,115,day,single female,marina,NA,#979595,0,2,26,,,3,3,1490499696000
+116,116,night,none,moonflower,NA,#343234,0,2,26,,,3,3,1490499291000
+117,117,night,none,marina,NA,#332f30,0,2,26,,,3,3,1490497354000
+118,118,night,single female,ocean pavilion,NA,#5e91,0,2,26,,,2,2,1490495551000
+119,119,night,none,horizontal interference,NA,#261a4d,0,2,26,,,1,1,1490490755000
+120,120,night,none,marina,dog,#4c4b50,0,2,26,,,166,22,1490480374000
+121,121,day,single female,uncle ringo,NA,#6f778a,0,2,26,,,162,18,1490466744000
+122,122,night,none,marina,NA,#1d1b19,0,2,26,,,161,17,1490464257000
+123,123,night,single female,moonflower,NA,#564f45,0,2,26,,,161,17,1490462914000
+124,124,day,single female,marina,NA,#8eaaa6,0,2,26,,,161,17,1490462551000
+125,125,night,none,marina,NA,#141111,0,2,26,,,161,17,1490462192000
+126,126,night,group,marina,NA,#6d5957,0,2,26,,,161,17,1490461678000
+127,127,day,single male,marina,NA,#9ea0a0,0,2,26,,,160,16,1490460893000
+128,128,day,none,gastrobeats,NA,#413337,0,2,26,,,160,16,1490460248000
+129,129,day,none,uncle ringo,NA,#425762,0,2,26,,,160,16,1490459242000
+130,130,night,single female,marina,NA,#231b18,0,2,26,,,160,16,1490458864000
+131,131,night,none,marina,NA,#191e23,0,2,26,,,160,16,1490458562000
+132,132,night,none,uncle ringo,NA,#1d173d,0,2,26,,,160,16,1490458285000
+133,133,day,none,marina,NA,#8793a0,0,2,26,,,160,16,1490457832000
+134,134,night,none,gastrobeats,NA,#1d1129,0,2,26,,,159,15,1490456934000
+135,135,night,none,marina,NA,#47413b,6,2,25,,,159,15,1490456602000
+136,136,night,none,moonflower,NA,#373537,6,2,25,,,159,15,1490456213000
+137,137,night,single female,waves,NA,#362d26,6,2,25,,,159,15,1490456011000
+138,138,night,single male,uncle ringo,NA,#34231b,6,2,25,,,159,15,1490455910000
+139,139,night,none,horizontal interference,NA,#3f2988,6,2,25,,,159,15,1490455622000
+140,140,night,none,horizontal interference,NA,#3c129c,6,2,25,,,159,15,1490455028000
+141,141,night,none,marina,NA,#393530,6,2,25,,,159,15,1490454750000
+142,142,day,none,marina,NA,#6f849a,6,2,25,,,159,15,1490454241000
+143,143,night,none,marina,robot from star wars,#121af,6,2,25,,,158,14,1490453813000
+144,144,night,none,marina,NA,#131718,6,2,25,,,158,14,1490453315000
+145,145,night,none,marina,NA,#2a2525,6,2,25,,,158,14,1490452945000
+146,146,night,none,ocean pavilion,NA,#152137,6,2,25,,,158,14,1490452545000
+147,147,night,single female,gastrobeats,NA,#3f4780,6,2,25,,,158,14,1490452156000
+148,148,night,none,marina,NA,#11ee,6,2,25,,,158,14,1490451695000
+149,149,night,group,home,NA,#4b494b,6,2,25,,,158,14,1490451046000
+150,150,day,none,marina,NA,#7594b8,6,2,25,,,158,14,1490450682000
+151,151,night,couple,marina,NA,#736266,6,2,25,,,157,13,1490450312000
+152,152,night,single female,uncle ringo,NA,#575562,6,2,25,,,157,13,1490449924000
+153,153,night,single female,ocean pavilion,NA,#6f73ac,6,2,25,,,157,13,1490449642000
+154,154,night,none,marina,NA,#6581b8,6,2,25,,,157,13,1490448647000
+155,155,night,none,marina,NA,#394a5d,6,2,25,,,157,13,1490447955000
+156,156,night,single male,marina,NA,#6a686a,6,2,25,,,157,13,1490447044000
+157,157,night,none,moonflower,NA,#4d453d,6,2,25,,,156,12,1490446181000
+158,158,night,single female,artbox,NA,#6a5555,6,2,25,,,156,12,1490445544000
+159,159,night,single male,marina,NA,#735f5a,6,2,25,,,156,12,1490444356000
+160,160,night,none,ultra light network,NA,#be18,6,2,25,,,156,12,1490443903000
+161,161,day,single male,marina,NA,#70727b,6,2,25,,,156,12,1490443448000
+162,162,night,group,ultra light network,NA,#b49aa5,6,2,25,,,155,11,1490442486000
+163,163,day,single male,marina,NA,#94979c,6,2,25,,,155,11,1490441082000
+164,164,day,single male,marina,NA,#a2a5ab,6,2,25,,,155,11,1490439809000
+165,165,night,none,moonflower,NA,#2a4282,6,2,25,,,154,10,1490439232000
+166,166,night,none,marina,NA,#3f393f,6,2,25,,,154,10,1490437094000
+167,167,night,single female,horizontal interference,NA,#35295c,6,2,25,,,153,9,1490435287000
+168,168,night,single female,ocean pavilion,NA,#174e85,6,2,25,,,153,9,1490433414000
+169,169,day,single male,marina,NA,#c4c3b9,6,2,25,,,153,9,1490432831000
+170,170,day,single female,marina,NA,#898a9a,6,2,25,,,152,8,1490430099000
+171,171,night,single female,marina,NA,#3e2838,6,2,25,,,152,8,1490428928000
+172,172,night,none,very glowing exhibition - very wishing river,NA,#152740,6,2,25,,,151,7,1490425746000
+173,173,day,single female,the urchin,NA,#95a0ab,6,2,25,,,150,6,1490423656000
+174,174,night,single male,ultra light network,NA,#615e65,6,2,25,,,150,6,1490422220000
+175,175,night,none,gastrobeats,NA,#28293f,6,2,25,,,149,5,1490421138000
+176,176,night,single female,passage of inner reflection,NA,#777270,6,2,25,,,149,5,1490419409000
+177,177,night,none,HYBYCOZO,NA,#595e67,6,2,25,,,149,5,1490418398000
+178,178,night,single male,ultra light network,NA,#383c49,6,2,25,,,148,4,1490417569000
+179,179,night,single male,uncle ringo,NA,#243c54,6,2,25,,,148,4,1490416733000
+180,180,day,single female,marina,NA,#8c97a1,6,2,25,,,148,4,1490415408000
+181,181,night,single male,ultra light network,NA,#6d6768,6,2,25,,,147,3,1490413778000
+182,182,night,single male,ultra light network,NA,#706e6f,6,2,25,,,147,3,1490412105000
+183,183,day,none,marina,NA,#4b668a,6,2,25,,,146,2,1490410204000
+184,184,day,none,marina,NA,#657e9b,6,2,25,,,146,2,1490408661000
+185,185,day,single female,marina,NA,#938a80,6,2,25,,,145,1,1490406811000
+186,186,night,single female,gastrobeats,NA,#52405f,6,2,25,,,145,1,1490405139000
+187,187,night,single male,ocean pavilion,NA,#a5abc,6,2,25,,,145,1,1490404384000
+188,188,night,single male,ultra light network,NA,#515b84,6,2,25,,,142,22,1490393429000
+189,189,night,single male,moonflower,NA,#342b27,6,2,25,,,139,19,1490384385000
+190,190,night,none,moonflower,NA,#11ff,6,2,25,,,139,19,1490382828000
+191,191,day,none,marina,NA,#465a71,6,2,25,,,137,17,1490377357000
+192,192,night,none,moonflower,NA,#474679,6,2,25,,,137,17,1490375842000
+193,193,night,none,dande-lier,NA,#3d525b,6,2,25,,,137,17,1490375243000
+194,194,night,single male,horizontal interference,NA,#3b2f7d,6,2,25,,,136,16,1490373040000
+195,195,night,single male,horizontal interference,NA,#3c3480,6,2,25,,,136,16,1490372821000
+196,196,night,none,horizontal interference,NA,#342a5a,6,2,25,,,136,16,1490371977000
+197,197,night,none,home,NA,#2a2d34,6,2,25,,,136,16,1490371544000
+198,198,night,single female,horizontal interference,NA,#553018,6,2,25,,,135,15,1490370668000
+199,199,night,single female,horizontal interference,NA,#502e17,5,2,24,,,135,15,1490370145000
+200,200,night,single female,horizontal interference,NA,#573118,5,2,24,,,135,15,1490369643000
+201,201,night,single female,gastrobeats,NA,#5f5d66,5,2,24,,,135,15,1490369250000
+202,202,night,single male,passage of inner reflection,NA,#706c63,5,2,24,,,135,15,1490368594000
+203,203,day,none,marina,NA,#6d8394,5,2,24,,,135,15,1490368294000
+204,204,night,single female,HYBYCOZO,cosplayer,#582a30,5,2,24,,,134,14,1490367355000
+205,205,night,single female,HYBYCOZO,cosplayer,#424c5b,5,2,24,,,134,14,1490366792000
+206,206,night,single female,HYBYCOZO,cosplayer,#2b2d46,5,2,24,,,134,14,1490366253000
+207,207,night,single female,ultra light network,NA,#5d4e58,5,2,24,,,134,14,1490365434000
+208,208,night,none,gastrobeats,food,#6d524e,5,2,24,,,134,14,1490365168000
+209,209,night,none,marina,NA,#2d2926,5,2,24,,,134,14,1490364747000
+210,210,night,none,very glowing exhibition - very wishing river,NA,#152741,5,2,24,,,133,13,1490363058000
+211,211,night,single female,horizontal interference,NA,#4f3d6b,5,2,24,,,133,13,1490362320000
+212,212,night,none,gastrobeats,NA,#2a2231,5,2,24,,,133,13,1490361961000
+213,213,day,none,horizontal interference,NA,#91868b,5,2,24,,,133,13,1490361359000
+214,214,day,single female,artbox,NA,#948588,5,2,24,,,133,13,1490360872000
+215,215,night,group,marina,family,#868584,5,2,24,,,133,13,1490360777000
+216,216,night,none,home,NA,#383f41,5,2,24,,,132,12,1490360130000
+217,217,night,group,passage of inner reflection,NA,#939192,5,2,24,,,132,12,1490359274000
+218,218,night,single female,moonflower,NA,#27213e,5,2,24,,,132,12,1490358300000
+219,219,day,none,marina,NA,#92968d,5,2,24,,,132,12,1490357067000
+220,220,night,none,marina,NA,#655449,5,2,24,,,131,11,1490355756000
+221,221,night,none,horizontal interference,NA,#292f4c,5,2,24,,,131,11,1490354422000
+222,222,night,single female,colourful garden of lights,NA,#454c6d,5,2,24,,,130,10,1490350738000
+223,223,night,none,marina,NA,#7f8f9d,5,2,24,,,129,9,1490349495000
+224,224,night,single female,gastrobeats,NA,#6c7b8d,5,2,24,,,129,9,1490348241000
+225,225,night,couple,marina waterfront bazaar,NA,#695346,5,2,24,,,129,9,1490346027000
+226,226,night,none,gastrobeats,NA,#755a42,5,2,24,,,128,8,1490345530000
+227,227,night,none,home,NA,#38495f,5,2,24,,,127,7,1490340725000
+228,228,night,single female,HYBYCOZO,NA,#622521,5,2,24,,,126,6,1490336467000
+229,229,day,single female,marina,NA,#446378,5,2,24,,,125,5,1490333456000
+230,230,day,couple,marina,NA,#96949d,5,2,24,,,125,5,1490332602000
+231,231,night,none,horizontal interference,NA,#28194f,5,2,24,,,124,4,1490330832000
+232,232,day,none,marina,NA,#bfbfbd,5,2,24,,,124,4,1490329388000
+233,233,night,single female,i light you so much,NA,#434847,5,2,24,,,123,3,1490327392000
+234,234,night,none,horizontal interference,NA,#392768,5,2,24,,,123,3,1490325952000
+235,235,night,none,HYBYCOZO,NA,#463b4a,5,2,24,,,123,3,1490325062000
+236,236,night,none,HYBYCOZO,NA,#3d474d,5,2,24,,,122,2,1490323236000
+237,237,night,none,marina,NA,#2a2825,5,2,24,,,122,2,1490321570000
+238,238,night,none,silent disco asia,NA,#111316,5,2,24,,,121,1,1490317353000
+239,239,night,single male,moonflower,NA,#77676d,5,2,24,,,120,0,1490315688000
+240,240,night,none,moonflower,NA,#3c485a,5,2,24,,,119,23,1490312457000
+241,241,night,couple,moonflower,NA,#3c2e2b,5,2,24,,,118,22,1490308788000
+242,242,night,none,marina,NA,#1e1819,5,2,24,,,114,18,1490294700000
+243,243,night,none,forever young!,NA,#444247,5,2,24,,,113,17,1490291123000
+244,244,night,single male,gastrobeats,NA,#4d413c,5,2,24,,,113,17,1490288940000
+245,245,night,none,moonflower,NA,#514339,5,2,24,,,112,16,1490286492000
+246,246,day,group,marina,NA,#726c74,5,2,24,,,112,16,1490285429000
+247,247,night,none,marina,NA,#20252b,5,2,24,,,111,15,1490284148000
+248,248,night,none,gastrobeats,NA,#282339,4,2,23,,,111,15,1490283841000
+249,249,night,none,horizontal interference,NA,#584e73,4,2,23,,,111,15,1490283491000
+250,250,night,none,uncle ringo,NA,#37383e,4,2,23,,,111,15,1490283165000
+251,251,day,none,marina,NA,#586881,4,2,23,,,111,15,1490282624000
+252,252,night,none,horizontal interference,NA,#6d6b8b,4,2,23,,,111,15,1490282279000
+253,253,night,none,horizontal interference,NA,#2e2a54,4,2,23,,,111,15,1490281499000
+254,254,night,none,ultra light network,NA,#28242a,4,2,23,,,110,14,1490280691000
+255,255,night,none,moonflower,NA,#6b6a6b,4,2,23,,,110,14,1490280049000
+256,256,night,none,secret galaxies,NA,#423741,4,2,23,,,110,14,1490278829000
+257,257,night,single female,marina,NA,#46353f,4,2,23,,,110,14,1490278041000
+258,258,night,single female,uncle ringo,NA,#67656d,4,2,23,,,110,14,1490277722000
+259,259,night,single female,horizontal interference,NA,#23f41,4,2,23,,,109,13,1490276892000
+260,260,night,single male,HYBYCOZO,NA,#10273a,4,2,23,,,109,13,1490275893000
+261,261,night,single female,marina,NA,#ad66e6,4,2,23,,,109,13,1490275609000
+262,262,night,none,marina,legs only,#778084,4,2,23,,,109,13,1490274725000
+263,263,night,couple,uncle ringo,NA,#7e6571,4,2,23,,,108,12,1490273640000
+264,264,day,none,marina,MBS,#6d7c80,4,2,23,,,108,12,1490272972000
+265,265,night,none,gastrobeats,NA,#c81c,4,2,23,,,108,12,1490272805000
+266,266,night,group,horizontal interference,NA,#7c4aa1,4,2,23,,,108,12,1490272692000
+267,267,night,none,moonflower,NA,#4b3d35,4,2,23,,,108,12,1490271993000
+268,268,night,none,home,NA,#4b515b,4,2,23,,,108,12,1490270944000
+269,269,night,none,very glowing exhibition - very wishing river,NA,#4626b8,4,2,23,,,107,11,1490267761000
+270,270,day,none,marina,NA,#97989b,4,2,23,,,106,10,1490266301000
+271,271,day,group,pasarbella,NA,#b1a19a,4,2,23,,,106,10,1490263764000
+272,272,night,single male,ultra light network,NA,#4a4157,4,2,23,,,105,9,1490261196000
+273,273,night,single female,the urchin,NA,#676461,4,2,23,,,104,8,1490258010000
+274,274,night,group,the urchin,NA,#8a7e79,4,2,23,,,103,7,1490254995000
+275,275,night,couple,marina,NA,#4e4145,4,2,23,,,101,5,1490248349000
+276,276,night,couple,the urchin,NA,#847e77,4,2,23,,,101,5,1490245792000
+277,277,night,none,marina,MBS,#2d2c27,4,2,23,,,100,4,1490244722000
+278,278,night,none,moonflower,NA,#4d5767,4,2,23,,,100,4,1490242919000
+279,279,night,none,gastrobeats,NA,#252027,4,2,23,,,99,3,1490239435000
+280,280,night,none,marina,MBS,#434248,4,2,23,,,98,2,1490237054000
+281,281,night,group,marina,NA,#574e50,4,2,23,,,98,2,1490235990000
+282,282,night,none,horizontal interference,iphone case,#2c1a53,4,2,23,,,97,1,1490233624000
+283,283,night,none,marina,NA,#484245,4,2,23,,,96,0,1490230734000
+284,284,day,single male,marina,NA,#6475a0,4,2,23,,,96,0,1490229240000
+285,285,night,couple,gastrobeats,NA,#3d1f7a,4,2,23,,,94,22,1490222394000
+286,286,night,none,uncle ringo,NA,#383550,4,2,23,,,90,18,1490207593000
+287,287,night,none,home,NA,#16161c,4,2,23,,,88,16,1490201117000
+288,288,night,none,colourful garden of lights,NA,#4b3e69,4,2,23,,,88,16,1490199620000
+289,289,night,single female,passage of inner reflection,NA,#8c8279,4,2,23,,,88,16,1490199401000
+290,290,night,none,the body of sea,NA,#2c2f34,4,2,23,,,88,16,1490198618000
+291,291,night,single female,moonflower,NA,#38337a,4,2,23,,,87,15,1490197693000
+292,292,day,none,marina,NA,#596372,3,2,22,,,87,15,1490196382000
+293,293,night,none,colourful garden of lights,NA,#25202d,3,2,22,,,87,15,1490195918000
+294,294,night,none,ultra light network,NA,#111438,3,2,22,,,87,15,1490195322000
+295,295,night,none,ocean pavilion,NA,#6b87bd,3,2,22,,,87,15,1490195021000
+296,296,night,none,colourful garden of lights,NA,#231d37,3,2,22,,,86,14,1490193554000
+297,297,day,couple,marina,NA,#919594,3,2,22,,,86,14,1490192804000
+298,298,night,none,marina,MBS,#787678,3,2,22,,,86,14,1490191610000
+299,299,night,none,gastrobeats,NA,#eb2c,3,2,22,,,86,14,1490191519000
+300,300,night,none,marina,NA,#14182a,3,2,22,,,86,14,1490191415000
+301,301,day,none,marina,NA,#607aa0,3,2,22,,,85,13,1490191197000
+302,302,night,single male,gastrobeats,NA,#58425d,3,2,22,,,85,13,1490191117000
+303,303,night,single male,gastrobeats,NA,#2e2135,3,2,22,,,85,13,1490190336000
+304,304,night,single female,home,NA,#223e4d,3,2,22,,,85,13,1490189423000
+305,305,night,group,horizontal interference,NA,#11b31,3,2,22,,,85,13,1490188363000
+306,306,day,none,gastrobeats,food,#cbd1d8,3,2,22,,,84,12,1490187324000
+307,307,night,none,colourful garden of lights,STFU <3,#37323c,3,2,22,,,84,12,1490187005000
+308,308,night,none,horizontal interference,NA,#341292,3,2,22,,,84,12,1490184409000
+309,309,day,group,gastrobeats,kids,#836e66,3,2,22,,,83,11,1490183809000
+310,310,night,couple,gastrobeats,NA,#615a69,3,2,22,,,83,11,1490183048000
+311,311,day,none,gastrobeats,NA,#8b7a77,3,2,22,,,83,11,1490182923000
+312,312,night,single female,moonflower,NA,#59545a,3,2,22,,,83,11,1490182816000
+313,313,night,none,HYBYCOZO,NA,#2d4049,3,2,22,,,83,11,1490182749000
+314,314,night,single female,dande-lier,NA,#637bb2,3,2,22,,,83,11,1490182583000
+315,315,night,none,marina,NA,#565953,3,2,22,,,83,11,1490180899000
+316,316,night,none,ocean pavilion,NA,#153156,3,2,22,,,82,10,1490177930000
+317,317,night,none,ocean pavilion,NA,#363e49,3,2,22,,,81,9,1490175797000
+318,318,night,none,ocean pavilion,NA,#333747,3,2,22,,,79,7,1490168758000
+319,319,night,none,marina,NA,#191414,3,2,22,,,79,7,1490166186000
+320,320,night,group,passage of inner reflection,NA,#846879,3,2,22,,,78,6,1490162594000
+321,321,night,none,moonflower,NA,#352e32,3,2,22,,,76,4,1490157833000
+322,322,night,couple,horizontal interference,NA,#6e6384,3,2,22,,,76,4,1490155657000
+323,323,day,group,pasarbella,NA,#bbb1b0,3,2,22,,,75,3,1490152916000
+324,324,night,single female,uncle ringo,NA,#53534e,3,2,22,,,74,2,1490150702000
+325,325,night,none,northern lights,NA,#494a56,3,2,22,,,74,2,1490148857000
+326,326,night,single male,home,NA,#2e343d,3,2,22,,,73,1,1490147780000
+327,327,night,none,home,NA,#141214,3,2,22,,,71,23,1490138486000
+328,328,night,couple,gastrobeats,NA,#5f40ae,3,2,22,,,70,22,1490134882000
+329,329,night,none,horizontal interference,NA,#4578cb,3,2,22,,,68,20,1490126454000
+330,330,night,single female,marina,NA,#645053,3,2,22,,,66,18,1490121241000
+331,331,night,none,dande-lier,NA,#585658,3,2,22,,,65,17,1490118108000
+332,332,night,none,moonflower,NA,#8164e,3,2,22,,,65,17,1490116111000
+333,333,night,none,HYBYCOZO,NA,#1e203e,3,2,22,,,64,16,1490114922000
+334,334,night,none,horizontal interference,NA,#29e2b,3,2,22,,,64,16,1490112360000
+335,335,night,single female,uncle ringo,NA,#355969,3,2,22,,,63,15,1490110908000
+336,336,night,single male,passage of inner reflection,NA,#a19fa3,2,2,21,,,63,15,1490109442000
+337,337,night,none,gastrobeats,NA,#5e1d,2,2,21,,,63,15,1490108799000
+338,338,night,group,ocean pavilion,kids,#5d86b0,2,2,21,,,62,14,1490107990000
+339,339,night,couple,passage of inner reflection,NA,#7f7676,2,2,21,,,62,14,1490106881000
+340,340,night,none,passage of inner reflection,NA,#d0ced0,2,2,21,,,62,14,1490106307000
+341,341,night,none,marina,NA,#85827a,2,2,21,,,62,14,1490105584000
+342,342,night,none,gastrobeats,NA,#201e1e,2,2,21,,,61,13,1490104740000
+343,343,night,none,home,NA,#808592,2,2,21,,,61,13,1490104059000
+344,344,night,single female,marina,NA,#827991,2,2,21,,,61,13,1490103352000
+345,345,night,none,passage of inner reflection,NA,#918b8c,2,2,21,,,61,13,1490102655000
+346,346,night,single female,home,NA,#464444,2,2,21,,,61,13,1490101698000
+347,347,night,single male,passage of inner reflection,kid,#656466,2,2,21,,,60,12,1490100361000
+348,348,night,single male,home,NA,#1412,2,2,21,,,60,12,1490099289000
+349,349,night,none,ultra light network,NA,#303066,2,2,21,,,60,12,1490098846000
+350,350,night,none,marina,NA,#654180,2,2,21,,,59,11,1490097091000
+351,351,night,none,moonflower,NA,#2f2e38,2,2,21,,,59,11,1490096441000
+352,352,night,none,uncle ringo,NA,#285360,2,2,21,,,59,11,1490094468000
+353,353,night,none,HYBYCOZO,NA,#213b46,2,2,21,,,58,10,1490093747000
+354,354,night,couple,ultra light network,NA,#68636f,2,2,21,,,58,10,1490092376000
+355,355,night,single female,dande-lier,NA,#7d496a,2,2,21,,,58,10,1490090676000
+356,356,night,single female,horizontal interference,NA,#3a3e64,2,2,21,,,56,8,1490083775000
+357,357,night,none,ocean pavilion,NA,#5cb4,2,2,21,,,54,6,1490078348000
+358,358,night,none,colourful garden of lights,NA,#19182c,2,2,21,,,53,5,1490075947000
+359,359,day,single male,marina,NA,#809aa6,2,2,21,,,53,5,1490072788000
+360,360,night,none,home,NA,#2a364a,2,2,21,,,52,4,1490070774000
+361,361,night,none,horizontal interference,NA,#2d1e64,2,2,21,,,51,3,1490068629000
+362,362,night,none,gastrobeats,hand,#34302c,2,2,21,,,51,3,1490067169000
+363,363,night,single female,ultra light network,NA,#646f73,2,2,21,,,51,3,1490065712000
+364,364,night,single female,pasarbella,NA,#504c58,2,2,21,,,50,2,1490062103000
+365,365,night,single female,gastrobeats,NA,#716d72,2,2,21,,,49,1,1490059767000
+366,366,night,none,gastrobeats,NA,#1d1826,2,2,21,,,47,23,1490052113000
+367,367,night,none,marina,NA,#332d33,2,2,21,,,43,19,1490039872000
+368,368,night,group,artzoo,NA,#6e4f4f,2,2,21,,,42,18,1490035742000
+369,369,night,single male,marina,NA,#6f5470,2,2,21,,,42,18,1490033826000
+370,370,night,single male,horizontal interference,NA,#3a317e,2,2,21,,,41,17,1490032718000
+371,371,night,couple,horizontal interference,NA,#191e2c,2,2,21,,,41,17,1490029667000
+372,372,night,single male,pasarbella,NA,#6e6d67,2,2,21,,,40,16,1490028212000
+373,373,night,single female,artzoo,NA,#727774,2,2,21,,,40,16,1490026243000
+374,374,night,none,colourful garden of lights,NA,#2e273c,2,2,21,,,39,15,1490025356000
+375,375,night,single male,marina,wushu,#76797d,1,2,20,,,39,15,1490025000000
+376,376,night,none,the body of sea,NA,#101119,1,2,20,,,39,15,1490024319000
+377,377,night,none,gastrobeats,band,#3d3b3d,1,2,20,,,39,15,1490023841000
+378,378,night,single male,moonflower,NA,#21233f,1,2,20,,,39,15,1490022891000
+379,379,night,none,marina,dog,#675850,1,2,20,,,39,15,1490022224000
+380,380,night,couple,colourful garden of lights,NA,#685056,1,2,20,,,38,14,1490021660000
+381,381,night,none,marina,star wars robot,#2a1245,1,2,20,,,38,14,1490020945000
+382,382,night,none,moonflower,NA,#312c25,1,2,20,,,38,14,1490019969000
+383,383,night,none,HYBYCOZO,NA,#2b2342,1,2,20,,,38,14,1490018996000
+384,384,night,none,HYBYCOZO,NA,#452554,1,2,20,,,37,13,1490018090000
+385,385,night,none,passage of inner reflection,NA,#78656e,1,2,20,,,37,13,1490017801000
+386,386,night,none,waves,NA,#625749,1,2,20,,,37,13,1490017323000
+387,387,night,none,dande-lier,NA,#362d89,1,2,20,,,37,13,1490017062000
+388,388,night,none,horizontal interference,NA,#302a43,1,2,20,,,37,13,1490016444000
+389,389,night,none,gastrobeats,NA,#161118,1,2,20,,,37,13,1490015019000
+390,390,night,none,ultra light network,NA,#b810,1,2,20,,,36,12,1490014526000
+391,391,night,single male,horizontal interference,NA,#3a3258,1,2,20,,,36,12,1490014334000
+392,392,night,none,uncle ringo,NA,#435969,1,2,20,,,36,12,1490013781000
+393,393,day,none,gastrobeats,NA,#767779,1,2,20,,,36,12,1490012875000
+394,394,night,none,marina,NA,#2d281e,1,2,20,,,36,12,1490012330000
+395,395,night,none,horizontal interference,NA,#171622,1,2,20,,,36,12,1490011387000
+396,396,night,single male,passage of inner reflection,NA,#807d7c,1,2,20,,,35,11,1490010713000
+397,397,night,none,marina,NA,#494749,1,2,20,,,35,11,1490009385000
+398,398,day,none,marina,NA,#9da3a7,1,2,20,,,35,11,1490008569000
+399,399,night,single female,marina,NA,#454334,1,2,20,,,34,10,1490005975000
+400,400,night,group,gastrobeats,female,#4d3877,1,2,20,,,34,10,1490005137000
+401,401,night,couple,i light you so much,NA,#4a3940,1,2,20,,,33,9,1490003983000
+402,402,night,none,colourful garden of lights,NA,#1c1519,1,2,20,,,33,9,1490002038000
+403,403,night,none,ocean pavilion,NA,#85acf,1,2,20,,,32,8,1489998128000
+404,404,night,none,passage of inner reflection,NA,#4c4a4c,1,2,20,,,31,7,1489995638000
+405,405,night,none,ocean pavilion,NA,#91040,1,2,20,,,30,6,1489993063000
+406,406,night,none,colourful garden of lights,NA,#352230,1,2,20,,,30,6,1489992910000
+407,407,night,none,colourful garden of lights,NA,#342330,1,2,20,,,30,6,1489991602000
+408,408,night,none,gastrobeats,food,#8e8a8c,1,2,20,,,29,5,1489988228000
+409,409,night,single female,horizontal interference,NA,#211c42,1,2,20,,,28,4,1489985182000
+410,410,night,single male,marina,NA,#574647,1,2,20,,,28,4,1489982965000
+411,411,night,single female,i light you so much,NA,#7a6254,1,2,20,,,26,2,1489977601000
+412,412,night,couple,the urchin,marriage,#5a585a,1,2,20,,,26,2,1489975678000
+413,413,night,none,waterfront bazaar,NA,#3e342d,1,2,20,,,25,1,1489972412000
+414,414,night,couple,uncle ringo,NA,#59525b,1,2,20,,,24,0,1489970570000
+415,415,night,group,home,all female,#7d7b7a,1,2,20,,,24,0,1489968297000
+416,416,night,none,you lookin' at me?,an eye,#151d22,1,2,20,,,23,23,1489966787000
+417,417,night,single male,ultra light network,NA,#535455,1,2,20,,,20,20,1489954151000
+418,418,day,couple,marina,NA,#afbdcb,1,2,20,,,18,18,1489946675000
+419,419,night,couple,horizontal interference,NA,#3e235d,1,2,20,,,16,16,1489942649000
+420,420,night,none,horizontal interference,NA,#592c8a,1,2,20,,,16,16,1489941350000
+421,421,night,none,horizontal interference,NA,#2d2064,1,2,20,,,16,16,1489940531000
+422,422,day,none,marina,2xu run,#abafad,1,2,20,,,16,16,1489940077000
+423,423,night,group,marina,all male,#464143,1,2,20,,,16,16,1489939301000
+424,424,night,single male,ocean pavilion,NA,#23cb4,1,2,20,,,15,15,1489937876000
+425,425,night,single female,home,NA,#5f5b6d,0,2,19,,,15,15,1489937698000
+426,426,night,none,uncle ringo,NA,#43464a,0,2,19,,,15,15,1489937494000
+427,427,night,group,ocean pavilion,kids,#6d6b6d,0,2,19,,,15,15,1489937122000
+428,428,night,single male,marina,NA,#39312b,0,2,19,,,15,15,1489936562000
+429,429,night,none,unknown,"giant flowers, opposite MBS",#271e1d,0,2,19,,,15,15,1489935926000
+430,430,night,none,ultra light network,NA,#242a31,0,2,19,,,14,14,1489935542000
+431,431,night,single female,horizontal interference,NA,#4b4571,0,2,19,,,14,14,1489935017000
+432,432,night,none,moonflower,NA,#8a8788,0,2,19,,,14,14,1489934304000
+433,433,night,none,moonflower,NA,#3e3b47,0,2,19,,,14,14,1489934043000
+434,434,night,single female,horizontal interference,NA,#2c2143,0,2,19,,,14,14,1489933939000
+435,435,night,none,moonflower,NA,#2a2922,0,2,19,,,14,14,1489933540000
+436,436,night,none,artzoo,NA,#3f4a57,0,2,19,,,14,14,1489933111000
+437,437,night,none,the body of sea,NA,#1f1a19,0,2,19,,,14,14,1489932323000
+438,438,night,none,home,NA,#151315,0,2,19,,,13,13,1489931628000
+439,439,night,single female,marina,box,#7c7775,0,2,19,,,13,13,1489931161000
+440,440,night,single male,marina,NA,#282628,0,2,19,,,13,13,1489930500000
+441,441,night,none,moonflower,NA,#29291e,0,2,19,,,13,13,1489930005000
+442,442,night,none,kaldeioscope monolith,NA,#111610,0,2,19,,,13,13,1489929409000
+443,443,night,none,eco.me,NA,#3f4147,0,2,19,,,13,13,1489929199000
+444,444,night,none,northern lights,NA,#131310,0,2,19,,,13,13,1489928925000
+445,445,night,none,home,NA,#23243e,0,2,19,,,13,13,1489928403000
+446,446,night,none,home,NA,#10151c,0,2,19,,,12,12,1489928136000
+447,447,night,none,gastrobeats,NA,#1010d,0,2,19,,,12,12,1489927968000
+448,448,night,single female,gastrobeats,NA,#536679,0,2,19,,,12,12,1489927760000
+449,449,night,none,horizontal interference,NA,#3c1e4b,0,2,19,,,12,12,1489926685000
+450,450,night,single female,horizontal interference,NA,#473959,0,2,19,,,12,12,1489925419000
+451,451,night,single male,horizontal interference,NA,#1f1933,0,2,19,,,11,11,1489924054000
+452,452,night,none,horizontal interference,NA,#b916,0,2,19,,,11,11,1489923269000
+453,453,night,group,marina,all male,#2b2155,0,2,19,,,11,11,1489922100000
+454,454,night,group,ultra light network,female pair,#5a5456,0,2,19,,,10,10,1489919635000
+455,455,night,single male,marina,NA,#332420,0,2,19,,,10,10,1489918389000
+456,456,night,none,ocean pavilion,NA,#72283,0,2,19,,,10,10,1489918067000
+457,457,night,couple,moonflower,NA,#645c57,0,2,19,,,9,9,1489916644000
+458,458,night,single male,passage of inner reflection,kid,#706f73,0,2,19,,,9,9,1489915099000
+459,459,night,single female,ultra light network,NA,#473e4c,0,2,19,,,8,8,1489912494000
+460,460,night,single female,horizontal interference,NA,#2a1a3e,0,2,19,,,8,8,1489911802000
+461,461,night,single male,horizontal interference,kid,#312d7d,0,2,19,,,8,8,1489911716000
+462,462,night,single male,gastrobeats,NA,#5f4170,0,2,19,,,8,8,1489911626000
+463,463,night,couple,passage of inner reflection,NA,#7c7977,0,2,19,,,8,8,1489911292000
+464,464,night,single male,uncle ringo,NA,#425b63,0,2,19,,,7,7,1489909599000
+465,465,night,single female,marina,NA,#52483a,0,2,19,,,7,7,1489908044000
+466,466,night,single female,passage of inner reflection,NA,#9c979c,0,2,19,,,6,6,1489905368000
+467,467,night,none,marina,NA,#4a434b,0,2,19,,,6,6,1489904923000
+468,468,night,group,marina,male pair,#6d7b8c,0,2,19,,,6,6,1489903429000
+469,469,night,single female,passage of inner reflection,NA,#756e67,0,2,19,,,5,5,1489902628000
+470,470,night,none,horizontal interference,NA,#271464,0,2,19,,,5,5,1489901459000
+471,471,night,none,horizontal interference,NA,#1c133f,0,2,19,,,4,4,1489899215000
+472,472,night,none,social sparkles,NA,#312d24,0,2,19,,,4,4,1489898108000
+473,473,night,single female,HYBYCOZO,model,#858290,0,2,19,,,4,4,1489897693000
+474,474,night,none,social sparkles,NA,#786,0,2,19,,,4,4,1489897360000
+475,475,night,none,social sparkles,NA,#886,0,2,19,,,4,4,1489896525000
+476,476,night,none,social sparkles,NA,#1d1914,0,2,19,,,3,3,1489895630000
+477,477,night,couple,marina,esplande,#6e5d4b,0,2,19,,,3,3,1489893694000
+478,478,night,single female,marina,NA,#474b47,0,2,19,,,3,3,1489893187000
+479,479,night,none,marina,NA,#1c1a1c,0,2,19,,,2,2,1489891317000
+480,480,night,none,marina,MBS,#522927,0,2,19,,,2,2,1489890256000
+481,481,day,none,marina,NA,#65607d,0,2,19,,,2,2,1489888953000
+482,482,night,single male,horizontal interference,NA,#443d4b,0,2,19,,,1,1,1489885867000
+483,483,day,group,marina,family,#9fa9ae,0,2,19,,,0,0,1489885021000
+484,484,night,none,ocean pavilion,NA,#284353,0,2,19,,,167,23,1489879661000
+485,485,night,single male,ultra light network,NA,#3e4049,0,2,19,,,163,19,1489867150000
+486,486,night,group,horizontal interference,female pair,#3e425b,0,2,19,,,163,19,1489864885000
+487,487,night,group,marina,all female,#767471,0,2,19,,,163,19,1489863776000
+488,488,night,single male,passage of inner reflection,NA,#e2e0e3,0,2,19,,,162,18,1489861695000
+489,489,night,none,moonflower,NA,#4f6863,0,2,19,,,161,17,1489859545000
+490,490,day,single female,marina,NA,#a1aab5,0,2,19,,,161,17,1489858909000
+491,491,night,single female,unknown,looks like passage,#c4aa93,0,2,19,,,161,17,1489858064000
+492,492,night,none,marina,NA,#b4988a,0,2,19,,,161,17,1489857210000
+493,493,day,none,marina,taxis,#5c687c,0,2,19,,,161,17,1489856612000
+494,494,day,single female,horizontal interference,NA,#443c5b,0,2,19,,,160,16,1489856275000
+495,495,night,none,northern lights,NA,#d1011,0,2,19,,,160,16,1489855663000
+496,496,night,none,horizontal interference,NA,#20113b,0,2,19,,,160,16,1489855302000
+497,497,night,single female,home,NA,#2b2533,0,2,19,,,160,16,1489854714000
+498,498,night,group,marina,mother and child,#a08c91,0,2,19,,,160,16,1489854547000
+499,499,night,couple,home,NA,#555961,0,2,19,,,160,16,1489854045000
+500,500,night,none,ocean pavilion,NA,#5247c,0,2,19,,,160,16,1489853737000
+501,501,night,none,horizontal interference,NA,#141023,0,2,19,,,160,16,1489853373000
+502,502,night,none,ocean pavilion,NA,#b1862,0,2,19,,,160,16,1489853131000
+503,503,night,couple,the urchin,NA,#423734,0,2,19,,,159,15,1489852422000
+504,504,night,none,horizontal interference,NA,#391955,6,2,18,,,159,15,1489852095000
+505,505,night,single female,dande-lier,NA,#545056,6,2,18,,,159,15,1489851645000
+506,506,night,single female,ocean pavilion,NA,#518bef,6,2,18,,,159,15,1489851182000
+507,507,night,none,marina,NA,#2e2823,6,2,18,,,159,15,1489850924000
+508,508,night,single male,the urchin,NA,#514b4c,6,2,18,,,159,15,1489850727000
+509,509,night,none,horizontal interference,NA,#282c4f,6,2,18,,,159,15,1489850409000
+510,510,night,none,home,NA,#251c1a,6,2,18,,,159,15,1489850038000
+511,511,night,none,marina,NA,#361d2f,6,2,18,,,159,15,1489849605000
+512,512,night,single female,passage of inner reflection,NA,#b0aeb2,6,2,18,,,159,15,1489849448000
+513,513,day,none,horizontal interference,NA,#9ca0b0,6,2,18,,,159,15,1489849241000
+514,514,night,single male,ocean pavilion,NA,#5c6f9b,6,2,18,,,158,14,1489848867000
+515,515,night,none,horizontal interference,NA,#46217c,6,2,18,,,158,14,1489848631000
+516,516,night,none,HYBYCOZO,NA,#1d1f46,6,2,18,,,158,14,1489848415000
+517,517,day,single male,marina,NA,#8b8382,6,2,18,,,158,14,1489848149000
+518,518,night,group,horizontal interference,NA,#e91e,6,2,18,,,158,14,1489848012000
+519,519,day,group,marina,NA,#8c7c82,6,2,18,,,158,14,1489847852000
+520,520,night,none,marina,NA,#292020,6,2,18,,,158,14,1489847487000
+521,521,night,single female,moonflower,NA,#221c3b,6,2,18,,,158,14,1489847254000
+522,522,night,single male,horizontal interference,NA,#36334f,6,2,18,,,158,14,1489847133000
+523,523,night,single male,ultra light network,NA,#87788b,6,2,18,,,158,14,1489846956000
+524,524,day,couple,moonflower,NA,#92827b,6,2,18,,,158,14,1489846166000
+525,525,night,couple,passage of inner reflection,NA,#99969c,6,2,18,,,158,14,1489846051000
+526,526,day,single female,gastrobeats,NA,#977f7d,6,2,18,,,158,14,1489845851000
+527,527,night,group,horizontal interference,NA,#362b43,6,2,18,,,157,13,1489844981000
+528,528,night,group,passage of inner reflection,NA,#97959b,6,2,18,,,157,13,1489844793000
+529,529,night,none,ocean pavilion,NA,#81e80,6,2,18,,,157,13,1489844130000
+530,530,night,single female,marina,NA,#28282a,6,2,18,,,157,13,1489843696000
+531,531,night,none,gastrobeats,NA,#293544,6,2,18,,,157,13,1489843035000
+532,532,night,single female,passage of inner reflection,NA,#939eab,6,2,18,,,157,13,1489842484000
+533,533,night,single female,the urchin,NA,#716d6a,6,2,18,,,156,12,1489841760000
+534,534,unknown,couple,mrt,NA,#a29687,6,2,18,,,156,12,1489841545000
+535,535,night,couple,gastrobeats,NA,#3c5182,6,2,18,,,156,12,1489840955000
+536,536,night,couple,gastrobeats,NA,#3c5181,6,2,18,,,156,12,1489840244000
+537,537,night,single female,moonflower,NA,#302825,6,2,18,,,156,12,1489839590000
+538,538,night,none,marina,NA,#392f27,6,2,18,,,156,12,1489838534000
+539,539,night,single male,ultra light network,NA,#503f49,6,2,18,,,155,11,1489838080000
+540,540,day,none,marina,NA,#acadb3,6,2,18,,,155,11,1489836565000
+541,541,day,single female,unknown,NA,#7a7271,6,2,18,,,155,11,1489835718000
+542,542,night,single female,gastrobeats,NA,#d4b8b0,6,2,18,,,154,10,1489832919000
+543,543,night,none,dande-lier,NA,#d4cfcf,6,2,18,,,154,10,1489832004000
+544,544,night,none,ultra light network,NA,#211c1d,6,2,18,,,153,9,1489829177000
+545,545,night,single male,gastrobeats,NA,#4f4559,6,2,18,,,151,7,1489823610000
+546,546,night,group,marina,NA,#a8a499,6,2,18,,,151,7,1489821330000
+547,547,night,single male,horizontal interference,NA,#352740,6,2,18,,,150,6,1489818842000
+548,548,unknown,single panda,unknown,NA,#574934,6,2,18,,,150,6,1489818127000
+549,549,night,none,ocean pavilion,NA,#8399a,6,2,18,,,149,5,1489815953000
+550,550,night,none,marina,NA,#251f27,6,2,18,,,149,5,1489814864000
+551,551,unknown,group,unknown,NA,#7c7069,6,2,18,,,149,5,1489813899000
+552,552,night,none,ocean pavilion,NA,#548e6,6,2,18,,,148,4,1489811979000
+553,553,night,single male,passage of inner reflection,NA,#4d6068,6,2,18,,,146,2,1489804278000
+554,554,night,none,horizontal interference,NA,#2e145a,6,2,18,,,145,1,1489802390000
+555,555,night,none,moonflower,NA,#292d3a,6,2,18,,,145,1,1489798953000
+556,556,night,none,home,NA,#54545a,6,2,18,,,144,0,1489796979000
+557,557,night,none,northern lights,NA,#ec11,6,2,18,,,141,21,1489784732000
+558,558,night,none,moonflower,NA,#2b231c,6,2,18,,,139,19,1489777646000
+559,559,night,none,colourful garden of lights,NA,#233366,6,2,18,,,138,18,1489774305000
+560,560,night,none,moonflower,NA,#3f4457,6,2,18,,,137,17,1489773511000
+561,561,night,none,marina,NA,#1a1e23,6,2,18,,,137,17,1489771404000
+562,562,night,single female,ocean pavilion,cosplay,#83aeec,6,2,18,,,137,17,1489770934000
+563,563,night,none,HYBYCOZO,NA,#1c2642,6,2,18,,,136,16,1489769921000
+564,564,night,none,gastrobeats,NA,#551f60,6,2,18,,,136,16,1489768504000
+565,565,night,single male,gastrobeats,NA,#87817e,6,2,18,,,136,16,1489768349000
+566,566,night,single female,ocean pavilion,NA,#a2798,6,2,18,,,136,16,1489767067000
+567,567,night,single female,horizontal interference,NA,#32f67,6,2,18,,,136,16,1489766579000
+568,568,night,none,horizontal interference,NA,#14101a,6,2,18,,,135,15,1489765282000
+569,569,night,none,ultra light network,NA,#717275,5,2,17,,,135,15,1489764249000
+570,570,night,single female,marina,NA,#4b3d3e,5,2,17,,,135,15,1489763507000
+571,571,night,none,HYBYCOZO,NA,#26412c,5,2,17,,,135,15,1489763149000
+572,572,night,group,colourful garden of lights,NA,#7f4da5,5,2,17,,,134,14,1489762303000
+573,573,night,none,ocean pavilion,hand,#239c0,5,2,17,,,134,14,1489761488000
+574,574,night,single male,marina,NA,#7d6d55,5,2,17,,,134,14,1489760753000
+575,575,night,couple,passage of inner reflection,NA,#838687,5,2,17,,,134,14,1489760135000
+576,576,night,none,northern lights,NA,#a8b,5,2,17,,,134,14,1489759838000
+577,577,night,single female,gastrobeats,NA,#3b3336,5,2,17,,,134,14,1489759673000
+578,578,night,none,horizontal interference,NA,#2f1a65,5,2,17,,,134,14,1489759484000
+579,579,night,couple,home,NA,#26272e,5,2,17,,,134,14,1489759263000
+580,580,night,single female,gastrobeats,NA,#9d7eb1,5,2,17,,,133,13,1489758828000
+581,581,night,single male,horizontal interference,NA,#3e2a43,5,2,17,,,133,13,1489758420000
+582,582,night,single female,horizontal interference,dog,#302e4b,5,2,17,,,133,13,1489758305000
+583,583,night,single female,gastrobeats,NA,#151834,5,2,17,,,133,13,1489757989000
+584,584,night,single female,gastrobeats,NA,#502e97,5,2,17,,,133,13,1489757669000
+585,586,night,group,home,NA,#605e57,5,2,17,,,133,13,1489757131000
+586,587,night,single female,marina,NA,#ae9799,5,2,17,,,133,13,1489755736000
+587,588,night,none,moonflower,NA,#565354,5,2,17,,,132,12,1489755001000
+588,589,night,single male,horizontal interference,NA,#201749,5,2,17,,,132,12,1489754763000
+589,590,night,single male,horizontal interference,NA,#2c256a,5,2,17,,,132,12,1489754345000
+590,591,night,single male,marina,NA,#6b696c,5,2,17,,,132,12,1489753296000
+591,592,night,none,unknown,NA,#5532,5,2,17,,,132,12,1489752429000
+592,593,night,none,marina,NA,#161415,5,2,17,,,131,11,1489751517000
+593,594,night,none,marina,NA,#2b2626,5,2,17,,,131,11,1489750429000
+594,595,night,none,the urchin,NA,#3b3b3e,5,2,17,,,130,10,1489747700000
+595,596,night,none,moonflower,NA,#242047,5,2,17,,,130,10,1489746866000
+596,597,night,couple,NA,NA,#573d4e,5,2,17,,,130,10,1489745282000
+597,598,night,none,horizontal interference,NA,#615253,5,2,17,,,127,7,1489735531000
+598,599,night,single male,horizontal interference,NA,#292336,5,2,17,,,126,6,1489733057000
+599,600,day,couple,gastrobeats,NA,#998b94,5,2,17,,,125,5,1489728897000
+600,601,night,single female,ocean pavilion,NA,#630c9,5,2,17,,,124,4,1489726762000
+601,602,night,none,HYBYCOZO,NA,#32204f,5,2,17,,,124,4,1489724824000
+602,603,night,none,marina,trees,#404522,5,2,17,,,122,2,1489717965000
+603,604,night,single male,colourful garden of lights,NA,#4d5d57,5,2,17,,,121,1,1489715620000
+604,605,night,none,horizontal interference,NA,#12f2f,5,2,17,,,121,1,1489713380000
+605,606,night,single female,horizontal interference,NA,#71587c,5,2,17,,,120,0,1489708845000
+606,607,night,none,i light you so much,NA,#322d27,5,2,17,,,119,23,1489705328000
+607,608,night,single male,horizontal interference,NA,#505b8f,5,2,17,,,117,21,1489700179000
+608,609,night,none,gastrobeats,NA,#271a40,5,2,17,,,113,17,1489686892000
+609,610,night,single male,ocean pavilion,NA,#91a51,5,2,17,,,112,16,1489682347000
+610,611,day,none,marina,NA,#6d6b5e,5,2,17,,,112,16,1489681869000
+611,612,night,single female,ultra light network,NA,#8d6e7e,5,2,17,,,112,16,1489680958000
+612,613,night,none,marina,NA,#13151a,5,2,17,,,112,16,1489680158000
+613,614,day,none,dande-lier,NA,#6e72ab,5,2,17,,,111,15,1489678168000
+614,615,night,single female,horizontal interference,NA,#271f41,4,2,16,,,111,15,1489677234000
+615,616,night,single male,the urchin,NA,#514c4c,4,2,16,,,111,15,1489677061000
+616,617,night,single female,horizontal interference,NA,#4e4b6e,4,2,16,,,110,14,1489676073000
+617,618,day,none,horizontal interference,NA,#816f62,4,2,16,,,110,14,1489675070000
+618,619,night,couple,HYBYCOZO,NA,#3a1215,4,2,16,,,110,14,1489674456000
+619,620,night,single female,moonflower,NA,#4f4070,4,2,16,,,110,14,1489674062000
+620,621,night,none,gastrobeats,NA,#2f2e41,4,2,16,,,110,14,1489673436000
+621,622,night,single male,ultra light network,NA,#4b4e64,4,2,16,,,110,14,1489673119000
+622,623,night,single female,ultra light network,NA,#5b5150,4,2,16,,,109,13,1489671940000
+623,624,night,none,home,NA,#3d4150,4,2,16,,,109,13,1489670743000
+624,625,night,single male,ultra light network,NA,#806d6f,4,2,16,,,109,13,1489669842000
+625,626,night,single male,gastrobeats,NA,#7e767f,4,2,16,,,108,12,1489669070000
+626,627,night,group,marina,child,#78554c,4,2,16,,,108,12,1489667722000
+627,628,night,single female,ultra light network,NA,#6c6660,4,2,16,,,107,11,1489665301000
+628,629,night,single female,dande-lier,NA,#1c4a4,4,2,16,,,107,11,1489664343000
+629,630,night,none,marina,NA,#2f2d2f,4,2,16,,,107,11,1489662679000
+630,631,night,single male,gastrobeats,NA,#a08682,4,2,16,,,106,10,1489660750000
+631,632,night,none,marina,NA,#29241f,4,2,16,,,105,9,1489657033000
+632,633,night,none,marina,NA,#3f3125,4,2,16,,,105,9,1489656415000
+633,634,night,none,horizontal interference,NA,#4b138e,4,2,16,,,103,7,1489647865000
+634,635,night,none,northern lights,NA,#222514,4,2,16,,,102,6,1489644446000
+635,636,night,couple,passage of inner reflection,NA,#8d8d8b,4,2,16,,,101,5,1489643011000
+636,637,night,none,HYBYCOZO,NA,#6091a1,4,2,16,,,101,5,1489641116000
+637,638,night,none,northern lights,NA,#16161e,4,2,16,,,100,4,1489637823000
+638,639,night,none,marina,NA,#302525,4,2,16,,,97,1,1489629422000
+639,640,night,single male,passage of inner reflection,NA,#91847b,4,2,16,,,97,1,1489628098000
+640,641,night,none,marina,NA,#25221e,4,2,16,,,96,0,1489624990000
+641,642,night,single female,gastrobeats,NA,#7a564f,4,2,16,,,95,23,1489621770000
+642,643,night,couple,dande-lier,NA,#b0d0e4,4,2,16,,,95,23,1489620220000
+643,644,night,none,moonflower,NA,#272728,4,2,16,,,93,21,1489614841000
+644,645,day,group,marina,NA,#888d9c,4,2,16,,,89,17,1489599307000
+645,646,night,couple,gastrobeats,NA,#3e3248,4,2,16,,,88,16,1489596380000
+646,647,night,none,marina,NA,#272424,4,2,16,,,88,16,1489595566000
+647,648,night,single male,marina,child,#413227,4,2,16,,,88,16,1489593614000
+648,649,night,none,home,NA,#1c2641,4,2,16,,,87,15,1489592831000
+649,650,day,none,unknown,ice cream,#d1c5be,3,2,15,,,87,15,1489591810000
+650,651,night,none,horizontal interference,NA,#372c4d,3,2,15,,,87,15,1489590764000
+651,652,night,none,ocean pavilion,NA,#a1731,3,2,15,,,87,15,1489590013000
+652,653,night,none,ultra light network,NA,#221b2e,3,2,15,,,86,14,1489588778000
+653,654,night,single female,horizontal interference,NA,#272355,3,2,15,,,86,14,1489587714000
+654,655,night,single male,marina,NA,#404341,3,2,15,,,85,13,1489584866000
+655,656,night,none,ocean pavilion,NA,#5b595b,3,2,15,,,85,13,1489584205000
+656,657,night,single female,ultra light network,NA,#1b1c24,3,2,15,,,85,13,1489583025000
+657,658,night,single male,gastrobeats,band,#4f4d4f,3,2,15,,,84,12,1489581823000
+658,659,night,couple,gastrobeats,NA,#796250,3,2,15,,,84,12,1489580864000
+659,660,night,couple,horizontal interference,botak,#302140,3,2,15,,,84,12,1489580098000
+660,661,day,single female,marina,NA,#b1b4b9,3,2,15,,,84,12,1489579838000
+661,662,night,none,ultra light network,NA,#736878,3,2,15,,,83,11,1489579067000
+662,663,night,group,marina mall,NA,#967c7e,3,2,15,,,83,11,1489577875000
+663,664,night,none,ultra light network,NA,#302425,3,2,15,,,83,11,1489575791000
+664,665,night,none,northern lights,NA,#6f6c75,3,2,15,,,82,10,1489573802000
+665,666,night,single male,dande-lier,NA,#9e95ae,3,2,15,,,82,10,1489572504000
+666,667,night,group,passage of inner reflection,NA,#6e6c66,3,2,15,,,81,9,1489570514000
+667,668,night,single male,home,NA,#2e313d,3,2,15,,,80,8,1489568017000
+668,669,night,single female,marina,NA,#a08078,3,2,15,,,80,8,1489564900000
+669,670,night,none,the body of sea,NA,#202425,3,2,15,,,79,7,1489564217000
+670,671,night,group,horizontal interference,NA,#403641,3,2,15,,,79,7,1489564031000
+671,672,night,single male,relocating locality,NA,#9f6b69,3,2,15,,,78,6,1489559615000
+672,673,night,single male,home,NA,#2a282d,3,2,15,,,78,6,1489558687000
+673,674,night,single female,gastrobeats,dog,#645861,3,2,15,,,77,5,1489555084000
+674,675,night,single female,ultra light network,NA,#6b5e63,3,2,15,,,76,4,1489550457000
+675,676,night,single female,i light you so much,NA,#989295,3,2,15,,,75,3,1489547948000
+676,677,night,single female,unknown,NA,#c0bdc0,3,2,15,,,74,2,1489546303000
+677,678,night,single male,horizontal interference,NA,#473d53,3,2,15,,,73,1,1489541957000
+678,679,night,none,gastrobeats,ice cream,#5e5450,3,2,15,,,71,23,1489534765000
+679,680,night,single female,horizontal interference,NA,#5a4159,3,2,15,,,67,19,1489518018000
+680,681,night,single female,horizontal interference,NA,#374159,3,2,15,,,66,18,1489515918000
+681,682,night,single female,gastrobeats,NA,#645246,3,2,15,,,65,17,1489512637000
+682,683,night,group,horizontal interference,NA,#424453,3,2,15,,,64,16,1489510065000
+683,684,night,single female,horizontal interference,NA,#364259,3,2,15,,,64,16,1489508744000
+684,685,night,none,ultra light network,NA,#282032,3,2,15,,,64,16,1489508418000
+685,686,unknown,single female,mrt,NA,#ebb56d,3,2,15,,,64,16,1489508194000
+686,687,night,couple,moonflower,NA,#2d2826,3,2,15,,,63,15,1489506508000
+687,688,night,single female,HYBYCOZO,NA,#362434,2,2,14,,,63,15,1489505641000
+688,689,night,single female,gastrobeats,NA,#54566a,2,2,14,,,63,15,1489505052000
+689,690,night,none,gastrobeats,band,#282228,2,2,14,,,63,15,1489503928000
+690,691,night,couple,dande-lier,NA,#215090,2,2,14,,,62,14,1489502709000
+691,692,unknown,none,unknown,design,#7193a7,2,2,14,,,62,14,1489502192000
+692,693,night,group,gastrobeats,NA,#603a8a,2,2,14,,,62,14,1489501333000
+693,694,day,none,marina,bottle,#aab6c0,2,2,14,,,62,14,1489500513000
+694,695,night,couple,horizontal interference,NA,#2c275b,2,2,14,,,61,13,1489499706000
+695,696,night,none,unknown,map,#1b202e,2,2,14,,,61,13,1489499137000
+696,697,night,couple,horizontal interference,NA,#4a4c48,2,2,14,,,61,13,1489498347000
+697,698,night,group,passage of inner reflection,NA,#7e7774,2,2,14,,,61,13,1489497987000
+698,699,night,none,moonflower,NA,#74706f,2,2,14,,,61,13,1489497550000
+699,700,night,none,horizontal interference,NA,#2e2163,2,2,14,,,61,13,1489496597000
+700,701,night,single male,unknown,light bike,#413664,2,2,14,,,60,12,1489494752000
+701,702,day,couple,gastrobeats,NA,#818394,2,2,14,,,60,12,1489494421000
+702,703,unknown,single male,unknown,child,#87444e,2,2,14,,,60,12,1489492906000
+703,704,day,none,unknown,bubbles,#5e98d6,2,2,14,,,59,11,1489492306000
+704,705,night,none,gastrobeats,NA,#4f5557,2,2,14,,,59,11,1489491405000
+705,706,night,group,gastrobeats,NA,#797cee,2,2,14,,,59,11,1489490374000
+706,707,night,none,marina,NA,#2d282b,2,2,14,,,58,10,1489488646000
+707,708,night,none,moonflower,NA,#464f62,2,2,14,,,58,10,1489486694000
+708,709,day,single female,marina,NA,#838a95,2,2,14,,,58,10,1489485984000
+709,710,night,couple,horizontal interference,NA,#5c4452,2,2,14,,,56,8,1489481379000
+710,711,night,none,moonflower,NA,#3a3b48,2,2,14,,,54,6,1489472597000
+711,712,night,none,horizontal interference,NA,#201d3f,2,2,14,,,52,4,1489466941000
+712,713,day,none,unknown,bag,#eae7e9,2,2,14,,,52,4,1489464597000
+713,714,night,couple,horizontal interference,NA,#342d5c,2,2,14,,,51,3,1489463507000
+714,715,night,single male,horizontal interference,NA,#2a2032,2,2,14,,,51,3,1489460604000
+715,716,night,none,gastrobeats,NA,#b5b7c1,2,2,14,,,50,2,1489459108000
+716,717,night,single male,horizontal interference,NA,#a99fbb,2,2,14,,,49,1,1489456438000
+717,718,night,single male,horizontal interference,NA,#503b7f,2,2,14,,,48,0,1489453100000
+718,719,night,single male,horizontal interference,NA,#342656,2,2,14,,,47,23,1489446791000
+719,720,night,single male,marina,NA,#3d3a39,2,2,14,,,44,20,1489438026000
+720,721,night,none,northern lights,NA,#252320,2,2,14,,,40,16,1489423729000
+721,722,night,group,gastrobeats,child,#7c7471,2,2,14,,,40,16,1489422105000
+722,723,night,single male,ocean pavilion,NA,#1d48dd,2,2,14,,,40,16,1489420967000
+723,724,day,none,marina,NA,#446592,2,2,14,,,39,15,1489419991000
+724,725,night,none,ocean pavilion,NA,#254b8c,1,2,13,,,39,15,1489419167000
+725,726,night,none,the urchin,NA,#3a3a39,1,2,13,,,39,15,1489418506000
+726,727,night,single male,marina,robot,#462b6b,1,2,13,,,38,14,1489417000000
+727,728,night,single female,passage of inner reflection,NA,#e7dde6,1,2,13,,,38,14,1489415932000
+728,729,night,none,marina,NA,#381e2e,1,2,13,,,38,14,1489415459000
+729,730,night,single female,gastrobeats,NA,#272144,1,2,13,,,38,14,1489414230000
+730,731,night,none,horizontal interference,NA,#795b9a,1,2,13,,,37,13,1489413464000
+731,732,night,none,the body of sea,NA,#333440,1,2,13,,,37,13,1489412300000
+732,733,night,group,dande-lier,NA,#4d5855,1,2,13,,,37,13,1489411769000
+733,734,night,none,HYBYCOZO,NA,#111a2a,1,2,13,,,37,13,1489411597000
+734,735,night,single female,gastrobeats,NA,#1f1731,1,2,13,,,36,12,1489409572000
+735,736,night,single female,passage of inner reflection,NA,#635b58,1,2,13,,,36,12,1489407294000
+736,737,night,none,horizontal interference,NA,#a7b1cd,1,2,13,,,36,12,1489406525000
+737,738,night,couple,gastrobeats,NA,#63566f,1,2,13,,,35,11,1489405104000
+738,739,night,single male,passage of inner reflection,NA,#8d9aa7,1,2,13,,,35,11,1489404647000
+739,740,day,single female,marina,NA,#526b83,1,2,13,,,35,11,1489403627000
+740,741,night,couple,home,NA,#666570,1,2,13,,,34,10,1489401827000
+741,742,night,none,horizontal interference,NA,#382a60,1,2,13,,,34,10,1489400514000
+742,743,night,single male,marina,NA,#786450,1,2,13,,,33,9,1489397469000
+743,744,night,single female,horizontal interference,dolphin,#262140,1,2,13,,,32,8,1489393467000
+744,745,night,couple,gastrobeats,NA,#826257,1,2,13,,,31,7,1489390908000
+745,746,night,single female,unknown,NA,#836b75,1,2,13,,,30,6,1489386893000
+746,747,night,couple,colourful garden of lights,NA,#584a70,1,2,13,,,29,5,1489383272000
+747,748,night,single female,ultra light network,NA,#866fa7,1,2,13,,,29,5,1489381267000
+748,749,night,single female,passage of inner reflection,NA,#ccc9ca,1,2,13,,,28,4,1489379680000
+749,750,night,couple,gastrobeats,NA,#3c2862,1,2,13,,,28,4,1489379432000
+750,751,night,couple,gastrobeats,NA,#231a2f,1,2,13,,,28,4,1489378902000
+751,752,night,none,colourful garden of lights,NA,#60485a,1,2,13,,,27,3,1489377529000
+752,753,night,single male,horizontal interference,NA,#2d1c4e,1,2,13,,,27,3,1489376056000
+753,754,night,single female,marina,NA,#42475d,1,2,13,,,27,3,1489374727000
+754,755,night,single female,moonflower,NA,#867c9c,1,2,13,,,26,2,1489373313000
+755,756,day,none,marina,NA,#677072,1,2,13,,,26,2,1489372965000
+756,757,night,none,moonflower,NA,#232121,1,2,13,,,26,2,1489370671000
+757,758,night,none,moonflower,NA,#3e2d30,1,2,13,,,25,1,1489370391000
+758,759,night,none,ultra light network,NA,#545254,1,2,13,,,25,1,1489367158000
+759,760,night,none,ultra light network,NA,#394140,1,2,13,,,24,0,1489364656000
+760,761,night,single female,ultra light network,NA,#64525b,1,2,13,,,24,0,1489364218000
+761,762,night,single female,horizontal interference,NA,#384a50,1,2,13,,,23,23,1489362627000
+762,763,night,single male,horizontal interference,NA,#443f5a,1,2,13,,,23,23,1489360635000
+763,764,night,single female,HYBYCOZO,NA,#2a1745,1,2,13,,,22,22,1489356130000
+764,765,night,single male,ultra light network,NA,#5c5673,1,2,13,,,17,17,1489340753000
+765,766,night,couple,horizontal interference,NA,#8c6098,1,2,13,,,17,17,1489339250000
+766,767,night,single female,gastrobeats,bear,#7c7778,1,2,13,,,17,17,1489338564000
+767,768,unknown,single male,mrt,NA,#87898c,1,2,13,,,17,17,1489338076000
+768,769,night,single female,the urchin,NA,#8f8785,1,2,13,,,16,16,1489337647000
+769,770,night,single female,ocean pavilion,NA,#42434d,1,2,13,,,16,16,1489336063000
+770,771,day,none,unknown,food,#828277,1,2,13,,,16,16,1489335178000
+771,772,night,group,passage of inner reflection,NA,#857e7d,1,2,13,,,16,16,1489334463000
+772,773,night,none,marina,NA,#221b12,1,2,13,,,15,15,1489332866000
+773,774,night,none,home,NA,#19192a,0,2,12,,,15,15,1489332642000
+774,775,night,couple,horizontal interference,NA,#1b1722,0,2,12,,,15,15,1489331916000
+775,776,day,single female,gastrobeats,NA,#767e8e,0,2,12,,,15,15,1489331700000
+776,777,night,single female,ultra light network,NA,#8b7484,0,2,12,,,15,15,1489330962000
+777,778,night,single male,marina,NA,#53412b,0,2,12,,,14,14,1489330410000
+778,779,night,single female,passage of inner reflection,NA,#9893a5,0,2,12,,,14,14,1489330081000
+779,780,night,single female,gastrobeats,NA,#473267,0,2,12,,,14,14,1489329738000
+780,781,day,none,artzoo,NA,#b5c2c4,0,2,12,,,14,14,1489329552000
+781,782,night,none,moonflower,NA,#5c5857,0,2,12,,,14,14,1489329499000
+782,783,night,none,marina,NA,#242022,0,2,12,,,14,14,1489329474000
+783,784,night,single female,gastrobeats,NA,#695759,0,2,12,,,14,14,1489329183000
+784,785,night,single female,gastrobeats,NA,#a59890,0,2,12,,,14,14,1489329007000
+785,786,night,single female,gastrobeats,NA,#586880,0,2,12,,,14,14,1489328403000
+786,787,night,none,marina,NA,#131311,0,2,12,,,14,14,1489328268000
+787,788,night,couple,passage of inner reflection,NA,#737070,0,2,12,,,14,14,1489327737000
+788,789,night,single female,ocean pavilion,NA,#22dad,0,2,12,,,14,14,1489327326000
+789,790,night,none,marina,NA,#484448,0,2,12,,,13,13,1489327017000
+790,791,night,none,stormtrooper,NA,#302b28,0,2,12,,,13,13,1489326459000
+791,792,night,none,ocean pavilion,NA,#525a7,0,2,12,,,13,13,1489325601000
+792,793,night,none,moonflower,NA,#2f3030,0,2,12,,,13,13,1489324899000
+793,794,night,single female,gastrobeats,NA,#73707d,0,2,12,,,13,13,1489324370000
+794,795,night,group,gastrobeats,NA,#4f433f,0,2,12,,,12,12,1489323523000
+795,796,night,none,home,NA,#141314,0,2,12,,,12,12,1489323229000
+796,797,night,none,horizontal interference,NA,#252325,0,2,12,,,12,12,1489322559000
+797,798,night,none,ultra light network,NA,#1f1d1f,0,2,12,,,12,12,1489321796000
+798,799,night,couple,marina,NA,#423731,0,2,12,,,12,12,1489321385000
+799,800,night,none,horizontal interference,NA,#342c81,0,2,12,,,12,12,1489320865000
+800,801,night,none,moonflower,NA,#524246,0,2,12,,,12,12,1489320675000
+801,802,night,single female,gastrobeats,NA,#796254,0,2,12,,,11,11,1489319662000
+802,803,night,single female,colourful garden of lights,NA,#584c66,0,2,12,,,11,11,1489318691000
+803,804,night,none,home,NA,#211d1b,0,2,12,,,11,11,1489317377000
+804,805,night,none,gastrobeats,NA,#403a51,0,2,12,,,10,10,1489315869000
+805,806,night,none,marina,NA,#292625,0,2,12,,,10,10,1489314864000
+806,807,night,none,ultra light network,NA,#251d28,0,2,12,,,10,10,1489314053000
+807,808,night,none,moonflower,NA,#524635,0,2,12,,,9,9,1489311372000
+808,809,night,single female,home,NA,#63605b,0,2,12,,,9,9,1489310042000
+809,810,night,single female,moonflower,NA,#898176,0,2,12,,,9,9,1489309630000
+810,811,night,single male,ocean pavilion,NA,#79a7c2,0,2,12,,,8,8,1489307375000
+811,812,night,none,horizontal interference,NA,#3f3b97,0,2,12,,,7,7,1489303221000
+812,813,night,single male,horizontal interference,NA,#3d3654,0,2,12,,,6,6,1489301479000
+813,814,night,none,horizontal interference,NA,#252265,0,2,12,,,6,6,1489300377000
+814,815,night,single female,HYBYCOZO,NA,#1c1924,0,2,12,,,6,6,1489300059000
+815,816,night,none,home,NA,#131410,0,2,12,,,6,6,1489299221000
+816,817,night,couple,home,NA,#8a8989,0,2,12,,,5,5,1489296889000
+817,818,night,none,gastrobeats,NA,#2a2332,0,2,12,,,5,5,1489295772000
+818,819,night,none,gastrobeats,NA,#429,0,2,12,,,4,4,1489294561000
+819,820,night,none,colourful garden of lights,NA,#8e9195,0,2,12,,,4,4,1489294199000
+820,821,night,none,HYBYCOZO,NA,#106077,0,2,12,,,4,4,1489293375000
+821,822,night,none,horizontal interference,NA,#2d86f,0,2,12,,,4,4,1489293080000
+822,823,night,group,waves,NA,#715243,0,2,12,,,4,4,1489292822000
+823,824,night,none,HYBYCOZO,NA,#503945,0,2,12,,,4,4,1489292547000
+824,825,night,none,northern lights,NA,#1c2e30,0,2,12,,,4,4,1489292012000
+825,826,night,single female,colourful garden of lights,NA,#2f1169,0,2,12,,,4,4,1489291716000
+826,827,night,none,HYBYCOZO,NA,#5c1115,0,2,12,,,3,3,1489291101000
+827,828,night,none,HYBYCOZO,NA,#322a45,0,2,12,,,3,3,1489290649000
+828,829,night,single female,the urchin,NA,#695f63,0,2,12,,,3,3,1489290031000
+829,830,night,none,gastrobeats,NA,#fb19,0,2,12,,,3,3,1489289824000
+830,831,night,none,the urchin,NA,#4d4c5a,0,2,12,,,3,3,1489288545000
+831,832,night,none,colourful garden of lights,NA,#1e141a,0,2,12,,,2,2,1489286387000
+832,833,night,none,the urchin,NA,#524f52,0,2,12,,,2,2,1489284983000
+833,834,night,none,northern lights,NA,#2c3236,0,2,12,,,1,1,1489283272000
+834,835,night,none,gastrobeats,NA,#432e13,0,2,12,,,1,1,1489281980000
+835,836,night,none,HYBYCOZO,NA,#6f6a7a,0,2,12,,,1,1,1489280660000
+836,837,night,none,horizontal interference,NA,#1d1a3e,0,2,12,,,0,0,1489280111000
+837,838,night,none,gastrobeats,NA,#1f1615,0,2,12,,,0,0,1489278665000
+838,839,day,single male,marina,NA,#918989,0,2,12,,,167,23,1489275298000
+839,840,night,none,HYBYCOZO,NA,#4d3836,0,2,12,,,163,19,1489261139000
+840,841,night,single female,HYBYCOZO,NA,#3c4343,0,2,12,,,162,18,1489257464000
+841,842,night,none,home,NA,#ece,0,2,12,,,162,18,1489257016000
+842,843,night,couple,gastrobeats,NA,#493360,0,2,12,,,162,18,1489255575000
+843,844,night,single male,the urchin,NA,#4a484c,0,2,12,,,161,17,1489254455000
+844,845,night,couple,relocating locality,NA,#2b2b2c,0,2,12,,,161,17,1489253393000
+845,846,night,none,ultra light network,NA,#4b2d46,0,2,12,,,161,17,1489253307000
+846,847,night,none,horizontal interference,NA,#5e27aa,0,2,12,,,161,17,1489252617000
+847,848,night,single male,horizontal interference,NA,#332450,0,2,12,,,161,17,1489252200000
+848,849,night,single female,HYBYCOZO,NA,#c244b,0,2,12,,,161,17,1489251918000
+849,850,night,single male,horizontal interference,NA,#293450,0,2,12,,,160,16,1489251396000
+850,851,night,none,home,NA,#f1316,0,2,12,,,160,16,1489251307000
+851,852,night,none,horizontal interference,NA,#3a2b65,0,2,12,,,160,16,1489251171000
+852,853,night,none,moonflower,NA,#464a52,0,2,12,,,160,16,1489251067000
+853,854,night,single male,horizontal interference,NA,#493864,0,2,12,,,160,16,1489250843000
+854,855,night,none,gastrobeats,NA,#897d91,0,2,12,,,160,16,1489250172000
+855,856,night,couple,marina,NA,#635147,0,2,12,,,160,16,1489249747000
+856,857,night,none,gastrobeats,NA,#535054,0,2,12,,,160,16,1489249365000
+857,858,night,single female,ocean pavilion,NA,#3453d8,0,2,12,,,160,16,1489249206000
+858,859,night,none,marina,NA,#222731,0,2,12,,,160,16,1489248913000
+859,860,night,none,moonflower,NA,#3a332c,0,2,12,,,160,16,1489248498000
+860,861,night,none,HYBYCOZO,NA,#9121d,0,2,12,,,160,16,1489248225000
+861,862,night,group,gastrobeats,NA,#584e45,0,2,12,,,160,16,1489248051000
+862,863,night,none,northern lights,NA,#569,0,2,12,,,159,15,1489247904000
+863,864,night,none,marina,NA,#292b34,6,2,11,,,159,15,1489247728000
+864,865,night,none,dande-lier,NA,#115e3e,6,2,11,,,159,15,1489247612000
+865,866,night,none,unknown,NA,#463e38,6,2,11,,,159,15,1489247540000
+866,867,day,single male,gastrobeats,NA,#a591a9,6,2,11,,,159,15,1489247313000
+867,868,night,group,marina,NA,#594b45,6,2,11,,,159,15,1489247159000
+868,869,night,single female,horizontal interference,NA,#16122e,6,2,11,,,159,15,1489246836000
+869,870,night,single male,ultra light network,NA,#473158,6,2,11,,,159,15,1489246639000
+870,871,night,group,passage of inner reflection,NA,#a8a3aa,6,2,11,,,159,15,1489246535000
+871,872,night,none,home,NA,#333540,6,2,11,,,159,15,1489245978000
+872,873,night,none,unknown,food,#826c48,6,2,11,,,159,15,1489245752000
+873,874,night,single male,relocating locality,NA,#2f2d30,6,2,11,,,159,15,1489245510000
+874,875,night,none,dande-lier,NA,#16253f,6,2,11,,,159,15,1489245184000
+875,876,day,couple,marina,NA,#b0b4b8,6,2,11,,,159,15,1489245071000
+876,877,night,group,passage of inner reflection,NA,#a39f9f,6,2,11,,,159,15,1489244963000
+877,878,night,none,ocean pavilion,NA,#c1f76,6,2,11,,,159,15,1489244602000
+878,879,night,single female,gastrobeats,NA,#211f26,6,2,11,,,159,15,1489244552000
+879,880,night,none,marina,NA,#3d1f37,6,2,11,,,159,15,1489244423000
+880,881,night,single female,the urchin,NA,#adaab0,6,2,11,,,158,14,1489243879000
+881,882,night,single female,gastrobeats,NA,#422159,6,2,11,,,158,14,1489243595000
+882,883,night,none,colourful garden of lights,NA,#2d2037,6,2,11,,,158,14,1489243073000
+883,884,night,none,home,NA,#202224,6,2,11,,,158,14,1489242879000
+884,885,night,group,artzoo,NA,#b0afbd,6,2,11,,,158,14,1489242446000
+885,886,night,single male,uncle ringo,NA,#486a86,6,2,11,,,158,14,1489242264000
+886,887,night,group,horizontal interference,NA,#453c4e,6,2,11,,,158,14,1489242034000
+887,888,unknown,none,unknown,inspirational quote,#756b7a,6,2,11,,,158,14,1489241657000
+888,889,night,couple,marina,NA,#2b1e50,6,2,11,,,158,14,1489241392000
+889,890,night,group,gastrobeats,female pair,#7f3dd9,6,2,11,,,158,14,1489241112000
+890,891,night,group,gastrobeats,NA,#463066,6,2,11,,,157,13,1489240216000
+891,892,night,couple,uncle ringo,NA,#504e53,6,2,11,,,157,13,1489239589000
+892,893,night,single female,uncle ringo,NA,#746281,6,2,11,,,157,13,1489239395000
+893,894,night,single male,ultra light network,NA,#5a5a6b,6,2,11,,,157,13,1489238995000
+894,895,night,couple,ocean pavilion,NA,#8418c,6,2,11,,,157,13,1489238593000
+895,896,night,none,marina,NA,#253d55,6,2,11,,,157,13,1489238297000
+896,897,night,single male,passage of inner reflection,NA,#88908a,6,2,11,,,157,13,1489237874000
+897,898,night,single male,horizontal interference,NA,#393173,6,2,11,,,157,13,1489237284000
+898,899,night,single female,ocean pavilion,NA,#d38b1,6,2,11,,,156,12,1489235561000
+899,900,night,couple,uncle ringo,NA,#695849,6,2,11,,,156,12,1489235346000
+900,901,night,none,ultra light network,NA,#261e1f,6,2,11,,,156,12,1489235209000
+901,902,night,single male,horizontal interference,NA,#736d9e,6,2,11,,,156,12,1489235035000
+902,903,night,none,gastrobeats,NA,#317,6,2,11,,,156,12,1489234509000
+903,904,night,single male,uncle ringo,NA,#576267,6,2,11,,,155,11,1489232828000
+904,905,night,single male,passage of inner reflection,NA,#858488,6,2,11,,,155,11,1489231848000
+905,906,night,single female,horizontal interference,NA,#514b84,6,2,11,,,155,11,1489231568000
+906,907,night,single male,passage of inner reflection,NA,#cabfba,6,2,11,,,155,11,1489230482000
+907,908,night,none,marina,food/unrelated,#b68a7d,6,2,11,,,153,9,1489225219000
+908,909,night,single male,home,NA,#32353c,6,2,11,,,153,9,1489224295000
+909,910,night,single female,horizontal interference,NA,#533c39,6,2,11,,,152,8,1489221337000
+910,911,night,single female,the urchin,NA,#4e4b4c,6,2,11,,,151,7,1489217762000
+911,912,night,single male,gastrobeats,NA,#4c2f82,6,2,11,,,151,7,1489215808000
+912,913,night,single female,passage of inner reflection,NA,#9f9696,6,2,11,,,150,6,1489214970000
+913,914,night,single female,marina,cospslayer,#2f2e32,6,2,11,,,150,6,1489213965000
+914,915,night,single female,home,NA,#4b4c63,6,2,11,,,150,6,1489212593000
+915,916,night,single female,horizontal interference,NA,#775170,6,2,11,,,149,5,1489211517000
+916,917,night,none,HYBYCOZO,NA,#3e393e,6,2,11,,,149,5,1489208627000
+917,918,night,single male,horizontal interference,NA,#34234e,6,2,11,,,148,4,1489206283000
+918,919,night,couple,gastrobeats,NA,#5b5359,6,2,11,,,148,4,1489205706000
+919,920,night,single male,marina,NA,#4a4e52,6,2,11,,,147,3,1489204794000
+920,921,night,single female,horizontal interference,NA,#443f80,6,2,11,,,147,3,1489203862000
+921,922,night,single male,marina,unrelated,#65584f,6,2,11,,,147,3,1489202380000
+922,923,night,none,moonflower,NA,#3e413d,6,2,11,,,146,2,1489199708000
+923,924,night,single female,ocean pavilion,NA,#156598,6,2,11,,,145,1,1489197516000
+924,925,night,none,uncle ringo,NA,#57526f,6,2,11,,,145,1,1489196032000
+925,926,night,couple,horizontal interference,NA,#16c26,6,2,11,,,145,1,1489195115000
+926,927,night,single female,uncle ringo,NA,#2d282a,6,2,11,,,144,0,1489193998000
+927,928,day,none,uncle ringo,NA,#bba59f,6,2,11,,,144,0,1489193107000
+928,929,day,group,marina,male pair,#a09d96,6,2,11,,,143,23,1489190374000
+929,930,night,none,ultra light network,NA,#2b2453,6,2,11,,,143,23,1489189188000
+930,931,night,none,forever young!,NA,#4b3e37,6,2,11,,,142,22,1489186715000
+931,932,night,none,unknown,the flowers again,#1b1852,6,2,11,,,141,21,1489180087000
+932,933,night,single male,horizontal interference,NA,#433548,6,2,11,,,138,18,1489170986000
+933,934,night,single male,home,NA,#1c1a27,6,2,11,,,138,18,1489170330000
+934,935,night,single female,horizontal interference,NA,#302955,6,2,11,,,138,18,1489170043000
+935,936,night,none,gastrobeats,NA,#554c22,6,2,11,,,137,17,1489168147000
+936,937,night,none,horizontal interference,NA,#281e53,6,2,11,,,137,17,1489167589000
+937,938,night,none,moonflower,NA,#242520,6,2,11,,,137,17,1489167056000
+938,939,night,none,uncle ringo,NA,#7a7b7b,6,2,11,,,136,16,1489164933000
+939,940,night,none,moonflower,NA,#222a32,6,2,11,,,136,16,1489163762000
+940,941,night,none,the urchin,NA,#424860,6,2,11,,,136,16,1489162978000
+941,942,night,none,horizontal interference,NA,#1b1b44,6,2,11,,,136,16,1489162757000
+942,943,night,none,horizontal interference,NA,#562784,6,2,11,,,136,16,1489161827000
+943,944,night,none,gastrobeats,NA,#261c2e,6,2,11,,,135,15,1489161317000
+944,945,night,none,waves,NA,#342d29,5,2,10,,,135,15,1489160730000
+945,946,night,none,the urchin,NA,#3b3937,5,2,10,,,135,15,1489160302000
+946,947,night,single female,HYBYCOZO,NA,#64414c,5,2,10,,,135,15,1489160015000
+947,948,night,none,horizontal interference,NA,#241e42,5,2,10,,,135,15,1489159637000
+948,949,night,single female,marina,NA,#8f8983,5,2,10,,,135,15,1489159284000
+949,950,night,single female,gastrobeats,NA,#9c999d,5,2,10,,,135,15,1489158903000
+950,951,night,couple,home,NA,#4a4d5a,5,2,10,,,134,14,1489157927000
+951,952,night,couple,horizontal interference,NA,#2df59,5,2,10,,,134,14,1489157010000
+952,953,night,none,forever young!,NA,#3c3834,5,2,10,,,134,14,1489156284000
+953,954,night,single female,home,NA,#4c4a4f,5,2,10,,,134,14,1489155485000
+954,955,night,single male,uncle ringo,NA,#271f12,5,2,10,,,134,14,1489155354000
+955,956,night,single female,marina,box,#747788,5,2,10,,,134,14,1489154660000
+956,957,night,none,unknown,irrelevant,#968e84,5,2,10,,,133,13,1489153746000
+957,958,night,none,gastrobeats,food,#746351,5,2,10,,,133,13,1489152696000
+958,959,day,group,gastrobeats,female pair,#8d90a1,5,2,10,,,133,13,1489151888000
+959,960,night,couple,horizontal interference,NA,#342543,5,2,10,,,133,13,1489151185000
+960,961,night,none,gastrobeats,NA,#c1c36,5,2,10,,,132,12,1489148038000
+961,962,night,single female,gastrobeats,NA,#1b1523,5,2,10,,,131,11,1489145779000
+962,963,night,single female,ultra light network,NA,#4c4051,5,2,10,,,130,10,1489142999000
+963,964,night,single female,home,NA,#505861,5,2,10,,,130,10,1489140902000
+964,965,night,single female,marina,NA,#6e6964,5,2,10,,,129,9,1489138633000
+965,966,night,single female,horizontal interference,NA,#76618a,5,2,10,,,127,7,1489129859000
+966,967,night,single female,gastrobeats,NA,#939294,5,2,10,,,126,6,1489126048000
+967,968,night,none,moonflower,NA,#46413a,5,2,10,,,125,5,1489124932000
+968,969,night,none,horizontal interference,NA,#6c2293,5,2,10,,,124,4,1489121501000
+969,970,night,single female,marina,kid,#8e7268,5,2,10,,,124,4,1489119162000
+970,971,night,single female,passage of inner reflection,NA,#6c6b7b,5,2,10,,,124,4,1489118957000
+971,972,night,group,marina,NA,#382f2d,5,2,10,,,122,2,1489113602000
+972,973,night,single female,horizontal interference,NA,#251a3c,5,2,10,,,122,2,1489111810000
+973,974,night,none,marina,NA,#86756f,5,2,10,,,121,1,1489109453000
+974,975,night,single female,uncle ringo,NA,#68594d,5,2,10,,,120,0,1489106763000
+975,976,night,none,home,NA,#333c49,5,2,10,,,119,23,1489103980000
+976,977,night,none,HYBYCOZO,NA,#10234e,5,2,10,,,114,18,1489083121000
+977,978,night,couple,ultra light network,NA,#535060,5,2,10,,,112,16,1489075898000
+978,979,night,single male,marina,NA,#3d3835,5,2,10,,,112,16,1489075430000
+979,980,night,none,secret galaxies,NA,#887f73,5,2,10,,,111,15,1489073636000
+980,981,night,single male,passage of inner reflection,NA,#605e57,4,2,9,,,111,15,1489073521000
+981,982,night,single female,horizontal interference,NA,#4c3752,4,2,9,,,111,15,1489073247000
+982,983,night,none,ultra light network,NA,#2d2435,4,2,9,,,111,15,1489072065000
+983,984,night,single male,gastrobeats,NA,#353437,4,2,9,,,110,14,1489071187000
+984,985,night,none,home,NA,#333444,4,2,9,,,110,14,1489070514000
+985,986,night,none,marina,robot,#361d50,4,2,9,,,110,14,1489068504000
+986,987,night,couple,HYBYCOZO,it's a mix so i just chose one,#322537,4,2,9,,,109,13,1489067721000
+987,988,night,group,ultra light network,NA,#4b3131,4,2,9,,,109,13,1489066660000
+988,989,night,couple,marina,NA,#6e6489,4,2,9,,,109,13,1489065943000
+989,990,night,none,marina,merlion,#8c898d,4,2,9,,,109,13,1489065665000
+990,991,night,none,secret galaxies,NA,#2a2525,4,2,9,,,109,13,1489064921000
+991,992,night,single male,passage of inner reflection,NA,#7e7878,4,2,9,,,107,11,1489060221000
+992,993,night,single female,ultra light network,NA,#494756,4,2,9,,,106,10,1489055566000
+993,994,night,none,gastrobeats,NA,#847f8a,4,2,9,,,105,9,1489052937000
+994,995,night,single female,passage of inner reflection,NA,#5c5d5d,4,2,9,,,103,7,1489045653000
+995,996,night,none,ocean pavilion,NA,#223b53,4,2,9,,,101,5,1489037321000
+996,997,night,single male,ultra light network,NA,#675f86,4,2,9,,,98,2,1489027585000
+997,998,night,none,ocean pavilion,NA,#162761,4,2,9,,,96,0,1489021103000
+998,999,night,none,uncle ringo,NA,#493d4d,4,2,9,,,96,0,1489018616000
+999,1000,night,none,home,NA,#2d2b2d,4,2,9,,,93,21,1489007656000
+1000,1001,night,none,HYBYCOZO,NA,#a64e1e,4,2,9,,,88,16,1488991414000
+1001,1002,night,single female,horizontal interference,NA,#5d4f7e,4,2,9,,,88,16,1488989417000
+1002,1003,day,none,unknown,NA,#7f7267,4,2,9,,,87,15,1488988024000
+1003,1004,night,none,HYBYCOZO,NA,#50d53,3,2,8,,,87,15,1488986867000
+1004,1005,day,none,gastrobeats,NA,#a5b1bb,3,2,8,,,86,14,1488985157000
+1005,1006,night,single female,moonflower,NA,#443f41,3,2,8,,,86,14,1488983851000
+1006,1007,night,none,moonflower,NA,#2e2827,3,2,8,,,86,14,1488982406000
+1007,1008,night,none,HYBYCOZO,NA,#1e1425,3,2,8,,,85,13,1488981321000
+1008,1009,night,group,HYBYCOZO,NA,#2ea58,3,2,8,,,85,13,1488979686000
+1009,1010,night,couple,home,NA,#464245,3,2,8,,,85,13,1488978554000
+1010,1011,night,single female,horizontal interference,NA,#4a5267,3,2,8,,,84,12,1488976165000
+1011,1012,night,none,ocean pavilion,NA,#6c83,3,2,8,,,84,12,1488974788000
+1012,1013,night,none,colourful garden of lights,NA,#372f40,3,2,8,,,83,11,1488973892000
+1013,1014,night,couple,forever young!,NA,#65584a,3,2,8,,,82,10,1488968641000
+1014,1015,day,single female,marina,irrelevant,#bba09a,3,2,8,,,81,9,1488965793000
+1015,1016,night,group,marina,NA,#3b3333,3,2,8,,,80,8,1488962672000
+1016,1017,night,single female,marina,NA,#ceced1,3,2,8,,,78,6,1488956281000
+1017,1018,night,couple,moonflower,NA,#42363b,3,2,8,,,77,5,1488949489000
+1018,1019,night,couple,uncle ringo,NA,#968c87,3,2,8,,,76,4,1488947470000
+1019,1020,night,none,northern lights,NA,#242227,3,2,8,,,73,1,1488938018000
+1020,1021,night,none,moonflower,NA,#876,3,2,8,,,72,0,1488933174000
+1021,1022,night,couple,horizontal interference,NA,#73627a,3,2,8,,,70,22,1488926959000
+1022,1023,night,single female,gastrobeats,NA,#504e52,3,2,8,,,64,16,1488904308000
+1023,1024,day,single female,marina,NA,#85898c,3,2,8,,,64,16,1488902830000
+1024,1025,day,single female,marina,NA,#d0c3bc,3,2,8,,,63,15,1488901736000
+1025,1026,night,single female,marina,NA,#52515a,2,2,7,,,63,15,1488900692000
+1026,1027,night,single female,gastrobeats,NA,#787372,2,2,7,,,63,15,1488899253000
+1027,1028,night,single female,horizontal interference,NA,#3f2a62,2,2,7,,,62,14,1488898517000
+1028,1029,night,none,silent disco asia,NA,#54406e,2,2,7,,,62,14,1488896329000
+1029,1030,night,single male,moonflower,NA,#382f58,2,2,7,,,61,13,1488894307000
+1030,1031,night,none,horizontal interference,NA,#5b2a85,2,2,7,,,61,13,1488892751000
+1031,1032,night,group,ultra light network,NA,#695889,2,2,7,,,61,13,1488892144000
+1032,1033,night,single female,horizontal interference,NA,#1f1547,2,2,7,,,61,13,1488891859000
+1033,1034,night,none,home,NA,#19191b,2,2,7,,,60,12,1488891499000
+1034,1035,night,single female,silent disco asia,NA,#251e2c,2,2,7,,,60,12,1488888610000
+1035,1036,night,none,uncle ringo,NA,#4a494e,2,2,7,,,59,11,1488886042000
+1036,1037,night,single male,ocean pavilion,NA,#a1bbd6,2,2,7,,,58,10,1488884145000
+1037,1038,night,single female,passage of inner reflection,NA,#817d81,2,2,7,,,56,8,1488875488000
+1038,1039,night,none,moonflower,NA,#24221f,2,2,7,,,56,8,1488873760000
+1039,1040,night,none,moonflower,NA,#202424,2,2,7,,,55,7,1488871392000
+1040,1041,night,couple,HYBYCOZO,NA,#2a5f9d,2,2,7,,,55,7,1488870756000
+1041,1042,night,none,moonflower,NA,#252a23,2,2,7,,,55,7,1488870690000
+1042,1043,night,single male,gastrobeats,NA,#423a4f,2,2,7,,,55,7,1488870636000
+1043,1044,night,single female,gastrobeats,NA,#4f307b,2,2,7,,,54,6,1488869565000
+1044,1045,night,single female,artzoo,NA,#4e373f,2,2,7,,,54,6,1488867203000
+1045,1046,night,single female,artzoo,NA,#5f5952,2,2,7,,,52,4,1488859536000
+1046,1047,night,couple,passage of inner reflection,NA,#68676d,2,2,7,,,51,3,1488856861000
+1047,1048,night,couple,uncle ringo,NA,#4e4a4a,2,2,7,,,50,2,1488852980000
+1048,1049,night,group,home,NA,#4b494b,2,2,7,,,47,23,1488844386000
+1049,1050,night,none,moonflower,NA,#767,2,2,7,,,43,19,1488830219000
+1050,1051,night,group,silent disco asia,NA,#322b45,2,2,7,,,41,17,1488820615000
+1051,1052,night,none,home,NA,#7d7d81,2,2,7,,,40,16,1488818106000
+1052,1053,night,none,HYBYCOZO,NA,#1c2e36,2,2,7,,,40,16,1488816864000
+1053,1054,night,none,ultra light network,NA,#1b181e,2,2,7,,,39,15,1488815373000
+1054,1055,night,single female,ocean pavilion,NA,#85a5e1,1,2,6,,,39,15,1488814456000
+1055,1056,night,single female,unknown,box,#6d514e,1,2,6,,,39,15,1488813601000
+1056,1057,night,single female,ultra light network,NA,#888597,1,2,6,,,39,15,1488813052000
+1057,1058,night,single female,horizontal interference,NA,#625595,1,2,6,,,38,14,1488812295000
+1058,1059,night,none,ultra light network,NA,#4d3f4a,1,2,6,,,38,14,1488811632000
+1059,1060,night,couple,horizontal interference,NA,#3e325e,1,2,6,,,38,14,1488811077000
+1060,1061,night,none,gastrobeats,NA,#19181e,1,2,6,,,38,14,1488810096000
+1061,1062,night,single female,ocean pavilion,NA,#d6cb9,1,2,6,,,38,14,1488809755000
+1062,1063,night,single female,uncle ringo,NA,#605b5d,1,2,6,,,38,14,1488808924000
+1063,1064,night,single male,horizontal interference,NA,#555369,1,2,6,,,37,13,1488808108000
+1064,1065,night,couple,gastrobeats,NA,#221f28,1,2,6,,,37,13,1488807044000
+1065,1066,night,single female,horizontal interference,NA,#352657,1,2,6,,,37,13,1488805896000
+1066,1067,night,couple,uncle ringo,NA,#9892a0,1,2,6,,,37,13,1488805437000
+1067,1068,night,none,gastrobeats,NA,#52317a,1,2,6,,,36,12,1488803974000
+1068,1069,night,couple,gastrobeats,NA,#403e4b,1,2,6,,,36,12,1488802499000
+1069,1070,night,single female,passage of inner reflection,NA,#908f90,1,2,6,,,35,11,1488800775000
+1070,1071,night,single female,ultra light network,NA,#514f7a,1,2,6,,,35,11,1488798447000
+1071,1072,night,none,northern lights,NA,#4a4e64,1,2,6,,,34,10,1488796086000
+1072,1073,night,single male,passage of inner reflection,NA,#514f53,1,2,6,,,33,9,1488791782000
+1073,1074,night,single male,horizontal interference,NA,#6b6291,1,2,6,,,31,7,1488785660000
+1074,1075,night,group,HYBYCOZO,NA,#4f4a6c,1,2,6,,,30,6,1488781947000
+1075,1076,night,none,horizontal interference,NA,#241e44,1,2,6,,,29,5,1488779036000
+1076,1077,night,none,horizontal interference,NA,#373b5f,1,2,6,,,28,4,1488774683000
+1077,1078,night,single male,gastrobeats,NA,#211c42,1,2,6,,,27,3,1488770055000
+1078,1079,night,single male,ultra light network,NA,#39373c,1,2,6,,,25,1,1488763476000
+1079,1080,night,none,home,NA,#141313,1,2,6,,,25,1,1488762445000
+1080,1081,night,none,unknown,NA,#1e1b1b,1,2,6,,,24,0,1488759210000
+1081,1082,night,single female,ultra light network,NA,#6f5d7c,1,2,6,,,24,0,1488758800000
+1082,1083,night,none,northern lights,NA,#99b,1,2,6,,,23,23,1488755744000
+1083,1084,day,none,artzoo,NA,#84909c,1,2,6,,,17,17,1488736732000
+1084,1085,night,none,artzoo,NA,#30343f,1,2,6,,,17,17,1488735716000
+1085,1086,night,none,moonflower,NA,#272422,1,2,6,,,17,17,1488733804000
+1086,1087,night,single female,horizontal interference,NA,#435272,1,2,6,,,17,17,1488733321000
+1087,1088,night,single male,horizontal interference,NA,#808dc0,1,2,6,,,16,16,1488732872000
+1088,1089,night,none,ultra light network,NA,#666166,1,2,6,,,16,16,1488731951000
+1089,1090,night,single female,uncle ringo,NA,#665444,1,2,6,,,16,16,1488730685000
+1090,1091,night,group,silent disco asia,NA,#382d3c,1,2,6,,,16,16,1488729916000
+1091,1092,night,none,ultra light network,NA,#281f38,1,2,6,,,15,15,1488729496000
+1092,1093,night,group,ultra light network,NA,#9a7664,0,2,5,,,15,15,1488728134000
+1093,1094,night,single male,gastrobeats,NA,#939497,0,2,5,,,15,15,1488726872000
+1094,1095,night,none,social sparkles,NA,#13f10,0,2,5,,,15,15,1488726399000
+1095,1096,night,none,colourful garden of lights,NA,#221b29,0,2,5,,,15,15,1488726046000
+1096,1097,night,group,horizontal interference,NA,#3b2941,0,2,5,,,14,14,1488725851000
+1097,1098,night,single female,ocean pavilion,NA,#c3156,0,2,5,,,14,14,1488725532000
+1098,1099,night,none,unknown,irrelevan,#5e7280,0,2,5,,,14,14,1488725158000
+1099,1100,night,group,artzoo,NA,#756b43,0,2,5,,,14,14,1488724512000
+1100,1101,night,group,gastrobeats,NA,#32203e,0,2,5,,,14,14,1488723845000
+1101,1102,night,group,home,NA,#1a181a,0,2,5,,,14,14,1488723429000
+1102,1103,night,none,HYBYCOZO,NA,#e2a44,0,2,5,,,14,14,1488722976000
+1103,1104,night,none,you lookin' at me?,NA,#11181a,0,2,5,,,14,14,1488722778000
+1104,1105,night,single male,gastrobeats,NA,#72577d,0,2,5,,,14,14,1488722513000
+1105,1106,night,single female,gastrobeats,NA,#5a5c74,0,2,5,,,13,13,1488722363000
+1106,1107,night,single female,passage of inner reflection,NA,#8d867c,0,2,5,,,13,13,1488722083000
+1107,1108,night,none,secret galaxies,NA,#2b2824,0,2,5,,,13,13,1488721099000
+1108,1109,night,none,marina,NA,#1e1b19,0,2,5,,,13,13,1488720028000
+1109,1110,night,none,horizontal interference,NA,#151315,0,2,5,,,13,13,1488719357000
+1110,1111,day,none,ultra light network,NA,#707994,0,2,5,,,12,12,1488718681000
+1111,1112,night,none,ultra light network,NA,#29274c,0,2,5,,,12,12,1488718259000
+1112,1113,night,none,the urchin,NA,#80807a,0,2,5,,,12,12,1488717438000
+1113,1114,night,single female,ocean pavilion,NA,#82ea7,0,2,5,,,12,12,1488716751000
+1114,1115,night,single female,unknown,NA,#262321,0,2,5,,,12,12,1488715876000
+1115,1116,night,none,marina,NA,#23211b,0,2,5,,,12,12,1488715314000
+1116,1117,night,group,silent disco asia,NA,#4b445c,0,2,5,,,11,11,1488714342000
+1117,1118,night,single male,ocean pavilion,NA,#6e79ac,0,2,5,,,11,11,1488713779000
+1118,1119,day,none,uncle ringo,NA,#9491a3,0,2,5,,,11,11,1488713459000
+1119,1120,night,single female,passage of inner reflection,NA,#69625b,0,2,5,,,11,11,1488712997000
+1120,1121,night,single female,uncle ringo,NA,#6f6968,0,2,5,,,11,11,1488712569000
+1121,1122,night,none,ultra light network,NA,#2c2b46,0,2,5,,,11,11,1488711825000
+1122,1123,day,none,dande-lier,NA,#c8d4e4,0,2,5,,,10,10,1488711317000
+1123,1124,night,single female,horizontal interference,NA,#644777,0,2,5,,,10,10,1488710100000
+1124,1125,day,none,dande-lier,NA,#c5cadb,0,2,5,,,10,10,1488709557000
+1125,1126,night,none,ultra light network,NA,#2c2626,0,2,5,,,10,10,1488708552000
+1126,1127,day,none,dande-lier,NA,#d0dded,0,2,5,,,9,9,1488707681000
+1127,1128,night,single female,ultra light network,NA,#665285,0,2,5,,,9,9,1488705945000
+1128,1129,night,none,horizontal interference,NA,#18f1b,0,2,5,,,8,8,1488703915000
+1129,1130,night,single male,horizontal interference,NA,#404242,0,2,5,,,7,7,1488700195000
+1130,1131,night,single male,artzoo,NA,#6f554b,0,2,5,,,7,7,1488698549000
+1131,1132,night,single female,uncle ringo,NA,#705e51,0,2,5,,,7,7,1488697675000
+1132,1133,night,single female,unknown,box,#696674,0,2,5,,,7,7,1488697237000
+1133,1134,night,single male,horizontal interference,NA,#221938,0,2,5,,,6,6,1488695780000
+1134,1135,night,group,horizontal interference,NA,#1b162c,0,2,5,,,6,6,1488693834000
+1135,1136,night,single female,horizontal interference,NA,#1d133c,0,2,5,,,5,5,1488691911000
+1136,1137,night,single female,gastrobeats,NA,#41456f,0,2,5,,,5,5,1488691442000
+1137,1138,night,single female,marina,box,#463867,0,2,5,,,5,5,1488690387000
+1138,1139,night,couple,gastrobeats,NA,#2f1256,0,2,5,,,4,4,1488687656000
+1139,1140,night,couple,uncle ringo,NA,#664b5d,0,2,5,,,4,4,1488686550000
+1140,1141,night,single female,horizontal interference,NA,#261f4b,0,2,5,,,3,3,1488684604000
+1141,1142,night,couple,passage of inner reflection,NA,#78767a,0,2,5,,,3,3,1488683557000
+1142,1143,night,single female,uncle ringo,NA,#514d5f,0,2,5,,,2,2,1488682710000
+1143,1144,night,single female,secret galaxies,NA,#5f5a58,0,2,5,,,2,2,1488681456000
+1144,1145,night,single female,secret galaxies,NA,#4e3449,0,2,5,,,1,1,1488679037000
+1145,1146,night,single male,horizontal interference,NA,#2d205a,0,2,5,,,1,1,1488678710000
+1146,1147,night,group,silent disco asia,NA,#59443e,0,2,5,,,1,1,1488678584000
+1147,1148,night,group,horizontal interference,NA,#251d3e,0,2,5,,,1,1,1488678253000
+1148,1149,night,single male,horizontal interference,NA,#564675,0,2,5,,,1,1,1488677998000
+1149,1150,night,group,uncle ringo,NA,#655859,0,2,5,,,1,1,1488676842000
+1150,1151,night,single female,gastrobeats,NA,#5e466c,0,2,5,,,1,1,1488676332000
+1151,1152,night,single female,gastrobeats,NA,#3f3d3f,0,2,5,,,167,23,1488671135000
+1152,1153,night,group,dande-lier,NA,#3b282e,0,2,5,,,164,20,1488657868000
+1153,1154,night,single female,moonflower,NA,#2b2374,0,2,5,,,163,19,1488657542000
+1154,1155,night,single female,gastrobeats,NA,#643e54,0,2,5,,,163,19,1488657310000
+1155,1156,night,group,gastrobeats,NA,#3c3146,0,2,5,,,163,19,1488655324000
+1156,1157,night,group,marina,NA,#2e3034,0,2,5,,,163,19,1488654508000
+1157,1158,night,single male,horizontal interference,NA,#181033,0,2,5,,,162,18,1488653401000
+1158,1159,night,group,gastrobeats,NA,#44464e,0,2,5,,,162,18,1488652524000
+1159,1160,night,group,uncle ringo,NA,#b65e52,0,2,5,,,162,18,1488652162000
+1160,1161,night,group,uncle ringo,NA,#776d6a,0,2,5,,,162,18,1488651655000
+1161,1162,night,group,gastrobeats,NA,#3a4570,0,2,5,,,162,18,1488650716000
+1162,1163,night,none,northern lights,NA,#96979f,0,2,5,,,161,17,1488648577000
+1163,1164,night,couple,horizontal interference,NA,#39374b,0,2,5,,,161,17,1488648133000
+1164,1165,night,couple,marina,NA,#44403c,0,2,5,,,161,17,1488647754000
+1165,1166,night,single female,marina,NA,#473a3d,0,2,5,,,161,17,1488647080000
+1166,1167,night,none,moonflower,NA,#2f2a25,0,2,5,,,161,17,1488646820000
+1167,1168,night,group,passage of inner reflection,NA,#9d9282,0,2,5,,,160,16,1488646194000
+1168,1169,night,group,passage of inner reflection,NA,#818184,0,2,5,,,160,16,1488645946000
+1169,1170,night,none,uncle ringo,NA,#14e14,0,2,5,,,160,16,1488645730000
+1170,1171,night,none,unknown,NA,#2a272d,0,2,5,,,160,16,1488645395000
+1171,1172,night,group,horizontal interference,NA,#3c334c,0,2,5,,,160,16,1488644934000
+1172,1173,night,group,gastrobeats,NA,#5b5352,0,2,5,,,160,16,1488644638000
+1173,1174,night,none,horizontal interference,NA,#2f204b,0,2,5,,,160,16,1488644331000
+1174,1175,night,single female,dande-lier,NA,#d3c5ba,0,2,5,,,160,16,1488643688000
+1175,1176,night,group,gastrobeats,NA,#4c2b66,0,2,5,,,159,15,1488643117000
+1176,1177,night,none,gastrobeats,NA,#233644,6,2,4,,,159,15,1488642656000
+1177,1178,night,single female,uncle ringo,NA,#6e564d,6,2,4,,,159,15,1488642159000
+1178,1179,night,single female,horizontal interference,NA,#544365,6,2,4,,,159,15,1488641919000
+1179,1180,night,group,moonflower,NA,#393237,6,2,4,,,159,15,1488641575000
+1180,1181,night,none,horizontal interference,NA,#a59284,6,2,4,,,159,15,1488640578000
+1181,1182,night,single female,horizontal interference,NA,#5b477c,6,2,4,,,159,15,1488640327000
+1182,1183,night,single female,passage of inner reflection,NA,#9a989c,6,2,4,,,159,15,1488639997000
+1183,1184,night,single male,horizontal interference,NA,#5b5174,6,2,4,,,158,14,1488639473000
+1184,1185,night,group,uncle ringo,NA,#3d434c,6,2,4,,,158,14,1488639257000
+1185,1186,night,single female,horizontal interference,NA,#3a3663,6,2,4,,,158,14,1488639042000
+1186,1187,night,couple,horizontal interference,NA,#2b2641,6,2,4,,,158,14,1488638230000
+1187,1188,night,single male,marina,NA,#474e53,6,2,4,,,158,14,1488637514000
+1188,1189,night,group,ultra light network,NA,#271c28,6,2,4,,,158,14,1488637037000
+1189,1190,night,single female,social sparkles,NA,#443d33,6,2,4,,,158,14,1488636562000
+1190,1191,night,group,uncle ringo,NA,#807e80,6,2,4,,,158,14,1488636136000
+1191,1192,night,couple,horizontal interference,NA,#261c2b,6,2,4,,,157,13,1488635277000
+1192,1193,night,single male,uncle ringo,NA,#757da1,6,2,4,,,157,13,1488635095000
+1193,1194,night,couple,horizontal interference,NA,#483774,6,2,4,,,157,13,1488634894000
+1194,1195,night,group,passage of inner reflection,NA,#a9a19d,6,2,4,,,157,13,1488634780000
+1195,1196,night,single female,uncle ringo,NA,#4e5052,6,2,4,,,157,13,1488634711000
+1196,1197,night,none,moonflower,NA,#594336,6,2,4,,,157,13,1488634465000
+1197,1198,night,group,horizontal interference,NA,#23204d,6,2,4,,,157,13,1488634074000
+1198,1199,night,none,forever young!,NA,#403e33,6,2,4,,,157,13,1488633721000
+1199,1200,night,group,horizontal interference,NA,#251d3e,6,2,4,,,157,13,1488633068000
+1200,1201,day,group,marina,irrelevant,#6a7c8b,6,2,4,,,157,13,1488632539000
+1201,1202,night,single male,moonflower,NA,#444f87,6,2,4,,,156,12,1488631523000
+1202,1203,night,single female,pasarbella,NA,#5a4f53,6,2,4,,,156,12,1488631133000
+1203,1204,night,single female,horizontal interference,NA,#2d2b51,6,2,4,,,156,12,1488630815000
+1204,1205,night,group,moonflower,NA,#2d2b29,6,2,4,,,156,12,1488630123000
+1205,1206,night,group,gastrobeats,NA,#2b3b44,6,2,4,,,156,12,1488629557000
+1206,1207,night,group,gastrobeats,NA,#43225c,6,2,4,,,156,12,1488628977000
+1207,1208,night,couple,moonflower,NA,#807b73,6,2,4,,,155,11,1488628322000
+1208,1209,night,single male,home,NA,#556b78,6,2,4,,,155,11,1488627609000
+1209,1210,night,none,forever young!,NA,#483b36,6,2,4,,,155,11,1488626171000
+1210,1211,night,single male,passage of inner reflection,NA,#7a7a80,6,2,4,,,154,10,1488624041000
+1211,1212,night,single female,uncle ringo,NA,#594548,6,2,4,,,153,9,1488621043000
+1212,1213,night,group,moonflower,NA,#1e1a1d,6,2,4,,,153,9,1488619435000
+1213,1214,night,none,the body of sea,NA,#39302c,6,2,4,,,152,8,1488615915000
+1214,1215,night,single female,marina,NA,#796f7a,6,2,4,,,151,7,1488612665000
+1215,1216,night,group,kaldeioscope monolith,NA,#382b2c,6,2,4,,,150,6,1488610436000
+1216,1217,night,group,home,NA,#5f535d,6,2,4,,,149,5,1488607059000
+1217,1218,night,none,horizontal interference,NA,#1df3d,6,2,4,,,149,5,1488605744000
+1218,1219,night,single male,marina,box,#8f5153,6,2,4,,,148,4,1488602363000
+1219,1220,night,couple,gastrobeats,NA,#474547,6,2,4,,,148,4,1488600692000
+1220,1221,night,single female,uncle ringo,NA,#433235,6,2,4,,,147,3,1488597328000
+1221,1222,night,single female,uncle ringo,NA,#514f69,6,2,4,,,146,2,1488595906000
+1222,1223,night,single female,passage of inner reflection,NA,#8b7364,6,2,4,,,146,2,1488593377000
+1223,1224,night,couple,moonflower,NA,#736a63,6,2,4,,,146,2,1488593310000
+1224,1225,night,group,the urchin,NA,#635554,6,2,4,,,146,2,1488592839000
+1225,1226,day,couple,artzoo,NA,#aba6b0,6,2,4,,,145,1,1488592562000
+1226,1227,night,group,gastrobeats,NA,#2a273e,6,2,4,,,145,1,1488592214000
+1227,1228,night,group,gastrobeats,NA,#7c5abc,6,2,4,,,143,23,1488583304000
+1228,1229,night,none,gastrobeats,NA,#3f3d3f,6,2,4,,,142,22,1488581678000
+1229,1230,night,group,uncle ringo,NA,#7d6e6a,6,2,4,,,138,18,1488565897000
+1230,1231,night,single female,uncle ringo,NA,#47584d,6,2,4,,,137,17,1488563680000
+1231,1232,night,group,gastrobeats,NA,#504d60,6,2,4,,,137,17,1488562301000
+1232,1233,night,group,ocean pavilion,NA,#19212f,6,2,4,,,136,16,1488559129000
+1233,1234,night,couple,gastrobeats,NA,#77658a,6,2,4,,,136,16,1488558485000
+1234,1235,night,group,the urchin,NA,#5c585a,6,2,4,,,136,16,1488557808000
+1235,1236,day,group,marina,NA,#a69aa0,6,2,4,,,136,16,1488557157000
+1236,1237,night,group,gastrobeats,NA,#70539d,6,2,4,,,135,15,1488556524000
+1237,1238,night,none,gastrobeats,NA,#ed1d,5,2,3,,,135,15,1488555761000
+1238,1239,night,single female,passage of inner reflection,NA,#5e5a78,5,2,3,,,135,15,1488555312000
+1239,1240,night,single male,home,NA,#4e3c52,5,2,3,,,135,15,1488554912000
+1240,1241,night,none,horizontal interference,NA,#233d6c,5,2,3,,,135,15,1488554678000
+1241,1242,night,single male,ultra light network,NA,#826767,5,2,3,,,135,15,1488554229000
+1242,1243,night,couple,ultra light network,NA,#7a5f75,5,2,3,,,135,15,1488553474000
+1243,1244,night,group,artzoo,NA,#3b4044,5,2,3,,,134,14,1488553190000
+1244,1245,night,group,silent disco asia,NA,#4c4447,5,2,3,,,134,14,1488552769000
+1245,1246,night,none,moonflower,NA,#706b6c,5,2,3,,,134,14,1488552374000
+1246,1247,night,none,HYBYCOZO,NA,#1e181f,5,2,3,,,134,14,1488552252000
+1247,1248,night,none,horizontal interference,NA,#2c145b,5,2,3,,,134,14,1488551662000
+1248,1249,night,couple,ultra light network,NA,#3c4f67,5,2,3,,,134,14,1488550831000
+1249,1250,night,none,HYBYCOZO,NA,#b9bbca,5,2,3,,,134,14,1488550069000
+1250,1251,night,none,moonflower,NA,#3d3a31,5,2,3,,,134,14,1488549774000
+1251,1252,night,none,gastrobeats,NA,#14121c,5,2,3,,,133,13,1488549532000
+1252,1253,night,none,gastrobeats,NA,#2c223c,5,2,3,,,133,13,1488548624000
+1253,1254,night,none,marina,NA,#56727a,5,2,3,,,133,13,1488547115000
+1254,1255,night,none,northern lights,NA,#12f2c,5,2,3,,,132,12,1488545594000
+1255,1256,night,none,marina,NA,#2c2826,5,2,3,,,132,12,1488543705000
+1256,1257,day,none,secret galaxies,NA,#a4a4ae,5,2,3,,,131,11,1488542329000
+1257,1258,night,none,moonflower,NA,#25457c,5,2,3,,,131,11,1488541349000
+1258,1259,night,none,very glowing exhibition - very wishing river,NA,#211d48,5,2,3,,,131,11,1488538862000
+1259,1260,night,single female,home,NA,#635e5b,5,2,3,,,130,10,1488537550000
+1260,1261,night,none,moonflower,NA,#38291a,5,2,3,,,130,10,1488536085000
+1261,1262,night,single female,horizontal interference,NA,#878091,5,2,3,,,128,8,1488528491000
+1262,1263,night,couple,horizontal interference,NA,#292333,5,2,3,,,121,1,1488503249000
+1263,1264,night,couple,passage of inner reflection,NA,#7d7c81,5,2,3,,,113,17,1488477246000
+1264,1265,night,couple,gastrobeats,NA,#a9a7b8,5,2,3,,,109,13,1488462540000
+1265,1266,night,group,horizontal interference,NA,#201637,4,2,2,,,104,8,1488442920000
+1266,1267,night,none,the body of sea,NA,#171315,4,2,2,,,102,6,1488435233000
+1267,1268,night,group,silent disco asia,NA,#64294,4,2,2,,,102,6,1488434794000
+1268,1269,night,single female,horizontal interference,NA,#6c5a7a,4,2,2,,,101,5,1488433446000
+1269,1270,night,none,horizontal interference,NA,#384371,4,2,2,,,97,1,1488418762000
+1270,1271,night,group,marina,NA,#535052,4,2,2,,,95,23,1488411383000
+1271,1272,night,single female,HYBYCOZO,NA,#291f43,4,2,2,,,87,15,1488382629000
+1272,1273,night,single female,uncle ringo,NA,#201b1d,3,2,1,,,86,14,1488376904000
+1273,1274,night,single female,gastrobeats,NA,#554177,3,2,1,,,85,13,1488373610000
+1274,1275,night,couple,horizontal interference,NA,#3b2c66,3,2,1,,,83,11,1488367446000
+1275,1276,night,couple,unknown,NA,#b19372,3,2,1,,,82,10,1488365765000
+1276,1277,night,single female,moonflower,NA,#4a3f3c,3,2,1,,,66,18,1488306304000
