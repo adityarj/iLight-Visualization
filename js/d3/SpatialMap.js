@@ -78,11 +78,11 @@ var locationIndex = [
     },
     {
         exhibit: "silent disco asia",
-        coordinates: []
+        coordinates: [0,0]
     },
     {
         exhibit: "social sparkles",
-        coordinates: [1.2813580342750288,103.85679218627047]
+        coordinates: [1.2812078680851102,103.85680291510653]
     },
     {
         exhibit: "the body of sea",
@@ -143,7 +143,12 @@ d3.csv("data/photoData.csv",function (error, data) {
         accessToken: 'pk.eyJ1IjoiYWRpdHlhcmoiLCJhIjoiY2lwczQ0dzFmMDJqcWZsbTI3bDJld2JoNSJ9.mpkJWXaUYoE1jtAn6a9Mvw'
     }).addTo(MyMap);
 
-    console.log("hi");
-
+    locationIndex.forEach(function (d, i) {
+        L.circleMarker([d.coordinates[0],d.coordinates[1]],{
+            color: "red",
+            fillOpacity: 0.8,
+            radius: 5
+        }).addTo(MyMap);
+    });
 
 });
