@@ -89,7 +89,7 @@ d3.csv("data/photoData.csv",function (error, data) {
 
     function processData(data) {
         data.forEach(function (d,i) {
-            newDataSet.push({name: d.key, size: d.value.night,color: colors[i%4]});
+            newDataSet.push({name: d.key, size: d.value.night + d.value.day,color: colors[i%4]});
         });
 
         return {children: newDataSet};
