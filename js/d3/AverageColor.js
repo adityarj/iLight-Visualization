@@ -21,7 +21,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         return hslToRgb(d[0],d[1],d[2]);
     });
 
-    var width = 1080, height = 700, margin = 20;
+    var width = 1080, height = 500, margin = 20;
 
     var svg = d3.select("#averageColor")
         .append("svg")
@@ -29,7 +29,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         .attr("height",height);
 
     var averageColorActual = svg.append("g")
-        .attr("transform","translate("+margin+","+margin*20+")");
+        .attr("transform","translate("+margin+","+margin*12+")");
 
     averageColorActual
         .selectAll(".avgSquare")
@@ -57,7 +57,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         });
 
     var averageColorScale = svg.append("g")
-        .attr("transform","translate("+margin+","+margin*28+")");
+        .attr("transform","translate("+margin+","+margin*20+")");
 
     averageColorScale
         .selectAll(".referenceSquare")
@@ -77,7 +77,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
     var positionMarkers = [278.54,631.625,869.155];
 
     var labels = svg.append("g")
-        .attr("transform","translate(0,"+margin*30+")");
+        .attr("transform","translate(0,"+margin*22+")");
 
     labels
         .selectAll(".perMarkersRect")
@@ -115,7 +115,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         .text("Purple");
 
     var image = svg.append("g")
-        .attr("transform","translate("+margin+","+150+")");
+        .attr("transform","translate("+margin+","+0+")");
 
     image.append("rect")
         .attr("width",300)
