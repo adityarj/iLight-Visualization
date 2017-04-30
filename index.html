@@ -137,106 +137,92 @@
     <!-- Graph Section -->
     <section id="visual" class="container content-section text-center"  style="background-color: white">
         <div class="row">
+            <div class="col-lg-10 col-lg-offset-1" style="color: #080808" >
+                <h2>How we did the project</h2>
+                <p>We wanted to work on a visualisation using Instagram. However, we did not know our question yet. As Instagram’s official API (application programming interface) is restrictive, we have to ensure that our question will be within the scope of data we can collect.
+
+                    This year, iLight was an exhibition held from 3rd to 26th March at Marina Bayfront. As it was a popular event with Instagram users and its exhibitions were all instagram worthy, we felt that iLight is an event that can be visualised through Instagram.
+
+                    As such, our question became: <br><br><b>“Can we see trends for iLight 2017 through Instagram?”</b>
+                </p>
+                <h2>Getting the Data</h2>
+                <p>Our data came from public accounts in Instagram. As we had restrictions (explained below), we used a combination of node.js and Instagram API to scrap photos tagged #iLight. Next, comments and date of post was scrapped using javascript and downloaded as a CSV file.</p>
+
+                <h2>Cleaning and Classifying Data</h2>
+                <p>The original CSV file was badly formatted and such was cleaned using R before being reexported. The dates were in time since epoch and thus had to be converted to date format.
+                    <br>
+                    Thee photographs were manually sorted as shown below:
+                </p>
+                <img src="data/classifying_excel.PNG" width="600px"></img>
+                <p>- Photo Num: corresponds to the names of the photos that we had queried
+                    <br>- Time: general time of the day that the photo was taken <br>(day/night/unknown)
+                    <br>- Group type: the type of human subject found in the photo <br>(single female/single male/couple/group)
+                    <br>-exhibition: name of the exhibit/location of photo. If the location cannot be identified, "unknown" was used. If the location was in the Marina Area but not of iLight, a "marina" tag was used.
+                </p>
+                    <h2>Problems and Limitations Faced</h2>
+                    <p>The <a href="https://www.instagram.com/developer">official Instagram API</a> is quite restrictive due to us not being an approved developer.</p>
+                    <p>Restrictions that affected us are</p>
+
+                    <ul >
+                        <li>
+                            <p>Any developers (sandbox mode) must be approve by Instagram before release of their apps (live mode)</p>
+                        </li>
+                        <li>
+                            <p>Hence, we had limited access to pictures and number of users</p>
+                        </li>
+                    </ul>
+                    <p>To get around we found a <a href="https://github.com/huttarichard/instagram-private-api">nodejs wrapper on github</a> that emulates a virtual app and queries Instagram’s internal API. As such, we were able to bypass the limits. That's how we ended up with more than 1000 photos for our data sample. </p>
+                    <br>
+                    <p>Another limitation we faced is that iLight is an exhibition. iLight does not have a permanent geo-tagged location (i.e, coordinates) on Instagram. Hence </p>
+                    <ul>
+                        <li>
+                            <p>We had to decide on a common location tag to query: #ilight</p>
+                        </li>
+                        <li>
+                            <p>We cannot rely on coordinates to know which photos were taken at which exhibits</p>
+                        </li>
+                    </ul>
+                    <p>Thus, this resulted in all photos having to be manually sorted, using <a href="https://www.ilightmarinabay.sg/Discover/Festival%20Map">iLight's official map</a> to guide us on how each exhibits looked like.</p>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-lg-10 col-lg-offset-1" style="color: black">
                 <p>some description</p>
             </div>
         </div>
         <div class="row">
-            <p>What kind of photos did people take (Average color)?</p>
+            <h2>What kind of photos did people take (Average color)?</h2>
             <div class="col-lg-12" id="averageColor">
 
             </div>
         </div>
         <div class="row">
-            <p>What kind of photos did people take (Composition)?</p>
+            <h2>What kind of photos did people take (Composition)?</h2>
             <div class="col-lg-12" id="compositionBreakdown"></div>
         </div>
         <div class="row">
-            <p>What were the most popular exhibits (composition) ? </p>
+            <h2>What were the most popular exhibits (composition) ? </h2>
             <div class="col-lg-12" id="exhibitBreakdown">
 
             </div>
         </div>
         <div class ="row">
-            <p>Why were some exhibits more popular than others?</p>
+            <h2>Why were some exhibits more popular than others?</h2>
             <div id="daysWeek">
             </div>
         </div>
         <div class="row">
-            <p>What kind of words do people use to describe iLight?</p>
+            <h2>What kind of words do people use to describe iLight?</h2>
             <object type="image/svg+xml" data="data/worldcloud.svg">             
                 </object>
         </div>
         <div class="row">
-            <p>Putting it all together</p>
+            <h2>Putting it all together</h2>
             <div id="spatialMap"></div>
         </div>
 
     </section>
 <!-- About Section -->
-    <section id="about" class="content-section text-center" >
-        <div class="row">
-            <div class="container">
-                <div class="col-lg-10 col-lg-offset-1" style="color: #008080" >
-                    <h2>How we did the project</h2>
-                    <p>We wanted to work on a visualisation using Instagram. However, we did not know our question yet. As Instagram’s official API (application programming interface) is restrictive, we have to ensure that our question will be within the scope of data we can collect. 
-
-                    This year, iLight was an exhibition held from 3rd to 26th March at Marina Bayfront. As it was a popular event with Instagram users and its exhibitions were all instagram worthy, we felt that iLight is an event that can be visualised through Instagram. 
-
-                    As such, our question became: <br><br><b>“Can we see trends for iLight 2017 through Instagram?”</b>
-                    </p>
-                    <h2>Getting the Data</h2>
-                    <p>Our data came from public accounts in Instagram. As we had restrictions (explained below), we used a combination of node.js and Instagram API to scrap photos tagged #iLight. Next, comments and date of post was scrapped using javascript and downloaded as a CSV file.</p>
-                    
-                    <h2>Cleaning and Classifying Data</h2>
-                    <p>The original CSV file was badly formatted and such was cleaned using R before being reexported. The dates were in time since epoch and thus had to be converted to date format. 
-                    <br>
-                    Thee photographs were manually sorted as shown below:
-                    </p>
-                    <img src="data/classifying_excel.PNG" width="600px"></img>
-                <p>- Photo Num: corresponds to the names of the photos that we had queried 
-                    <br>- Time: general time of the day that the photo was taken <br>(day/night/unknown)
-                <br>- Group type: the type of human subject found in the photo <br>(single female/single male/couple/group)
-                <br>-exhibition: name of the exhibit/location of photo. If the location cannot be identified, "unknown" was used. If the location was in the Marina Area but not of iLight, a "marina" tag was used.
-                </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Problems Faced Section -->
-    <section id="problems" class="container content-section ">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2" style="color: white">
-                <h2>Problems and Limitations Faced</h2>
-                <p>The <a href="https://www.instagram.com/developer">official Instagram API</a> is quite restrictive due to us not being an approved developer.</p>
-                <p>Restrictions that affected us are</p>
-                
-                <ul >
-                    <li>
-                        <p>Any developers (sandbox mode) must be approve by Instagram before release of their apps (live mode)</p>
-                    </li>
-                    <li>
-                      <p>Hence, we had limited access to pictures and number of users</p>
-                    </li>
-                </ul>
-                <p>To get around we found a <a href="https://github.com/huttarichard/instagram-private-api">nodejs wrapper on github</a> that emulates a virtual app and queries Instagram’s internal API. As such, we were able to bypass the limits. That's how we ended up with more than 1000 photos for our data sample. </p>
-                <br>
-                <p>Another limitation we faced is that iLight is an exhibition. iLight does not have a permanent geo-tagged location (i.e, coordinates) on Instagram. Hence </p> 
-                <ul>
-                <li>
-                    <p>We had to decide on a common location tag to query: #ilight</p> 
-                    </li>
-                    <li>
-                    <p>We cannot rely on coordinates to know which photos were taken at which exhibits</p>
-                    </li>
-                </ul>
-                <p>Thus, this resulted in all photos having to be manually sorted, using <a href="https://www.ilightmarinabay.sg/Discover/Festival%20Map">iLight's official map</a> to guide us on how each exhibits looked like.</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Map Section -->
-    <div id="map"></div>
 
     <!-- Footer -->
     <footer>
