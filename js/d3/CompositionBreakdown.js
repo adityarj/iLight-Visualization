@@ -130,7 +130,7 @@ d3.csv("data/photoData.csv",function (error,data) {
         .attr("width", function(d) { return 1500; })
         .attr("height", function(d) { return 1000 })
         .append("image")
-        .style("opacity",0.6)
+        .style("opacity",0.5)
         .attr("width",function (d, i) {
             if (d.data.group === "none") {
                 return 700;
@@ -156,7 +156,9 @@ d3.csv("data/photoData.csv",function (error,data) {
         .style("font-size",20)
         .attr("transform",function (d,i) {
             if (d.data.group === "single female" && d.data.name === "day" || d.data.group === "single male" && d.data.name=== "day") {
-                return "translate(5,150) rotate(-90)";
+                return "translate(5,-150) rotate(-90)";
+            } else {
+                return "translate("+(d.x1-d.x0 -150)/2+","+(d.y1-d.y0 - 20)/2+")";
             }
             return null;
         })
