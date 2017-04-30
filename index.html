@@ -133,20 +133,18 @@
     <section class="container content-section text-center"  style="background-color: white" id="about">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1" style="color: #080808" >
-                <h2>How we did the project</h2>
-                <p>We wanted to work on a visualisation using Instagram. However, we did not know our question yet. As Instagram’s official API (application programming interface) is restrictive, we have to ensure that our question will be within the scope of data we can collect.
+                <h2>iLight 2017</h2>
+                <p>iLight 2017 was extremely popular with the youth of Singapore. Open for a month from 3rd to 26th March at Marina Bayfront, it was thronged by youngsters looking for a chance to escape the monotone of their lives and experience a plethora of colors. Many took to instagram to show their creative side with photos. Thus, we were extremely interested if we could capture this phenomenon.
 
-                    This year, iLight was an exhibition held from 3rd to 26th March at Marina Bayfront. As it was a popular event with Instagram users and its exhibitions were all instagram worthy, we felt that iLight is an event that can be visualised through Instagram.
-
-                    As such, our question became: <br><br><b>“Can we see trends for iLight 2017 through Instagram?”</b>
+                    As such, our question was: <br><br><b>“Can we see trends for iLight 2017 through Instagram?”</b>
                 </p>
-                <h2>Getting the Data</h2>
-                <p>Our data came from public accounts in Instagram. As we had restrictions (explained below), we used a combination of node.js and Instagram API to scrap photos tagged #iLight. Next, comments and date of post was scrapped using javascript and downloaded as a CSV file.</p>
+                <h2>Curating the Data</h2>
+                <p>Our data came from public accounts in Instagram. Instragram does not provide an official API for us to use, thus we used a <a href="https://github.com/huttarichard/instagram-private-api">nodejs wrapper</a> to simulate a phone making internal API requests to instagram to collect photos with the tag #iLight. The pictures from the data were downloaded and the corresponding pictures data was put into csv format for further classification.</p>
 
                 <h2>Cleaning and Classifying Data</h2>
                 <p>The original CSV file was badly formatted and such was cleaned using R before being reexported. The dates were in time since epoch and thus had to be converted to date format.
                     <br>
-                    Thee photographs were manually sorted as shown below:
+                    The photographs were manually sorted as shown below:
                 </p>
                 <img src="data/classifying_excel.PNG" width="600px"></img>
                 <p>- Photo Num: corresponds to the names of the photos that we had queried
@@ -154,35 +152,10 @@
                     <br>- Group type: the type of human subject found in the photo <br>(single female/single male/couple/group)
                     <br>-exhibition: name of the exhibit/location of photo. If the location cannot be identified, "unknown" was used. If the location was in the Marina Area but not of iLight, a "marina" tag was used.
                 </p>
-                    <h2>Problems and Limitations Faced</h2>
-                    <p>The <a href="https://www.instagram.com/developer">official Instagram API</a> is quite restrictive due to us not being an approved developer.</p>
-                    <p>Restrictions that affected us are</p>
-
-                    <ul >
-                        <li>
-                            <p>Any developers (sandbox mode) must be approve by Instagram before release of their apps (live mode)</p>
-                        </li>
-                        <li>
-                            <p>Hence, we had limited access to pictures and number of users</p>
-                        </li>
-                    </ul>
-                    <p>To get around we found a <a href="https://github.com/huttarichard/instagram-private-api">nodejs wrapper on github</a> that emulates a virtual app and queries Instagram’s internal API. As such, we were able to bypass the limits. That's how we ended up with more than 1000 photos for our data sample. </p>
-                    <br>
-                    <p>Another limitation we faced is that iLight is an exhibition. iLight does not have a permanent geo-tagged location (i.e, coordinates) on Instagram. Hence </p>
-                    <ul>
-                        <li>
-                            <p>We had to decide on a common location tag to query: #ilight</p>
-                        </li>
-                        <li>
-                            <p>We cannot rely on coordinates to know which photos were taken at which exhibits</p>
-                        </li>
-                    </ul>
-                    <p>Thus, this resulted in all photos having to be manually sorted, using <a href="https://www.ilightmarinabay.sg/Discover/Festival%20Map">iLight's official map</a> to guide us on how each exhibits looked like.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1" style="color: black">
-                <p>some description</p>
             </div>
         </div>
         <div class="col-lg-10 col-lg-offset-1">
