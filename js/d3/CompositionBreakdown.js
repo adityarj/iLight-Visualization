@@ -162,7 +162,10 @@ d3.csv("data/photoData.csv",function (error,data) {
         })
         .attr("clip-path", function(d) { return "url(#clip-" + d.data.id + ")"; })
         .selectAll("tspan")
-        .data(function(d) { console.log(d.data); return d.data.group.split(/(?=[A-Z][^A-Z])/g); })
+        .data(function(d) {
+            var string = d.data.group+" ("+d.data.name+")";
+            return string.split(/(?=[A-Z][^A-Z])/g);
+        })
         .enter().append("tspan")
         .attr("x", 4)
         .attr("y", function(d, i) { return 20 + i * 10; })
