@@ -14,7 +14,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -32,8 +32,8 @@
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
+    <![endif]-->
 </head>
 
 <style type="text/css">
@@ -65,6 +65,11 @@
         width: 0.88px;
         height: 20px;
         float: left;
+    }
+
+    #spatialMap {
+        width: 100%;
+        height: 700px;
     }
 </style>
 
@@ -164,7 +169,7 @@
         </div>
         <div class="row">
             <p>Putting it all together</p>
-            <div id="#spatialMap"></div>
+            <div id="spatialMap"></div>
         </div>
 
     </section>
@@ -259,7 +264,8 @@
     <!-- D3.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.8.0/d3.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
-    
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+
 
     <!-- Scripts -->
     <script src="js/d3/AverageColor.js"></script>
@@ -269,8 +275,6 @@
     <script src="https://d3js.org/d3-dispatch.v1.min.js"></script>s
     <script src="js/d3/DaysWeek.js"></script>
     <script src="js/d3/SpatialMap.js"></script>
- <!--    <script src="https://cdn.rawgit.com/emeeks/3361332/raw/61cf57523fe8cf314333e5f60cc266351fec2017/d3.layout.cloud.js"></script>
- -->
     <script src="js/d3/CompositionBreakdown.js"></script>
 
 </body>
