@@ -153,10 +153,8 @@ d3.csv("data/photoData.csv",function (error, data) {
             colors.forEach(function(e,i) {
                 if (Object.keys(e)[0] == d.key) {
                     color = e[Object.keys(e)[0]];
-                    console.log(color);
                 }
             });
-            console.log(d.value.day,d.value.night);
             newDataSet.push({name: d.key, size: d.value.night,color: "#" + color});
         });
 

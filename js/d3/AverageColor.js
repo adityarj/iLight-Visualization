@@ -99,6 +99,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         .enter()
         .append("text")
         .attr("class","perMarkers")
+        .style("font-family","Dosis")
         .attr("x",function (d,i) {
             return d - 6;
         })
@@ -107,10 +108,12 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         });
 
     labels.append("text")
+        .style("font-family","Dosis")
         .attr("x",(positionMarkers[0]+positionMarkers[1])/2 - 15)
         .text("Blue");
 
     labels.append("text")
+        .style("font-family","Dosis")
         .attr("x",(positionMarkers[1]+positionMarkers[2])/2 - 15)
         .text("Purple");
 
@@ -140,6 +143,7 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         .attr("fill","rgb("+88+","+78+","+115+")");
 
     image.append("text")
+        .style("font-family","Dosis")
         .attr("id","imageLabel")
         .attr("x",320)
         .attr("y",220)

@@ -41,7 +41,7 @@ function dashboard(id, fData){
         .attr("y", -10)
         .attr("text-anchor", "middle")
         .style("font-size", "16px")
-        .style("text-decoration", "underline")
+            .style("font-family","Dosis")
         .text("");
 
         var x = d3.scaleBand().rangeRound([0, hGDim.w], 0.1)
@@ -67,6 +67,7 @@ function dashboard(id, fData){
             .on("mouseout",mouseout);// mouseout is defined below.
             
         bars.append("text").text(function(d){ return d3.format(",")(d[1])})
+            .style("font-family","Dosis")
             .attr("x", function(d) { return x(d[0])+x.bandwidth()/2; })
             .attr("y", function(d) { return y(d[1])-5; })
             .attr("text-anchor", "middle");
@@ -119,8 +120,7 @@ function dashboard(id, fData){
         .attr("x", 0)
         .attr("y", -135)
         .attr("text-anchor", "middle")
-        .style("font-size", "16px")
-        .style("text-decoration", "underline")
+            .style("font-family","Dosis")
         .text("");
 
         var arc = d3.arc().outerRadius(pieDim.r - 30).innerRadius(0);
@@ -171,13 +171,14 @@ function dashboard(id, fData){
             .attr("width", '16').attr("height", '16')
       .attr("fill",function(d){ return segColor(d.type); });
             
-        tr.append("td").text(function(d){ return d.type;});
+        tr.append("td")
+            .style("font-family","dosis")
+            .text(function(d){ return d.type;});
 
         tr.append("td").attr("class",'legendFreq')
+            .style("font-family","dosis")
             .text(function(d){ return d3.format(",")(d.freq);});
 
-        // tr.append("td").attr("class",'legendPerc')
-        //     .text(function(d){ return getLegend(d,lD);});
 
         leg.update = function(nD){
             var l = legend.select("tbody").selectAll("tr").data(nD);
