@@ -115,9 +115,19 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         .text("Purple");
 
     var image = svg.append("g")
-        .attr("transform","translate("+margin+","+margin+")");
+        .attr("transform","translate("+margin+","+150+")");
 
-    image.append("image")
+    image.append("rect")
+        .attr("width",300)
+        .attr("height",200)
+        .attr("fill","url(#imagePattern)");
+
+    image.append("pattern")
+        .attr("id","imagePattern")
+        .attr("patternUnits","userSpaceOnUse")
+        .attr("width",300)
+        .attr("height",500)
+        .append("image")
         .attr("id","imageLink")
         .attr("xlink:href","data/pics/249.jpg")
         .attr("width",300);
@@ -134,6 +144,24 @@ d3.csv("data/rgbVals.csv",function (error,data) {
         .attr("x",320)
         .attr("y",220)
         .text("rgb(88,78,115)");
+
+    image.append("text")
+        .style("font-size",18)
+        .style("font-family","Dosis")
+        .attr("id","imageDescription")
+        .attr("x",640)
+        .attr("width",50)
+        .append("tspan")
+        .attr("dy",24)
+        .text("Each strip represents an image sorted according to hue.")
+        .append("tspan")
+        .attr("dy",24)
+        .attr("x",640)
+        .text("Hover over the image to see the image and its average color.")
+        .append("tspan")
+        .attr("dy",24)
+        .attr("x",640)
+        .text("The strip below serves as a reference with pure hue.");
 
 });
 
