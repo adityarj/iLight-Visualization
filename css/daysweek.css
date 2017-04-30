@@ -2,6 +2,10 @@ body {
     color: black;
 }
 
+.list {
+    text-align: left;
+}
+
 path {
     stroke: #fff;
  }
