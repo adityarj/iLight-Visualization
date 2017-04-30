@@ -83,7 +83,11 @@ d3.csv("data/photoData.csv",function (error, data) {
         },
         {"eco.me":"E9F1F0"
         },
-        {"marina":"8a94c9"}];
+        {"marina":"8a94c9"},
+        {"relocating locality":"43fbe0"
+        },
+        {"pasarbella" :"938869"
+        }];
 
     var newDataSet = [];
     var arrayData = d3.entries(processedData);

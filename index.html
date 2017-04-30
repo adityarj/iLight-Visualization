@@ -141,16 +141,12 @@
                 <h2>Curating the Data</h2>
                 <p>Our data came from public accounts in Instagram. Instragram does not provide an official API for us to use, thus we used a <a href="https://github.com/huttarichard/instagram-private-api">nodejs wrapper</a> to simulate a phone making internal API requests to instagram to collect photos with the tag #iLight. The pictures from the data were downloaded and the corresponding pictures data was put into csv format for further classification.</p>
 
+                <h2>Getting the Data</h2>
+                <p>Our data came from public accounts in Instagram. As we had restrictions (explained below), we used a combination of node.js and Instagram API to scrape photos tagged #iLight. Next, comments and date of post was scrapped using javascript and downloaded as a CSV file.</p>
+
                 <h2>Cleaning and Classifying Data</h2>
                 <p>The original CSV file was badly formatted and such was cleaned using R before being reexported. The dates were in time since epoch and thus had to be converted to date format.
-                    <br>
-                    The photographs were manually sorted as shown below:
-                </p>
-                <img src="data/classifying_excel.PNG" width="600px"></img>
-                <p>- Photo Num: corresponds to the names of the photos that we had queried
-                    <br>- Time: general time of the day that the photo was taken <br>(day/night/unknown)
-                    <br>- Group type: the type of human subject found in the photo <br>(single female/single male/couple/group)
-                    <br>-exhibition: name of the exhibit/location of photo. If the location cannot be identified, "unknown" was used. If the location was in the Marina Area but not of iLight, a "marina" tag was used.
+                    Thee photographs were manually sorted according to number of people, time of day and the exhibit based on the iLight festival map.
                 </p>
             </div>
         </div>
