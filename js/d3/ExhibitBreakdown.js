@@ -53,7 +53,7 @@ d3.csv("data/photoData.csv",function (error, data) {
         },
         {"moonflower" :"92909D"
         },
-        {"northen lights":"4EDCFF"
+        {"northern lights":"009445"
         },
         {"ocean pavilion":"085DB7"
         },
@@ -69,7 +69,7 @@ d3.csv("data/photoData.csv",function (error, data) {
         },
         {"the urchin":"FAFBF5"
         },
-        {"ultra light network":"FEFFFD"
+        {"ultra light network":"ff8005"
         },
         {"uncle ringo":"AA331F"
         },
@@ -79,7 +79,7 @@ d3.csv("data/photoData.csv",function (error, data) {
         },
         {"you lookin' at me?":"00F1E3"
         },
-        {"waterfront bazaar":"38645"
+        {"waterfront bazaar":"06914c"
         },
         {"eco.me":"E9F1F0"
         },

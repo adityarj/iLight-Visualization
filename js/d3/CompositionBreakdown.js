@@ -156,7 +156,6 @@ d3.csv("data/photoData.csv",function (error,data) {
         .style("font-size",20)
         .attr("transform",function (d,i) {
             if (d.data.group === "single female" && d.data.name === "day" || d.data.group === "single male" && d.data.name=== "day") {
-                console.log(d.data.group);
                 return "translate(5,150) rotate(-90)";
             }
             return null;

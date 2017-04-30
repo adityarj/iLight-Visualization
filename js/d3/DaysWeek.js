@@ -1,20 +1,20 @@
 function dashboard(id, fData){
     var barColor = 'steelblue';
     function segColor(c){ return {
-        "HYBYCOZO":"#a6cee3",
-        "artbox":"#1f78b4",
-        "artzoo":"#b2df8a",
-        "colourful garden of lights":"#33a02c",
-        "dande-lier":"#fb9a99",
-        "gastrobeats":"#e31a1c",
-        "home":"#fdbf6f",
-        "horizontal interference":"#ff7f00",
-        "moonflower":"#cab2d6",
-        "ocean pavilion":"#6a3d9a",
-        "passage of inner reflection":"#ffff99",
-        "the urchin":"#b15928",
-        "ultra light network":"#d9d9d9",
-        "uncle ringo":"#8dd3c7"
+        "HYBYCOZO":"#002A49",
+        "artbox":"#000000",
+        "artzoo":"#C1C0E0",
+        "colourful garden of lights":"#3E1283",
+        "dande-lier":"#AFCCEA",
+        "gastrobeats":"#4245B6",
+        "home":"#F9F8FD",
+        "horizontal interference":"#AD79FF",
+        "moonflower":"#92909D",
+        "ocean pavilion":"#085DB7",
+        "passage of inner reflection":"#C9CCDB",
+        "the urchin":"#FAFBF5",
+        "ultra light network":"#ff8005",
+        "uncle ringo":"#AA331F"
     }[c]; }
     
     fData.forEach(function(d){

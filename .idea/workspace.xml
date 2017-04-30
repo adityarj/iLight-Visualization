@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bf1fc7-39e3-43d7-99a4-b2ebcbddcc6e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" afterPath="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/d3/DaysWeek.js" afterPath="$PROJECT_DIR$/js/d3/DaysWeek.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/d3/ExhibitBreakdown.js" afterPath="$PROJECT_DIR$/js/d3/ExhibitBreakdown.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,14 +16,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="ExhibitBreakdown.js" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/js/d3/ExhibitBreakdown.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="305">
+                    <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="d3-cloud.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/d3-cloud.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="356" column="9" lean-forward="false" selection-start-line="356" selection-start-column="9" selection-end-line="356" selection-end-column="9" />
+            <state relative-caret-position="1428">
+              <caret line="362" column="22" lean-forward="true" selection-start-line="362" selection-start-column="22" selection-end-line="362" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -45,18 +67,18 @@
       <file leaf-file-name="AverageColor.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/d3/AverageColor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="210" column="13" lean-forward="false" selection-start-line="210" selection-start-column="13" selection-end-line="210" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExhibitBreakdown.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/d3/ExhibitBreakdown.js">
+      <file leaf-file-name="DaysWeek.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/d3/DaysWeek.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="159" column="61" lean-forward="false" selection-start-line="159" selection-start-column="61" selection-end-line="159" selection-end-column="61" />
+            <state relative-caret-position="501">
+              <caret line="235" column="21" lean-forward="false" selection-start-line="235" selection-start-column="11" selection-end-line="235" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -65,18 +87,18 @@
       <file leaf-file-name="photoPerEvent.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/photoPerEvent.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpatialMap.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SpatialMap.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/d3/SpatialMap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="95" column="29" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+            <state relative-caret-position="331">
+              <caret line="137" column="43" lean-forward="false" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -85,8 +107,8 @@
       <file leaf-file-name="CompositionBreakdown.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/d3/CompositionBreakdown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -105,7 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>console</find>
       <find>249</find>
       <find>conso</find>
       <find>format</find>
@@ -114,6 +135,14 @@
       <find>about</find>
       <find>what were</find>
       <find>the body</find>
+      <find>northern</find>
+      <find>norther</find>
+      <find>rela`</find>
+      <find>pas</find>
+      <find>waterfr</find>
+      <find>console</find>
+      <find>console.lo</find>
+      <find>console.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,10 +158,11 @@
         <option value="$PROJECT_DIR$/data/ilight.geo.json" />
         <option value="$PROJECT_DIR$/data/photoPerEvent.csv" />
         <option value="$PROJECT_DIR$/js/d3/SpatialMap.js" />
-        <option value="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" />
         <option value="$PROJECT_DIR$/js/d3/AverageColor.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/d3/ExhibitBreakdown.js" />
+        <option value="$PROJECT_DIR$/js/d3/DaysWeek.js" />
+        <option value="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" />
       </list>
     </option>
   </component>
@@ -389,12 +419,12 @@
       <workItem from="1493434448066" duration="5340000" />
       <workItem from="1493440793900" duration="4344000" />
       <workItem from="1493519586789" duration="13116000" />
-      <workItem from="1493540933325" duration="14080000" />
+      <workItem from="1493540933325" duration="15343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90095000" />
+    <option name="totallyTimeSpent" value="91358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1552" height="840" extended-state="6" />
@@ -753,13 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/d3/DaysWeek.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/d3-cloud.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -795,14 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
           <caret line="227" column="13" lean-forward="false" selection-start-line="227" selection-start-column="4" selection-end-line="227" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/d3-cloud.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="356" column="9" lean-forward="false" selection-start-line="356" selection-start-column="9" selection-end-line="356" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,24 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/d3/CompositionBreakdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/d3/SpatialMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="95" column="29" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
@@ -877,26 +874,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/d3/AverageColor.js">
+    <entry file="file://$PROJECT_DIR$/data/photoPerEvent.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/photoPerEvent.csv">
+    <entry file="file://$PROJECT_DIR$/js/d3-cloud.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="1428">
+          <caret line="362" column="22" lean-forward="true" selection-start-line="362" selection-start-column="22" selection-end-line="362" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/d3/ExhibitBreakdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="159" column="61" lean-forward="false" selection-start-line="159" selection-start-column="61" selection-end-line="159" selection-end-column="61" />
+        <state relative-caret-position="305">
+          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/d3/CompositionBreakdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/d3/AverageColor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="210" column="13" lean-forward="false" selection-start-line="210" selection-start-column="13" selection-end-line="210" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/d3/DaysWeek.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="235" column="21" lean-forward="false" selection-start-line="235" selection-start-column="11" selection-end-line="235" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/d3/SpatialMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="137" column="43" lean-forward="false" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
           <folding />
         </state>
       </provider>
