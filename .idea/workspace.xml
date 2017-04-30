@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bf1fc7-39e3-43d7-99a4-b2ebcbddcc6e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/d3/AverageColor.js" afterPath="$PROJECT_DIR$/js/d3/AverageColor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" afterPath="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,21 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AverageColor.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/d3/AverageColor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="128" column="26" lean-forward="false" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompositionBreakdown.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CompositionBreakdown.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/d3/CompositionBreakdown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="147" column="21" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="21" />
+            <state relative-caret-position="127">
+              <caret line="147" column="26" lean-forward="true" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -100,8 +89,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data/photoPerEvent.csv" />
         <option value="$PROJECT_DIR$/js/d3/SpatialMap.js" />
-        <option value="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" />
         <option value="$PROJECT_DIR$/js/d3/AverageColor.js" />
+        <option value="$PROJECT_DIR$/js/d3/CompositionBreakdown.js" />
       </list>
     </option>
   </component>
@@ -358,12 +347,12 @@
       <workItem from="1493434448066" duration="5340000" />
       <workItem from="1493440793900" duration="4344000" />
       <workItem from="1493519586789" duration="13116000" />
-      <workItem from="1493540933325" duration="7576000" />
+      <workItem from="1493540933325" duration="8757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83591000" />
+    <option name="totallyTimeSpent" value="84772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1552" height="840" extended-state="6" />
@@ -848,6 +837,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/d3/AverageColor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="125" column="34" lean-forward="true" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -864,19 +861,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/d3/CompositionBreakdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="147" column="21" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="21" />
+        <state relative-caret-position="127">
+          <caret line="147" column="26" lean-forward="true" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/d3/AverageColor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="128" column="26" lean-forward="false" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>

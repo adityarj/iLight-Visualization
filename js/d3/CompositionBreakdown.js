@@ -150,6 +150,7 @@ d3.csv("data/photoData.csv",function (error,data) {
         .append("use")
         .attr("xlink:href", function(d) { return "#" + d.data.id; });
 
+
     cell.append("text")
         .style("font-family","Dosis")
         .style("font-size",20)
