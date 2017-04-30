@@ -23,9 +23,69 @@ d3.csv("data/photoData.csv",function (error, data) {
     });
 
     var width = 1080, height = 900, margin = 20;
+    var colors = [
+        {
+            "artzoo" :"C1C0E0"
+        },
+        {
+            "artzoo":"C1C0E0"
+        },
+        {
+            "ataraxia": "F03ECA"
+        },
+        {"colourful garden of lights":"3E1283"
+        },
+        {"dande-lier": "AFCCEA"
+        },
+        {"forever young!":"E5A683"
+        },
+        {"i light you so much": "674819"
+        },
+        {"gastrobeats": "4245B6"
+        },
+        {"home":"F9F8FD"
+        },
+        {"horizontal interference":"AD79FF"
+        },
+        {"HYBYCOZO":"002A49"
+        },
+        {"kaldeioscope monolith":"534B49"
+        },
+        {"moonflower" :"92909D"
+        },
+        {"northen lights":"4EDCFF"
+        },
+        {"ocean pavilion":"085DB7"
+        },
+        {"passage of inner reflection":"C9CCDB"
+        },
+        {"secret galaxies":"7E8564"
+        },
+        {"silent disco asia":"710B20"
+        },
+        {"social sparkles":"7C7563"
+        },
+        {"the body of sea":"FBFF6D"
+        },
+        {"the urchin":"FAFBF5"
+        },
+        {"ultra light network":"FEFFFD"
+        },
+        {"uncle ringo":"AA331F"
+        },
+        {"very glowing exhibition - very wishing river":"6091FA"
+        },
+        {"waves":"B46739"
+        },
+        {"you lookin' at me?":"00F1E3"
+        },
+        {"waterfront bazaar":"38645"
+        },
+        {"eco.me":"E9F1F0"
+        },
+        {"marina":"8a94c9"}];
 
     var newDataSet = [];
-    var colors = ["#21a4af","#1eda95","#1b3aec","#7a5468"];
     var arrayData = d3.entries(processedData);
 
     var bubble = d3.pack()
@@ -89,7 +149,15 @@ d3.csv("data/photoData.csv",function (error, data) {
 
     function processData(data) {
         data.forEach(function (d,i) {
-            newDataSet.push({name: d.key, size: d.value.night + d.value.day,color: colors[i%4]});
+            var color = "black";
+            colors.forEach(function(e,i) {
+                if (Object.keys(e)[0] == d.key) {
+                    color = e[Object.keys(e)[0]];
+                    console.log(color);
+                }
+            });
+            console.log(d.value.day,d.value.night);
+            newDataSet.push({name: d.key, size: d.value.night,color: "#" + color});
         });
 
         return {children: newDataSet};
